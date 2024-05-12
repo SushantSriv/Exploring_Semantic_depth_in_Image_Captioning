@@ -1,0 +1,1586 @@
+[
+    {
+        "image_id": 488349,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000488349.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a stove and sink in it",
+            "gpt2": "a kitchen with a stove, sink, and a refrigerator ",
+            "pix2struct": "A computer monitor with a screen that says '12:12'"
+        },
+        "original_coco_captions": [
+            "An angled view from the kitchen of an unfurnished home.",
+            "A view of a small kitchen area and an entry area beyond that.",
+            "The view of a kitchen from above leading into a dining room.",
+            "A kitchen has a stove burner on the counter.",
+            "A view of kitchen, dining area and living room of a house."
+        ]
+    },
+    {
+        "image_id": 22656,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000022656.jpg",
+        "generated_captions": {
+            "blip": "a man taking a picture of himself in a bathroom",
+            "gpt2": "a man in a bathroom brushing his teeth ",
+            "pix2struct": "A man wearing a red shirt that says Nivas on it."
+        },
+        "original_coco_captions": [
+            "A man is taking a picture of his bathroom sink.",
+            "a man taking a picture in the mirror of him self",
+            "a boy is looking at his cellphone in a bathroom",
+            "A man is in the bathroom holding a camera.",
+            "a man taking a picture of himself in a mirror"
+        ]
+    },
+    {
+        "image_id": 131804,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000131804.jpg",
+        "generated_captions": {
+            "blip": "a man walking on the road",
+            "gpt2": "a man standing next to a motorcycle on a dirt road ",
+            "pix2struct": "A man wearing a shirt that says \"FETCH\" is riding a bike."
+        },
+        "original_coco_captions": [
+            "A man with oil changing items next to a motorcycle.",
+            "A man is walking near a sports bike",
+            "A man walking beside his parked motorcycle on a mountain side road.",
+            "Man in gray shirt and sandals walking is street in front of red and black motorcycle.",
+            "A man walks by a motorcycle and all of the items left by the motorcyclist."
+        ]
+    },
+    {
+        "image_id": 258266,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000258266.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a bowl on the counter",
+            "gpt2": "a kitchen with a white counter top and a white sink ",
+            "pix2struct": "A kitchen with a fridge and a fridge that says'reel'."
+        },
+        "original_coco_captions": [
+            "A bowl of food sitting on top of a white kitchen counter.",
+            "a large number of white cabinets in a kitchen",
+            "A white modern kitchen is on display in this photo.",
+            "A spotless white kitchen with some sort of platter on the counter.",
+            "A white kitchen counter with a big, brown bowl on it."
+        ]
+    },
+    {
+        "image_id": 433504,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000433504.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a table and a chair",
+            "gpt2": "a room with a table and a chair ",
+            "pix2struct": "A clock that says 10:00 on the face of it."
+        },
+        "original_coco_captions": [
+            "The view of a room with several different utensils displayed on shelves.",
+            "A kitchen scene taken from a hallway looking at the table.",
+            "The wall has a couple of shelves on it.",
+            "A black and white photo of a room in a house.",
+            "We are looking through a door at a will with shelves."
+        ]
+    },
+    {
+        "image_id": 557677,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000557677.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a toilet, sink, and shower",
+            "gpt2": "a bathroom with a toilet, sink, and shower ",
+            "pix2struct": "A red and white box that says 'diti' on it"
+        },
+        "original_coco_captions": [
+            "A bathroom with a white toilet sitting next to a  white tub.",
+            "A bathroom with large tiles and an orange towel hanging on the shower.",
+            "a bathroom that has a tub and a toilet",
+            "A bathroom with a sink, toilet, and shower",
+            "A bathroom with a shower, toilet, sink and other accessories"
+        ]
+    },
+    {
+        "image_id": 319696,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000319696.jpg",
+        "generated_captions": {
+            "blip": "a red microwave sitting on a counter in a kitchen",
+            "gpt2": "a microwave oven sitting on top of a counter ",
+            "pix2struct": "A person is holding a phone that says Emerson on it."
+        },
+        "original_coco_captions": [
+            "A red microwave on a tile kitchen counter.",
+            "bright red microwave sitting on the kitchen counter",
+            "there is a red and black microwave on a counter",
+            "A microwave oven is sitting on a counter.",
+            "a microwave sits on top of a counter "
+        ]
+    },
+    {
+        "image_id": 501523,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000501523.jpg",
+        "generated_captions": {
+            "blip": "a black cat sitting in a sink",
+            "gpt2": "a black cat sitting in a bathroom sink ",
+            "pix2struct": "A person is holding a box of a 2000 brand watch."
+        },
+        "original_coco_captions": [
+            "A black cat is sitting in a bathroom sink.",
+            "A cat laying down in a bathroom sink. ",
+            "A black cat sits in a white bathroom sink.",
+            "A black cat that is sitting in a sink.",
+            "A BLACK CAT SITTING INSIDE OF A SINK IN THE BATHROOM "
+        ]
+    },
+    {
+        "image_id": 328530,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000328530.jpg",
+        "generated_captions": {
+            "blip": "two plates of food on a table with a rolling rolling rolling",
+            "gpt2": "a table topped with a pizza and a plate of food ",
+            "pix2struct": "A table full of food including a bottle of Tabs."
+        },
+        "original_coco_captions": [
+            "Two white plates sit on the edge of a table holding pizza slices with fried eggs on them.",
+            "a close up of two slices of pizza on two plates",
+            "A wooden table with slices of pizza on it.",
+            "on this table there are two plates of pizza",
+            "A wooden rolling pin on a table nears some pizza topped with eggs."
+        ]
+    },
+    {
+        "image_id": 470313,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000470313.jpg",
+        "generated_captions": {
+            "blip": "mirror on the wall",
+            "gpt2": "a woman taking a picture of herself in a mirror ",
+            "pix2struct": "A man is holding a phone that says 10."
+        },
+        "original_coco_captions": [
+            "A girl takes a picture of herself in the mirror.",
+            "A woman takes a picture of herself in a bathroom mirror. ",
+            "A woman takes a picture in front of the mirror.",
+            "A woman taking a selfie in a bathroom mirror.",
+            "A woman wearing a white shirt and black vest looks into a mirror while holding a camera."
+        ]
+    },
+    {
+        "image_id": 415218,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000415218.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a stove and a sink",
+            "gpt2": "a kitchen with a sink, stove, and a counter ",
+            "pix2struct": "A man is holding a bottle of wine that says 'the 1000'"
+        },
+        "original_coco_captions": [
+            "A stop top oven in a kitchen next to a couple of windows.",
+            "An old looking kitchen filled with pots and pans.",
+            "A small kitchen full of pots and pans",
+            "A kitchen containing several pots, pans, and buckets with a sink and dining table in the background.",
+            "a kitchen with a lot of pots and pans "
+        ]
+    },
+    {
+        "image_id": 311902,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000311902.jpg",
+        "generated_captions": {
+            "blip": "a woman in a kitchen",
+            "gpt2": "a woman is mixing a blender in a kitchen ",
+            "pix2struct": "A man is holding a computer with a remote that says Powersoft."
+        },
+        "original_coco_captions": [
+            "A woman preparing food while standing in a kitchen.",
+            "A woman is working with her blender on her kitchen counter. ",
+            "A woman working on a counter next to blender and a microwave.",
+            "A woman cutting up something on a counter next to a blender.",
+            "A woman is preparing a blender on a counter."
+        ]
+    },
+    {
+        "image_id": 373713,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000373713.jpg",
+        "generated_captions": {
+            "blip": "a group of people sitting around a table with laptops",
+            "gpt2": "three men sitting at a table with a laptop ",
+            "pix2struct": "A man stands in front of a TV that says Stability."
+        },
+        "original_coco_captions": [
+            "Three men sit at a conference discussing a topic",
+            "Three people sitting in an office with a big screen on wall",
+            "three men on computers having a discussion with each other",
+            "A group of people sitting next to each other.",
+            "Three people with laptops in a small room."
+        ]
+    },
+    {
+        "image_id": 7125,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000007125.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike down a path",
+            "gpt2": "a man riding a bike down a path next to a lake ",
+            "pix2struct": "A man wearing a black shirt that says \"CUP\" is running."
+        },
+        "original_coco_captions": [
+            "Bicyclists are riding on a trail beside other walkers. ",
+            "A dude on a bike rides quietly across the place",
+            "A road that lines the shoreline with people",
+            "The man was riding the bike in the road",
+            "A biker bikes down the road as people walk on it"
+        ]
+    },
+    {
+        "image_id": 175864,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000175864.jpg",
+        "generated_captions": {
+            "blip": "a man sitting on a chair",
+            "gpt2": "a man sitting on a tennis court holding a tennis racquet ",
+            "pix2struct": "A man wearing a shirt that says Radal is holding a book."
+        },
+        "original_coco_captions": [
+            "AA tennis player sitting down drying himself off",
+            "A tennis player is drying himself off on the bench. ",
+            "a man sitting topless next to the tennis court",
+            "A tennis player sitting down drying his body with a towel.",
+            "A person sitting on a court with a tennis racket."
+        ]
+    },
+    {
+        "image_id": 219492,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000219492.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting in a sink",
+            "gpt2": "a cat laying in a bathroom sink ",
+            "pix2struct": "A bottle of beer next to a glass of beer."
+        },
+        "original_coco_captions": [
+            "THERE IS AN ADULT CAT THAT IS LYING DOWN IN THE SINK ",
+            "A cat laying inside of a white sink under a faucet.",
+            "a cat lounging in a bathroom sink looking at the photographer",
+            "there is a cat that is laying in the sink",
+            "The white and orange cat is laying inside of a bathroom sink."
+        ]
+    },
+    {
+        "image_id": 239252,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000239252.jpg",
+        "generated_captions": {
+            "blip": "a white bathtub",
+            "gpt2": "a bathtub with a white sink and a white bath tub ",
+            "pix2struct": "A white and black watch with the brand name White is on a table."
+        },
+        "original_coco_captions": [
+            "An elaborate contraption on a water faucet for a bathtub.",
+            "Bath tub with metal shower head, vanity mirror, and small utilities compartment. ",
+            "a bath tub with a flexible shower head ",
+            "a fancy shower and faucet attachment and a white tub",
+            "An intricate shower handle in a bathtub. "
+        ]
+    },
+    {
+        "image_id": 93894,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000093894.jpg",
+        "generated_captions": {
+            "blip": "a man sitting at a table in a restaurant",
+            "gpt2": "a restaurant with a table and chairs and a laptop ",
+            "pix2struct": "A store front with a sign that says \"Primke\"."
+        },
+        "original_coco_captions": [
+            "Some people sitting at a table eating in a restaurant.",
+            "Two women and a man sit together in an empty restaurant. ",
+            "The three people are the only ones in the restaurant currently. ",
+            "A restaurant area with computer monitors in the table.",
+            "Group sitting inside a cafeteria having a meal."
+        ]
+    },
+    {
+        "image_id": 102707,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000102707.jpg",
+        "generated_captions": {
+            "blip": "a bottle of water and a green umbrella",
+            "gpt2": "a sink with a bottle of soap and a jar of soap ",
+            "pix2struct": "A man is holding a bottle of wine that says 'a bottle of wine' on it"
+        },
+        "original_coco_captions": [
+            "a bottle a glass and utensils behind a stove",
+            "Cooking utensils are on the backdrop of a stove. ",
+            "A bottle of water that is ornately placed on the back of a stove.",
+            "Utensils and containers line the sink in a kitchen.",
+            "A clear bottle and a glass set behind a burner on a stove"
+        ]
+    },
+    {
+        "image_id": 558671,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000558671.jpg",
+        "generated_captions": {
+            "blip": "a man and his dog in a kitchen",
+            "gpt2": "a woman standing in a kitchen next to a dog ",
+            "pix2struct": "A man is standing in front of a clock that says 10:00."
+        },
+        "original_coco_captions": [
+            "A woman cooking food on a stove while a dog watches.",
+            "a black and white picture of a woman in the kitchen with her dog ",
+            "a man that has a dog standing next to him",
+            "A person and a dog are standing in a cluttered kitchen.",
+            "Man standing in kitchen with dog sitting beside him. "
+        ]
+    },
+    {
+        "image_id": 577946,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000577946.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a stove and a sink",
+            "gpt2": "a kitchen with a stove, pots and pans ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "Some pots and pans that are in a room.",
+            "an old kitchen that has dim lighting ",
+            "a shelf with many items on it next to a table with pots and bowl",
+            "A room full of pots and pans on wooden shelves.",
+            "A photo of an old kitchen with pots and pans everywhere."
+        ]
+    },
+    {
+        "image_id": 205533,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000205533.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a toilet, a shower, and a plant",
+            "gpt2": "a bathroom with a towel hanging on the wall ",
+            "pix2struct": "A man is holding a box of a medicine that says 20 F."
+        },
+        "original_coco_captions": [
+            "A bathroom with powers on a towel rack under a painting.",
+            "Towels are hanging over rods in a bathroom.",
+            "A bathroom with towels hung up and bamboo plants. ",
+            "Three stalks of bamboo grow over a bathroom towel rack.",
+            "Bathroom with many towels hanging to dry out."
+        ]
+    },
+    {
+        "image_id": 158292,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000158292.jpg",
+        "generated_captions": {
+            "blip": "a woman standing in a kitchen with a table",
+            "gpt2": "a woman standing in front of a table with food ",
+            "pix2struct": "A man is cooking in a kitchen with a bottle of wine and a glass of beer."
+        },
+        "original_coco_captions": [
+            "A group of women cooking in a restaurant kitchen.",
+            "some women at a round wooden table are making food",
+            "Group of women cooking in an indoor open kitchen together. ",
+            "A group of women standing in front of round table in an old kitchen.",
+            "A group of women standing near a table."
+        ]
+    },
+    {
+        "image_id": 550552,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000550552.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a table and chairs in it",
+            "gpt2": "a kitchen with a stove, sink, and refrigerator ",
+            "pix2struct": "A store with a sign that says \"Cozy\"."
+        },
+        "original_coco_captions": [
+            "A large kitchen with an  island surrounded by stools.",
+            "A real estate photo shows a kitchen with breakfast nook.",
+            "A kitchen features two tables and chairs and white interior cabinets and white shudders.",
+            "An open, furnished kitchen with dining room table",
+            "This kitchen has wooden ceilings and two tables"
+        ]
+    },
+    {
+        "image_id": 548523,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000548523.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a stove and a sink",
+            "gpt2": "a kitchen with a stove and a counter ",
+            "pix2struct": "A store with a sign that says George Putong."
+        },
+        "original_coco_captions": [
+            "Some steel counters that have various items on them.",
+            "A kitchen with lots of clutter on top of it's counter tops.",
+            "a kitchen filled with assorted bowl and trays\n",
+            "A kitchen area with a stove and various pots and pans.",
+            "A kitchen industrial in look with many things on the counters."
+        ]
+    },
+    {
+        "image_id": 89391,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000089391.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a toilet, sink, and window",
+            "gpt2": "a bathroom with a toilet, sink, and tub ",
+            "pix2struct": "A black and white photo of a kitchen with a 4000 litre water bottle"
+        },
+        "original_coco_captions": [
+            "A small bath room with a sink and toilet.",
+            "a clean looking wash room area with a window on the side ",
+            "A small bathroom is being viewed from a doorway. ",
+            "A small bathroom with a sink next to a toilet.",
+            "A tidy bathroom with a sink, toilet, towel and radiator."
+        ]
+    },
+    {
+        "image_id": 137475,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000137475.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a table and chairs in it",
+            "gpt2": "a kitchen with a table and chairs and a refrigerator ",
+            "pix2struct": "A kitchen with a fridge that says'stollen' on it."
+        },
+        "original_coco_captions": [
+            "A brown kitchen table with four chairs next to a counter.",
+            "a lon view of a brown dining table and chairs in front of a kitchen done in white ",
+            "A kitchen and dining room adjacent to each other.",
+            "An open dining room leading to the kitchen area. ",
+            "The dining room and kitchen are close together. "
+        ]
+    },
+    {
+        "image_id": 520124,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000520124.jpg",
+        "generated_captions": {
+            "blip": "a group of people in a kitchen preparing food",
+            "gpt2": "two women in a kitchen preparing food ",
+            "pix2struct": "A man is holding a book titled \"The Art of the Kitchen\"."
+        },
+        "original_coco_captions": [
+            "some people are standing together around some food",
+            "Three young women work together to prepare food in an industrial kitchen.",
+            "Three young woman working in a kitchen are looking at the camera.",
+            "Three women standing in the middle of a restaurant kitchen, preparing food.",
+            "Women cook salad on a table in a large kitchen."
+        ]
+    },
+    {
+        "image_id": 276488,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000276488.jpg",
+        "generated_captions": {
+            "blip": "a plate of food on a table with a mouse",
+            "gpt2": "a sandwich on a plate with a bottle of beer ",
+            "pix2struct": "A bottle of wine sits next to a glass of beer."
+        },
+        "original_coco_captions": [
+            "a table with a white plate a sandwich and a bottle",
+            "A close-up of a plate of food with tortilla chips and a sandwich.",
+            "A plate on a desk has a partially eaten sandwich and some chips.",
+            "A sandwich and blue corn chips on a plate.",
+            "Plated sandwich and chips and bottled tea on a desk."
+        ]
+    },
+    {
+        "image_id": 435880,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000435880.jpg",
+        "generated_captions": {
+            "blip": "a refrigerator in a kitchen",
+            "gpt2": "a kitchen with a refrigerator and a bed ",
+            "pix2struct": "A store with a red and white sign that says \"The Store\"."
+        },
+        "original_coco_captions": [
+            "A refrigerator next to a red wall in the kitchen. ",
+            "A deep freezer and refrigerator are displayed together.",
+            "A kitchen has a refrigerator and ice chest. ",
+            "A refrigerator and freezer placed next to one another.",
+            "A fridge with a lot of magnets in a kitchen."
+        ]
+    },
+    {
+        "image_id": 64155,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000064155.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a sink and a mirror",
+            "gpt2": "a bathroom with a sink, mirror, and toilet ",
+            "pix2struct": "A kitchen with a glass of beer sitting on a table."
+        },
+        "original_coco_captions": [
+            "A grey and black bathroom with an odd shape vanity.",
+            "A clean bathroom with a tub and sink. ",
+            "A very nice looking clean cut and contemporary styled wash basin.",
+            "A wooden table siting in a bathroom next to a toilet.",
+            "A beautiful bathroom sink with a person taking a photo in the mirror."
+        ]
+    },
+    {
+        "image_id": 442009,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000442009.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a large tub and a large window",
+            "gpt2": "a bathroom with a tub, sink, and toilet ",
+            "pix2struct": "A kitchen with a fridge that says'stove' on it."
+        },
+        "original_coco_captions": [
+            "a bathroom with a bath tub near windows",
+            "A bathroom scene is shown with a tub and counter.",
+            "A bathroom with a bathtub and a sink overlooking a blue ocean.",
+            "A bathroom with a big white tub with legs.",
+            "A bathroom scene complete with a cast iron style tub."
+        ]
+    },
+    {
+        "image_id": 550864,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000550864.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a table and chairs in it",
+            "gpt2": "a kitchen with a stove, refrigerator, and a table ",
+            "pix2struct": "A large clock with roman numerals and roman numerals on the face."
+        },
+        "original_coco_captions": [
+            "A modern kitchen with stainless steel fridge, wooden cabinets, and overhead lighting is separated from the dining room by a bar.",
+            "A large, modern kitchen with lots of wood cupboards.",
+            "A table sits near a kitchen with the lights off. ",
+            "A modern kitchen with natural wood cabinets and stainless features.",
+            "A dining area features a wood table and chairs, a silver refrigerator and light brown cabinets."
+        ]
+    },
+    {
+        "image_id": 83049,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000083049.jpg",
+        "generated_captions": {
+            "blip": "a man sitting on a bench",
+            "gpt2": "a man and woman sitting on a bench ",
+            "pix2struct": "A man wearing a blue shirt that says \"The Man\" is standing next to a man wearing"
+        },
+        "original_coco_captions": [
+            "Two people sitting and laying on top of a park bench.",
+            "Two people are lounging on an outdoor bench.",
+            "A picture of four people in a park of all different ages.",
+            "A man and woman sit on a park bench.",
+            "A man laying on a bench and a woman next to him touching his face."
+        ]
+    },
+    {
+        "image_id": 389168,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000389168.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a lot of clutter",
+            "gpt2": "a kitchen with a lot of clutter and a lot of appliances ",
+            "pix2struct": "A store front with a sign that says 'E' on the front."
+        },
+        "original_coco_captions": [
+            "A large living room has many items thrown around it.",
+            "This is a somewhat cluttered kitchen and dining area.",
+            "A cluttered kitchen counter and dining area in a house.",
+            "View of a cluttered kitchen counter, clothes hanging on back of chairs, and a opened cabinet door.",
+            "The house is very messy and should be cleaned. "
+        ]
+    },
+    {
+        "image_id": 436273,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000436273.jpg",
+        "generated_captions": {
+            "blip": "a man sitting at a kitchen island with a sink",
+            "gpt2": "a man sitting at a kitchen counter in a kitchen ",
+            "pix2struct": "A man is standing in front of a computer that says \"Cisco\"."
+        },
+        "original_coco_captions": [
+            "a man sitting at the end of a counter using a couple of tablets",
+            "A man uses a tablet computer while sitting in a kitchen.",
+            "this is a man sitting in his kitchen",
+            "A man sitting at the kitchen counter looking at a picture.",
+            "A man is sitting at a kitchen counter using a computer."
+        ]
+    },
+    {
+        "image_id": 264628,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000264628.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a sink and mirror in it",
+            "gpt2": "a bathroom with a sink, mirror, and shower ",
+            "pix2struct": "A man is standing in front of a computer that says \"Windows\"."
+        },
+        "original_coco_captions": [
+            "A sink sitting under a large bathroom mirror.",
+            "a bathroom vanity and shower door with towels hanging on a towel rack",
+            "A bright light in a clean fancy bathroom.",
+            "The view of a restroom vanity with a small round sink.",
+            "A bathroom with a sink, vanity and shower stall."
+        ]
+    },
+    {
+        "image_id": 519569,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000519569.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a bar stool",
+            "gpt2": "a kitchen with a white counter top and a white refrigerator ",
+            "pix2struct": "A kitchen with a glass door that says '18'"
+        },
+        "original_coco_captions": [
+            "a kitchen with a refrigerator a counter with chairs",
+            "Bar stools at a bar separating a dining area from a kitchen.",
+            "The small kitchen has large cabinets and two stoves.",
+            "A kitchen is shown with chairs and an oven.",
+            "A very nice large modern style kitchen with a bar."
+        ]
+    },
+    {
+        "image_id": 550864,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000550864.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a table and chairs in it",
+            "gpt2": "a kitchen with a stove, refrigerator, and a table ",
+            "pix2struct": "A large clock with roman numerals and roman numerals on the face."
+        },
+        "original_coco_captions": [
+            "A modern kitchen with stainless steel fridge, wooden cabinets, and overhead lighting is separated from the dining room by a bar.",
+            "A large, modern kitchen with lots of wood cupboards.",
+            "A table sits near a kitchen with the lights off. ",
+            "A modern kitchen with natural wood cabinets and stainless features.",
+            "A dining area features a wood table and chairs, a silver refrigerator and light brown cabinets."
+        ]
+    },
+    {
+        "image_id": 107516,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000107516.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a sink and a stove",
+            "gpt2": "a kitchen with a sink, stove, and a counter top ",
+            "pix2struct": "A kitchen with a fridge and a fridge that says'stove'."
+        },
+        "original_coco_captions": [
+            "This kitchen features dark colored cabinets, nice counter tops, and pendant lights.",
+            "A kitchen has a sink, stove, refrigerator, and window in it.",
+            "a kitchen with a double sink, stove and counter top",
+            "A very nice kitchen with dark wood cabinets, marble counter tops, stainless appliances and hanging lights.",
+            "A large island sits in a tidy kitchen."
+        ]
+    },
+    {
+        "image_id": 574769,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000574769.jpg",
+        "generated_captions": {
+            "blip": "a woman in a kitchen",
+            "gpt2": "a woman holding a cat in a kitchen ",
+            "pix2struct": "A man stands in front of a book titled \"O is for O is for O is\""
+        },
+        "original_coco_captions": [
+            "A woman in a room with a cat.",
+            "A girl smiles as she holds a cat and wears a brightly colored skirt.",
+            "a woman is holding a cat in her kitchen",
+            "A woman is working in a kitchen carrying a soft toy.",
+            "A woman is holding a cat in her kitchen."
+        ]
+    },
+    {
+        "image_id": 561563,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000561563.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a toilet and a sink",
+            "gpt2": "a bathroom with a toilet, sink, and a bathtub ",
+            "pix2struct": "A man is holding a bottle of wine that says 'the snob' on"
+        },
+        "original_coco_captions": [
+            "A white and green bathroom with sink and toilet.",
+            "A white toilet bowl with a purple rug in front",
+            "A white toilet and white sink with a maroon rug.",
+            "A small bathroom has a toilet, sink, and cabinet.",
+            "A picture of a bathroom in a well lit area. "
+        ]
+    },
+    {
+        "image_id": 178028,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000178028.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a sink and a mirror",
+            "gpt2": "a bathroom with a sink, mirror, and a bath tub ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "A bathroom vanity sink with a large mirror and hairdryer on the wall.",
+            "a bath room sink with  large mirror",
+            "A bathroom sink with a towel rack, hair dryer and a mirror.",
+            "A single basin bathroom sink with a granite vanity.",
+            "a very clean sink in a bathroom and  a towel"
+        ]
+    },
+    {
+        "image_id": 69340,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000069340.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a sink and a window",
+            "gpt2": "a kitchen with a stove, sink, and window ",
+            "pix2struct": "A display of a home with a sign that says Property of www.aadesignbuild.com"
+        },
+        "original_coco_captions": [
+            "A kitchen that has a sink and cabinets in it.",
+            "A small kitchen with a window and small cabinets. ",
+            "The sun shining through a closed kitchen window",
+            "A clean kitchen with warm sun light streaming in",
+            "There are flowers in a vase by the sink and pots of plants in the window sill. "
+        ]
+    },
+    {
+        "image_id": 446574,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000446574.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a toilet, shower, and bathtub",
+            "gpt2": "a bathroom with a toilet, bathtub, and shower stall ",
+            "pix2struct": "A bottle of beer is next to a glass."
+        },
+        "original_coco_captions": [
+            "A bathroom has a shower and toilet in it.",
+            "A toilet sits next to a bathtub in an empty bathroom. ",
+            "a toilet a bathtub a rack bottles and a shower curtain",
+            "A bathroom with curtains that have floral decor on them.",
+            "A tan bathroom with a toliet and a tub."
+        ]
+    },
+    {
+        "image_id": 204448,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000204448.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a microwave and a dishwasher",
+            "gpt2": "a kitchen with a stove, microwave, sink and a refrigerator ",
+            "pix2struct": "A man is sitting in front of a computer with a box that says 'digipad"
+        },
+        "original_coco_captions": [
+            "A kitchen complete with a microwave, sink, and dishwasher.",
+            "A kitchen with an oven, microwave, electric kettle and other appliances",
+            "A kitchen with a microwave on top of a dishwasher, a counter with several items on it and wooden cabinets",
+            "A kitchen area with a sink, microwave and dishwasher.",
+            "The dishes have been washed and the dish towels are hanging neatly on the cupboards."
+        ]
+    },
+    {
+        "image_id": 514604,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000514604.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a toilet, a sink, and a speaker system",
+            "gpt2": "a bathroom with a toilet and a speaker system ",
+            "pix2struct": "A man is holding a bottle of beer that says'soda'"
+        },
+        "original_coco_captions": [
+            "A toilet in a bathroom next to a amp.",
+            "Two toilets in bathroom with various equipment and cords surrounding it.",
+            "Bathroom crowed with speakers, a mic, and recording equipment",
+            "A bathroom with toilets and sound recording equipment.",
+            "Speakers sit on top of two toilets in the bathroom."
+        ]
+    },
+    {
+        "image_id": 290768,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000290768.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a checkered floor and a stove",
+            "gpt2": "a kitchen with a stove, sink, and oven ",
+            "pix2struct": "A man is standing in front of a wall that says \"The Wall\"."
+        },
+        "original_coco_captions": [
+            "A kitchen with a counter, window, stove and cutlery. ",
+            "Kitchen counter with mugs, coffee, and a knife block on it.",
+            "A small kitchen has a checkered floor and a window.",
+            "Three mugs are on the kitchen counter of a stove.",
+            "A kitchen with sunshine shining off of black and white tiles"
+        ]
+    },
+    {
+        "image_id": 27146,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000027146.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a bunch of dirty dishes",
+            "gpt2": "a kitchen with a lot of clutter on the counter ",
+            "pix2struct": "A store with a sign that says \"STORE\"."
+        },
+        "original_coco_captions": [
+            "A very long kitchen looks kind of messy.",
+            "A very long cramped kitchen are full of stuff.",
+            "a kitchen space with tiled walls and items on a counter.",
+            "It's a white room with some cleaning supplies spread around.",
+            "The view of a cluttered kitchen stainless steel counter."
+        ]
+    },
+    {
+        "image_id": 182611,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000182611.jpg",
+        "generated_captions": {
+            "blip": "a group of people are preparing food in a kitchen",
+            "gpt2": "a man and woman preparing food in a kitchen ",
+            "pix2struct": "A man is cooking food in a kitchen with a plate of food that says'sa"
+        },
+        "original_coco_captions": [
+            "A man making his plate with a table full of food. ",
+            "People serving themselves food from a buffet table in a private home.",
+            "Two people with lots of food on a table and each has a plate",
+            "A large bunch of food is on a kitchen table.",
+            "A nman with tattos picks up food from a table."
+        ]
+    },
+    {
+        "image_id": 266206,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000266206.jpg",
+        "generated_captions": {
+            "blip": "a door with a glass panel",
+            "gpt2": "a door is open to a bathroom with a mirror ",
+            "pix2struct": "A framed picture of a computer with a screen that says \"E.A.\"."
+        },
+        "original_coco_captions": [
+            "Partially open door leading to a kitchen from a hallway.",
+            "A bathroom with the lights on visible through a slightly ajar door.",
+            "The bathroom door has three panels of frosted glass.",
+            "The open door to the bathroom is shown here.",
+            "Outside shot of a restroom showing the door partially open."
+        ]
+    },
+    {
+        "image_id": 231846,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000231846.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting in a sink",
+            "gpt2": "a cat sitting in a bathroom sink ",
+            "pix2struct": "A man is holding a small dog that has the letters 'e' on it."
+        },
+        "original_coco_captions": [
+            "A yellow stripped cat sitting in a bathroom sink.",
+            "a cat sitting in a bathroom sink looking at the floor.",
+            "closeup of a cat in a bathroom sink",
+            "A brown cat sitting in a bathroom sink.",
+            "An orange tabby cat lying in a bathroom sink."
+        ]
+    },
+    {
+        "image_id": 222500,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000222500.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a stove and a sink",
+            "gpt2": "a kitchen with a stove, sink, and cabinets ",
+            "pix2struct": "A kitchen with a fridge and a fridge that says'sausages'."
+        },
+        "original_coco_captions": [
+            "A kitchen with lots of wooden cabinetry and a stove top oven.",
+            "A beautiful wood grained kitchen that's ready for use.",
+            "An empty kitchen with wood cabinets, a chrome stove, and dishwasher. ",
+            "A kitchen with stainless steel appliance and wooden cabinets and flooring.",
+            "A kitchen area with a stove, sink and dishwasher."
+        ]
+    },
+    {
+        "image_id": 449945,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000449945.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a sink and a mirror",
+            "gpt2": "a bathroom with a sink, tub, and toilet ",
+            "pix2struct": "A man is holding a bottle of alcohol and a bottle of alcohol."
+        },
+        "original_coco_captions": [
+            "a bathroom counter with two sinks on it ",
+            "A bathroom with bathroom furniture and other bathroom items. ",
+            "A bathroom that has elevated sink basins in it.",
+            "A very nice looking rest room with a pretty sink.",
+            "A bathtub and two sinks are in a light colored bathroom."
+        ]
+    },
+    {
+        "image_id": 105177,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000105177.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a sink and a stove",
+            "gpt2": "a kitchen with a stove, sink, and cabinets ",
+            "pix2struct": "A store with a sign that says \"B\" on it."
+        },
+        "original_coco_captions": [
+            "A simple white residential kitchen with breakfast bar",
+            "a large pretty white kitchen with a lot of items on the tops",
+            "A kitchen filled with clutter and appliances and a flight of stars.",
+            "A small white kitchen with brown wood floor.",
+            "A kitchen has been organized with many appliances."
+        ]
+    },
+    {
+        "image_id": 228214,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000228214.jpg",
+        "generated_captions": {
+            "blip": "a man in a uniform",
+            "gpt2": "a man in a uniform is holding a gun ",
+            "pix2struct": "A man is holding a bottle of beer that says 'al' on it."
+        },
+        "original_coco_captions": [
+            "A Marine that is looking at his cell phone.",
+            "A marine in uniform using a smart phone.",
+            "A full dressed marine is looking at his cell phone.",
+            "A man in uniform is looking at his phone.",
+            "A service man is looking at his cel phone."
+        ]
+    },
+    {
+        "image_id": 508481,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000508481.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a stove and sink",
+            "gpt2": "a stove top oven sitting under a counter top ",
+            "pix2struct": "A kitchen with a fridge that says 2000."
+        },
+        "original_coco_captions": [
+            "A stove top with a tea kettle sitting on top of it.",
+            "A kitchen with a stove and a kettle on the stove",
+            "A kitchen stove with a whistling tea pot on top.",
+            "a silver stove a white tea pot lights and a sink",
+            "A tea kettle sitting on top of a stove."
+        ]
+    },
+    {
+        "image_id": 302077,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000302077.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a table and a stove",
+            "gpt2": "a kitchen with a stove, sink, and cabinets ",
+            "pix2struct": "A man is cooking in a kitchen with a fridge full of food."
+        },
+        "original_coco_captions": [
+            "This kitchen is cluttered, cabinet and drawers are not shut all the way, and there is paper taped to the floor.",
+            "A modern kitchen with metallic features and white accents.",
+            "The kitchen is cluttered and needs to be cleaned up.",
+            "A kitchen has a free standing silver table.",
+            "A kitchen area with a stove, sink and table."
+        ]
+    },
+    {
+        "image_id": 222564,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000222564.jpg",
+        "generated_captions": {
+            "blip": "a man in a kitchen preparing food",
+            "gpt2": "a chef in a kitchen preparing food in a restaurant ",
+            "pix2struct": "A man is standing in front of a sign that says Turboton."
+        },
+        "original_coco_captions": [
+            "Two chefs in a restaurant kitchen preparing food. ",
+            "Two cooks are cooking the food someone ordered at this restaurant",
+            "The chef is cooking with pans on the stove next to an oven. ",
+            "Two men that are standing in a kitchen.",
+            "Two cooks are near the stove in a stainless steel kitchen."
+        ]
+    },
+    {
+        "image_id": 453302,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000453302.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a refrigerator and a microwave",
+            "gpt2": "a kitchen with a refrigerator, microwave, sink and a dishwasher ",
+            "pix2struct": "A store with a sign that says \"STORE\" on it."
+        },
+        "original_coco_captions": [
+            "A kitchen that has a tile floor, a refrigerator, a microwave, and a toaster.",
+            "a kitchen with a refrigerator a microwave and a toaster",
+            "A workplace break room kitchenette, with refrigerator, two microwave ovens, a toaster and sink.",
+            "The kitchen has a refrigerator, toaster, and microwaves.",
+            "A break room kitchen is shown with two microwaves."
+        ]
+    },
+    {
+        "image_id": 293390,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000293390.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a sink and a mirror",
+            "gpt2": "a bathroom sink with a wooden cabinet ",
+            "pix2struct": "A store with a sign that says \"STORE\"."
+        },
+        "original_coco_captions": [
+            "A VERY NICE BATHROOM IN THE MIDDLE OF A REMODEL",
+            "a white sink a towel and some brown cabinets",
+            "A bathroom sink sitting on top of a wooden cabinet.",
+            "A bathroom that is covered from bottom to top in stone.",
+            "A vanity stink area with a marble counter top and wooden cabinets."
+        ]
+    },
+    {
+        "image_id": 525420,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000525420.jpg",
+        "generated_captions": {
+            "blip": "a bathtub with a fauced fauced fauced fauced fauce",
+            "gpt2": "a bathtub with a tub in it ",
+            "pix2struct": "A clock that says 11:55 on the face of it."
+        },
+        "original_coco_captions": [
+            "A bathtub is beneath a torn down wall.",
+            "A bathtub with water in it in a bathroom with destroyed walls.",
+            "A bathtub being filled up in a bathroom that seems to be falling apart.",
+            "An old bathtub is filled with water in a rundown bathroom.",
+            "A bath tub filled with water with a hole in the wall.\n"
+        ]
+    },
+    {
+        "image_id": 533548,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000533548.jpg",
+        "generated_captions": {
+            "blip": "a man sitting at a table with a laptop",
+            "gpt2": "a man sitting at a table with a laptop ",
+            "pix2struct": "A woman is holding a box of alcohol that says 100%."
+        },
+        "original_coco_captions": [
+            "A man wearing a red jacket sitting at a desk.",
+            "A man sits at a laptop computer at a table.",
+            "A person that is smiling with a computer.",
+            "A man sits at a desk before an open laptop.",
+            "A smiling man sits at a table with his laptop in a public library. "
+        ]
+    },
+    {
+        "image_id": 558671,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000558671.jpg",
+        "generated_captions": {
+            "blip": "a man and his dog in a kitchen",
+            "gpt2": "a woman standing in a kitchen next to a dog ",
+            "pix2struct": "A man is standing in front of a clock that says 10:00."
+        },
+        "original_coco_captions": [
+            "A woman cooking food on a stove while a dog watches.",
+            "a black and white picture of a woman in the kitchen with her dog ",
+            "a man that has a dog standing next to him",
+            "A person and a dog are standing in a cluttered kitchen.",
+            "Man standing in kitchen with dog sitting beside him. "
+        ]
+    },
+    {
+        "image_id": 6672,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000006672.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a sink and a window",
+            "gpt2": "a kitchen with a sink, stove, and refrigerator ",
+            "pix2struct": "A book shelf with a book titled \"The Secret Life of the Mind\"."
+        },
+        "original_coco_captions": [
+            "The back door with a window in the kitchen.",
+            "The kitchen has a white door with a window.",
+            "A kitchen door next to a kitchen sing and counter top.",
+            "A sink next to a large white door ",
+            "A door for exiting and entering the house in the kitchen."
+        ]
+    },
+    {
+        "image_id": 96183,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000096183.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a sink and stove",
+            "gpt2": "a kitchen with a stove, sink, and microwave ",
+            "pix2struct": "A computer monitor with a screen that says \"CNC\"."
+        },
+        "original_coco_captions": [
+            "A kitchen with a stove, sink, microwave and various other items.",
+            "This is a picture of a organized kitchen.",
+            "A view of a kitchen with a tile backsplash",
+            "A small kitchen with a stove and counters.",
+            "Small kitchen with white countertop space and a small stove. "
+        ]
+    },
+    {
+        "image_id": 538934,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000538934.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a brick wall and a sink",
+            "gpt2": "a kitchen with a sink, refrigerator, and cabinets ",
+            "pix2struct": "A store with a sign that says \"Camborne\"."
+        },
+        "original_coco_captions": [
+            "A view of a kitchen with a bunch of cleaning supplies around it.",
+            "a brown breakfast bar in a large kitchen",
+            "A counter and a trash can in a room.",
+            "The counter in this kitchen is very cluttered.",
+            "a counter top with all sorts of cleaning supplies"
+        ]
+    },
+    {
+        "image_id": 272863,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000272863.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a sink and a toilet",
+            "gpt2": "a bathroom with a tub, sink, and toilet ",
+            "pix2struct": "A bottle of wine is next to a glass of beer."
+        },
+        "original_coco_captions": [
+            "A bathroom area with a tub, sink and wooden floor.",
+            "A white bath tub sitting next to a  white sink.",
+            "There is a sink and bathtub in the bathroom.",
+            "the bathtub and sink in a white tiled bathroom",
+            "A tub and and sink in a bathroom."
+        ]
+    },
+    {
+        "image_id": 384808,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000384808.jpg",
+        "generated_captions": {
+            "blip": "a man taking a picture of himself in a bathroom mirror",
+            "gpt2": "a man taking a selfie in a bathroom mirror ",
+            "pix2struct": "A man is holding a phone that says E on it."
+        },
+        "original_coco_captions": [
+            "A man taking his picture in a bathroom mirror.",
+            "A man in blue shirt taking a picture in bathroom mirror.",
+            "A man is taking a picture of himself in the bathroom using the mirror for a reflection.",
+            "A man taking a picture of his reflection in a mirror.",
+            "A bathroom sink sitting under a bathroom mirror."
+        ]
+    },
+    {
+        "image_id": 258266,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000258266.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a bowl on the counter",
+            "gpt2": "a kitchen with a white counter top and a white sink ",
+            "pix2struct": "A kitchen with a fridge and a fridge that says'reel'."
+        },
+        "original_coco_captions": [
+            "A bowl of food sitting on top of a white kitchen counter.",
+            "a large number of white cabinets in a kitchen",
+            "A white modern kitchen is on display in this photo.",
+            "A spotless white kitchen with some sort of platter on the counter.",
+            "A white kitchen counter with a big, brown bowl on it."
+        ]
+    },
+    {
+        "image_id": 176120,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000176120.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a shower curtain and a sink",
+            "gpt2": "a bathroom with a shower curtain and a sink ",
+            "pix2struct": "A bottle of wine sits next to a glass of beer."
+        },
+        "original_coco_captions": [
+            "A bathroom with a shower covered in a curtain next to a toilet.",
+            "A country white bathroom takes on an entirely new fashion.",
+            "A bathroom with a large square mirror over the sink and a brown shower curtain with circle designs.",
+            "A shower curtain is covering the tub in front of the sink.  ",
+            "Bathroom with a black and white shower curtain"
+        ]
+    },
+    {
+        "image_id": 512476,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000512476.jpg",
+        "generated_captions": {
+            "blip": "a stove with a bowl of food on it",
+            "gpt2": "a kitchen sink with a pizza and a bowl of soup ",
+            "pix2struct": "A bottle of Ceot sits next to a glass of beer."
+        },
+        "original_coco_captions": [
+            "a double sink with a bowl of food on the sink counter top",
+            "A kitchen sink with a bowl of cereal next to it.",
+            "A bowl of food sitting on the edge of a sink.",
+            "A bowl of cereal is sitting on a kitchen sink. ",
+            "A bow of food set next to a sink inside of a kitchen"
+        ]
+    },
+    {
+        "image_id": 368402,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000368402.jpg",
+        "generated_captions": {
+            "blip": "a woman in a kitchen",
+            "gpt2": "a woman in a kitchen preparing food in a kitchen ",
+            "pix2struct": "A woman is standing in front of a computer that says HP."
+        },
+        "original_coco_captions": [
+            "The woman in the kitchen is holding a huge pan.",
+            "A chef carrying a large pan inside of a kitchen.",
+            "A woman is holding a large pan in a kitchen. ",
+            "A woman cooking in a kitchen with granite counters.",
+            "A woman cooking in her kitchen with a black pan."
+        ]
+    },
+    {
+        "image_id": 62510,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000062510.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a stove and a sink",
+            "gpt2": "a kitchen with a stove, sink, and cabinets ",
+            "pix2struct": "A man is holding a box that says 'a man's hand'."
+        },
+        "original_coco_captions": [
+            "A small kitchen has a stove and a blender.",
+            "a kitchen with a stove and a sink and plates",
+            "A kitchen with drawers, a stove and a sink.",
+            "A very small kitchen in an attic with a sink  ",
+            "An apartment kitchen tucked in under a stairway."
+        ]
+    },
+    {
+        "image_id": 307564,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000307564.jpg",
+        "generated_captions": {
+            "blip": "a doll sitting at a table in a doll house",
+            "gpt2": "a doll sitting on a chair in a room ",
+            "pix2struct": "A store with a doll clothes store in front of a store with a sign that says Lego."
+        },
+        "original_coco_captions": [
+            "Tea time in the dollhouse is much like the real thing.",
+            "A doll sitting down on a miniature chair.",
+            "The doll house is full of accurate furniture.",
+            "An upclose view of a doll in a dollhouse sitting at a kitchen table.",
+            "A doll sitting on a chair at a small table."
+        ]
+    },
+    {
+        "image_id": 425226,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000425226.jpg",
+        "generated_captions": {
+            "blip": "a man kneeling on the floor in front of a refrigerator",
+            "gpt2": "a young girl is looking at a refrigerator ",
+            "pix2struct": "A man is holding a box of 20 and a box of 20."
+        },
+        "original_coco_captions": [
+            "A man kneeling down in front of a refrigerator.",
+            "A person kneels down to peer into a refrigerator",
+            "A man is searching for food in a refrigerator.",
+            "A chef is opening and looking into the fridge.",
+            "A man wearing an apron peering into the bottom of an open fridge"
+        ]
+    },
+    {
+        "image_id": 337264,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000337264.jpg",
+        "generated_captions": {
+            "blip": "a woman standing in a kitchen",
+            "gpt2": "a woman and a man are standing in a kitchen ",
+            "pix2struct": "A man is standing in front of a computer that says \"Windows\"."
+        },
+        "original_coco_captions": [
+            "a couple of women  are in a kitchen",
+            "Two people standing in the kitchen of a home.",
+            "A group of people who are around a kitchen counter.",
+            "A group of people prepare dinner in the kitchen.",
+            "two women in a kitchen bottles and lights"
+        ]
+    },
+    {
+        "image_id": 292005,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000292005.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a shower, toilet, and tub",
+            "gpt2": "a bathroom with a shower curtain and a toilet ",
+            "pix2struct": "A red and white box with a red and white box on it"
+        },
+        "original_coco_captions": [
+            "a bathroom with a tub and a shower curtain ",
+            "a bathroom with some orange walls on it ",
+            "A bathroom with white spots on the wall.",
+            "A bathroom is painted in white and orange.",
+            "Bright orange bathroom with spackling on the walls."
+        ]
+    },
+    {
+        "image_id": 422785,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000422785.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a sink and a stove",
+            "gpt2": "a kitchen with a stove, sink, and cabinets ",
+            "pix2struct": "A display of items from the year 1999."
+        },
+        "original_coco_captions": [
+            "a kitchen filled with lots of counter top space and cooking utensils.",
+            "A small, white kitchen with many buckets ",
+            "A white kitchen has no cabinet doors in it.",
+            "A small kitchen with a stove, sink small refrigerator and no cabinets.",
+            "A small kitchen area has open cabinet spaces. "
+        ]
+    },
+    {
+        "image_id": 297787,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000297787.jpg",
+        "generated_captions": {
+            "blip": "a woman in a kitchen preparing food",
+            "gpt2": "a woman is standing in a kitchen with knives and scissors ",
+            "pix2struct": "A man is standing in front of a sign that says '80'"
+        },
+        "original_coco_captions": [
+            "A person in a room with knives and scissors hanging on the wall.",
+            "A person sitting in front of several knives being displayed on a wall.",
+            "a person is standing near a bunch of cutting instruments",
+            "A woman looking down while standing in a room with a bunch of knives",
+            "A woman with dread locks in a kitchen beside a wall of knives and scissors. "
+        ]
+    },
+    {
+        "image_id": 40986,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000040986.jpg",
+        "generated_captions": {
+            "blip": "a man standing in a kitchen with a dog",
+            "gpt2": "a kitchen with a stove, a sink, and a refrigerator ",
+            "pix2struct": "A kitchen with a fridge that says VV.T.B."
+        },
+        "original_coco_captions": [
+            "Raw cookies in a pan on the counter and baked cookies in a pan on the stove.",
+            "Assorted items on a counter top in a kitchenette.",
+            "A man points at the wall in his kitchen.",
+            "Two pans with cookies in them sitting on a counter with liquor bottles, a coffee maker and knives.",
+            "A countertop in a kitchen with fresh cookies."
+        ]
+    },
+    {
+        "image_id": 176330,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000176330.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a sink and a mirror",
+            "gpt2": "a kitchen counter with a sink and a dishwasher ",
+            "pix2struct": "A man is holding a bottle of wine that says 'the smoky' on"
+        },
+        "original_coco_captions": [
+            "A view of a kitchen sink, knives, hanging cups, and wine glasses.",
+            "white kitchen sink with white coffee cups, wine glasses and knives",
+            "Several white cups are hanging on hooks in a kitchen.",
+            "A kitchen has white cabinets and teacups hanging from a board.",
+            "a kitchen sink with several white mugs hanging on the wall."
+        ]
+    },
+    {
+        "image_id": 154589,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000154589.jpg",
+        "generated_captions": {
+            "blip": "a woman standing in a kitchen with a dog",
+            "gpt2": "a woman standing in front of a refrigerator ",
+            "pix2struct": "A man is holding a book titled \"Don't Feed Da Bears\"."
+        },
+        "original_coco_captions": [
+            "A woman standing in a kitchen with a dog.",
+            "a person standing in a kitchen in front of a refrigerator",
+            "Woman poses in front of fridge wearing glasses and with a dog",
+            "A woman is posing for the camera in front of the fridge. ",
+            "A woman is smiling next to a refrigerator in a kitchen."
+        ]
+    },
+    {
+        "image_id": 47775,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000047775.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a sink and a large tub",
+            "gpt2": "a bathroom with a tub, sink, and window ",
+            "pix2struct": "A store with a display of alcohol and a sign that says \"Famous\"."
+        },
+        "original_coco_captions": [
+            "a bathroom with two sinks two mirrors and a bath tub",
+            "The bathtub is in a corner with three windows surrounding it.",
+            "Bathroom with windows, a shower, bathtub, and double sink.",
+            "A bathroom with a white bath tub and his and her sinks.",
+            "A bathroom has a brown and yellow accents."
+        ]
+    },
+    {
+        "image_id": 10363,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000010363.jpg",
+        "generated_captions": {
+            "blip": "a cat standing on top of a car",
+            "gpt2": "a cat is sitting on top of a car ",
+            "pix2struct": "A man is sitting in front of a computer that says Infiniti."
+        },
+        "original_coco_captions": [
+            "A gray cat standing on top of a black car.",
+            "A cat standing on the hood of a car.",
+            "Grey color cat standing on hood of car in garage",
+            "A gray cat on the hood of a black car",
+            "A cat sitting on the hood of a parked black car in a garage."
+        ]
+    },
+    {
+        "image_id": 564283,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000564283.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a sink and a refrigerator",
+            "gpt2": "a kitchen with a refrigerator, stove, sink and a dishwasher ",
+            "pix2struct": "A white wall with a sign that says \"ANY\" on it."
+        },
+        "original_coco_captions": [
+            "A white refrigerator freezer sitting inside of a kitchen.",
+            "a refrigerator brown cupboards a silver sink and a wine rack",
+            "A wine rack sits on top of the kitchen cabinets.",
+            "A small kitchen area features a white refrigerator and brown cabinets.",
+            "A small kitchen with white appliances and wooden cabinets."
+        ]
+    },
+    {
+        "image_id": 111032,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000111032.jpg",
+        "generated_captions": {
+            "blip": "a bottle of wine",
+            "gpt2": "a bottle of wine and a bottle of wine sit on a table ",
+            "pix2struct": "A bottle of Becker Vineyards sits next to a glass."
+        },
+        "original_coco_captions": [
+            "A bottle of wine sitting on top of a table next to a glass of wine.",
+            "A full wine glass means the bottle has less in it for later.",
+            "A bottle of wine and a wine glass with wine in it sitting on a table",
+            "A glass of wine next to a wine bottle and corkscrew on a table.",
+            "A bottle of wine with a poured glass."
+        ]
+    },
+    {
+        "image_id": 436130,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000436130.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a refrigerator and a table",
+            "gpt2": "a kitchen with a stove, refrigerator, and sink ",
+            "pix2struct": "A store with a sign that says \"A\" on the front."
+        },
+        "original_coco_captions": [
+            "A small kitchen cluttered with a variety of kitchen items.",
+            "a kitchen with a stove a refrigerator and some cupbords",
+            "A child's play kitchen right next to a real kitchen.",
+            "A kitchen with white tile floor and blue sloped ceiling.",
+            "A small kitchen area features a stove and cupboards."
+        ]
+    },
+    {
+        "image_id": 571635,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000571635.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a toilet, sink, and window",
+            "gpt2": "a bathroom with a toilet, sink, and tub ",
+            "pix2struct": "A table with a glass of water and a bottle of OJ."
+        },
+        "original_coco_captions": [
+            "A bathroom with a toilet, sink, and shower.",
+            "A full bathroom with a wicker laundry basket.",
+            "A little bathrood decorated with many colorful objects",
+            "A small bathroom containing a toilet and sink. ",
+            "Bathroom containing a toilet, a sink and a wicker basket."
+        ]
+    },
+    {
+        "image_id": 425226,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000425226.jpg",
+        "generated_captions": {
+            "blip": "a man kneeling on the floor in front of a refrigerator",
+            "gpt2": "a young girl is looking at a refrigerator ",
+            "pix2struct": "A man is holding a box of 20 and a box of 20."
+        },
+        "original_coco_captions": [
+            "A man kneeling down in front of a refrigerator.",
+            "A person kneels down to peer into a refrigerator",
+            "A man is searching for food in a refrigerator.",
+            "A chef is opening and looking into the fridge.",
+            "A man wearing an apron peering into the bottom of an open fridge"
+        ]
+    },
+    {
+        "image_id": 58232,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000058232.jpg",
+        "generated_captions": {
+            "blip": "a stone counter",
+            "gpt2": "a kitchen with a large counter top and a large counter top ",
+            "pix2struct": "A man stands in front of a large clock that says 10:00."
+        },
+        "original_coco_captions": [
+            "A man at a restaurant is waiting to serve customers.",
+            "An outdoor kitchen area with chefs and a stove.",
+            "Chefs work in an open kitchen and at a counter.",
+            "there are many cook and chefs in this kitchen",
+            "Men in a kitchen of some sort on a resort."
+        ]
+    },
+    {
+        "image_id": 151911,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000151911.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a table and chairs in it",
+            "gpt2": "a kitchen with a table and chairs and a refrigerator ",
+            "pix2struct": "A store with a sign that says '98' on it."
+        },
+        "original_coco_captions": [
+            "A blurry photo of a kitchen and a dining room.",
+            "a kitchen with a brown dining table set and a potted plant on the counter",
+            "A dining area features a dark wood dining table and chairs while a small kitchen with wood accents is situated beyond.",
+            "A small efficiency apartment with a dark wooden table.",
+            "An empty kitchen and dining room during the day."
+        ]
+    },
+    {
+        "image_id": 107922,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000107922.jpg",
+        "generated_captions": {
+            "blip": "a circular picture of a living room with a staircase",
+            "gpt2": "a kitchen with a lot of clutter on the counter ",
+            "pix2struct": "A man is holding a book titled \"The Secret Life of the Mind\"."
+        },
+        "original_coco_captions": [
+            "A person sits at a table in a kitchen. ",
+            "An aerial view of a kitchen in cylindrical view.",
+            "An upside-down image of a room taken from above.",
+            "A circular view of an area that features a woman and kitchen counters and shelving.",
+            "an overhead photo of a kitchen with cupboards a garbage can "
+        ]
+    },
+    {
+        "image_id": 516805,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000516805.jpg",
+        "generated_captions": {
+            "blip": "a picnic table with a bunch of backpacks on it",
+            "gpt2": "a picnic table with a lot of camping gear ",
+            "pix2struct": "A man is holding a bottle of beer that says 'e' on it."
+        },
+        "original_coco_captions": [
+            "A table full of items and on a sunny day. ",
+            "A picnic table with many bags, lunchboxes, and other items",
+            "A picnic table at a campsite is loaded with tons of camping gear.",
+            "This is a picture of a persons garage sale.",
+            "A picnic table loaded with hiking and camping gear"
+        ]
+    },
+    {
+        "image_id": 480122,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000480122.jpg",
+        "generated_captions": {
+            "blip": "a wooden table in a kitchen",
+            "gpt2": "a kitchen with a table and a bowl of fruit ",
+            "pix2struct": "A book titled \"Gone to Beach\" sits on a table."
+        },
+        "original_coco_captions": [
+            "A bowl of bananas sitting on the kitchen table.",
+            "A bowl filled with bananas sitting on top of a table.",
+            "this is a wood table with bananas on it",
+            "A bowl of fruit is placed on a table in a kitchen.",
+            "some bananas are in a bowl on a table"
+        ]
+    },
+    {
+        "image_id": 419974,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000419974.jpg",
+        "generated_captions": {
+            "blip": "a woman preparing food",
+            "gpt2": "a man in a kitchen cutting up food ",
+            "pix2struct": "A man is holding a bottle of wine and a bottle of wine that says 'the "
+        },
+        "original_coco_captions": [
+            "a man standing next to a kitchen counter preparing food.",
+            "A dog watching a man cut a piece of food.",
+            "He is working on the meal while the dog is patiently waiting. ",
+            "A man slices meat in his kitchen while his dog begs from the floor.",
+            "A dog sits waiting while his owner cuts some meat.  "
+        ]
+    },
+    {
+        "image_id": 350230,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000350230.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a sink and a stove",
+            "gpt2": "a kitchen with a stove, sink, and refrigerator ",
+            "pix2struct": "A kitchen with a fridge and a fridge that says'sausages'."
+        },
+        "original_coco_captions": [
+            "a tiled kitchen with some appliances inside of it ",
+            "A white kitchen with items strewn on the counter tops.",
+            "A cluttered kitchen with white cabinets and tiled floor.",
+            "A modern if messy modern kitchen white with red accents",
+            "A kitchen with a lot of items sitting out. "
+        ]
+    },
+    {
+        "image_id": 40986,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000040986.jpg",
+        "generated_captions": {
+            "blip": "a man standing in a kitchen with a dog",
+            "gpt2": "a kitchen with a stove, a sink, and a refrigerator ",
+            "pix2struct": "A kitchen with a fridge that says VV.T.B."
+        },
+        "original_coco_captions": [
+            "Raw cookies in a pan on the counter and baked cookies in a pan on the stove.",
+            "Assorted items on a counter top in a kitchenette.",
+            "A man points at the wall in his kitchen.",
+            "Two pans with cookies in them sitting on a counter with liquor bottles, a coffee maker and knives.",
+            "A countertop in a kitchen with fresh cookies."
+        ]
+    },
+    {
+        "image_id": 264628,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000264628.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a sink and mirror in it",
+            "gpt2": "a bathroom with a sink, mirror, and shower ",
+            "pix2struct": "A man is standing in front of a computer that says \"Windows\"."
+        },
+        "original_coco_captions": [
+            "A sink sitting under a large bathroom mirror.",
+            "a bathroom vanity and shower door with towels hanging on a towel rack",
+            "A bright light in a clean fancy bathroom.",
+            "The view of a restroom vanity with a small round sink.",
+            "A bathroom with a sink, vanity and shower stall."
+        ]
+    }
+]

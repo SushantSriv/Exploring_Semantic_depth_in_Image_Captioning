@@ -1,0 +1,2202 @@
+{
+    "image_700": {
+        "blip_caption": "there is a wildebeest running through the tall grass in the wild",
+        "gpt2_caption": "a zebra running through a grassy field ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "An animal with horns jumping in a field ."
+            ],
+            [
+                "An antelope runs through tall brown grass ."
+            ],
+            [
+                "A wild animal not found in America jumping through a field ."
+            ],
+            [
+                "A wild animal races across an uncut field with a minimal amount of trees ."
+            ],
+            [
+                "A wildebeast trips in the field ."
+            ]
+        ]
+    },
+    "image_701": {
+        "blip_caption": "there are two people that are walking down the street together",
+        "gpt2_caption": "a man and woman walking down a street ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "two Asian women walking in front of a green door"
+            ],
+            [
+                "Two girls are walking along the street and talking ."
+            ],
+            [
+                "Two women walk down a street ."
+            ],
+            [
+                "two women walk down the street ."
+            ],
+            [
+                "Two women walking down the street"
+            ]
+        ]
+    },
+    "image_702": {
+        "blip_caption": "there is a little boy that is standing on a rock in the woods",
+        "gpt2_caption": "a boy is climbing a rock on a rock ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "a boy prepares a jump off a rock ."
+            ],
+            [
+                "A boy wearing blue walks across some rocks ."
+            ],
+            [
+                "A small boy wearing blue balances as he walks on a large rock ."
+            ],
+            [
+                "A toddler in blue clothes is balancing on a rock ."
+            ],
+            [
+                "The little boy walks carefully down the rocks holding his arms out to balance himself ."
+            ]
+        ]
+    },
+    "image_703": {
+        "blip_caption": "there are two dogs that are playing with a frisbee in the grass",
+        "gpt2_caption": "a dog running in the grass with a frisbee ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A brown dog runs for a white and black dog on the grass ."
+            ],
+            [
+                "A white dog and a brown dog play in the grass ."
+            ],
+            [
+                "The dogs are in the field playing ."
+            ],
+            [
+                "Two dogs playing on grass ."
+            ],
+            [
+                "two dogs play together ."
+            ]
+        ]
+    },
+    "image_704": {
+        "blip_caption": "there is a man that is standing in front of a wall with graffiti on it",
+        "gpt2_caption": "a man standing next to a wall with graffiti on it ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A man in yellow stands in a garbage strewn underpass ."
+            ],
+            [
+                "A man stands near garbage and a spray painted drawing ."
+            ],
+            [
+                "A man wearing a yellow shirt is standing in front of a cement wall with drawings on it ."
+            ],
+            [
+                "a man wearing a yellow shirt standing in the middle of a bunch of garbage and a graffitied wall ."
+            ],
+            [
+                "A man wearing a yellow shirt standing near some refuse ."
+            ]
+        ]
+    },
+    "image_705": {
+        "blip_caption": "there is a woman in a bikini standing next to a man on a sidewalk",
+        "gpt2_caption": "a man in shorts and a shirt is playing frisbee ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A girl in the bathing suit talking to a guy ."
+            ],
+            [
+                "A woman in a bikini is talking to a regularly dressed man on a bridge"
+            ],
+            [
+                "A woman in a small pink bikini chats on a cellphone while a man looks on outside a city shop ."
+            ],
+            [
+                "A woman in a string bathing suit with a man on a boardwalk on a foggy day ."
+            ],
+            [
+                "A woman in a pink bikini next to a man in brown ."
+            ]
+        ]
+    },
+    "image_706": {
+        "blip_caption": "there is a naked woman walking down the street with a surfboard",
+        "gpt2_caption": "a woman walking down a street with a umbrella ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A female walking wearing a string bikini towards a man in a striped shirt ."
+            ],
+            [
+                "A woman in a skimpy bathing suit walks away ."
+            ],
+            [
+                "A woman in a swimsuit walks along the street next to three trees ."
+            ],
+            [
+                "A woman wearing a skimpy bathing suit is walking with a towel in a parking lot ."
+            ],
+            [
+                "Three big trees and the back side of a girl in bikini ."
+            ]
+        ]
+    },
+    "image_707": {
+        "blip_caption": "there is a woman playing frisbee with a dog on the beach",
+        "gpt2_caption": "a man and a dog are playing frisbee on the sand ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A large dog sniffing a human hand while a small dog is sniffing the large dog 's butt ."
+            ],
+            [
+                "A person reaches for a large grey dog while a black dog trails ."
+            ],
+            [
+                "A smaller dog sniffs a larger dog in the hills ."
+            ],
+            [
+                "the black dog is sniffing the brown dog 's butt ."
+            ],
+            [
+                "The lady ask the dog to give her the ball on their beach walk ."
+            ]
+        ]
+    },
+    "image_708": {
+        "blip_caption": "there are two children riding in a red toy car at a gas station",
+        "gpt2_caption": "a red and white truck and a red and white car ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "Kids ride outside in red car ."
+            ],
+            [
+                "Two children are riding in a red play vehicle at a real gas station ."
+            ],
+            [
+                "\"Two children in a toy car , in front of a gas station .\""
+            ],
+            [
+                "Two kids in a toy car at a gas station ."
+            ],
+            [
+                "two young children riding in a toy car at a real gas station"
+            ]
+        ]
+    },
+    "image_709": {
+        "blip_caption": "there is a little girl that is standing next to a bike and a dog",
+        "gpt2_caption": "a woman sitting on a bike with a dog ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A black and white dog lies on the ground next to a little girl on a red bicycle in the woods ."
+            ],
+            [
+                "\"A child in a red sweatshirt , jeans , and black bike helmet and a dog pose for a picture outdoors .\""
+            ],
+            [
+                "A child is sitting on a bike next to her dog"
+            ],
+            [
+                "A little girl poses on her bike with her dog in the woods ."
+            ],
+            [
+                "The dog is laying on the ground next to the little girl with the red bike ."
+            ]
+        ]
+    },
+    "image_710": {
+        "blip_caption": "there is a little girl that is sitting on a red toy horse",
+        "gpt2_caption": "a young girl riding a red and white cart ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A girl plays on a red toy ."
+            ],
+            [
+                "A little girl in a blue coat is rocking on a red playground toy ."
+            ],
+            [
+                "A little girl is playing on a toy outdoors ."
+            ],
+            [
+                "A little girl is riding a toy tricycle on springs ."
+            ],
+            [
+                "The girl wearing a blue coat is standing on the wooden rocking toy in the playground ."
+            ]
+        ]
+    },
+    "image_711": {
+        "blip_caption": "there is a man riding a bike behind a group of dogs pulling a sled",
+        "gpt2_caption": "a man riding a bike with a dog ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "\"A team of dogs , and a woman following on a bike .\""
+            ],
+            [
+                "A woman is riding a three wheeler bicycle behind a pack of dogs ."
+            ],
+            [
+                "A woman on a trike and a team of dogs ."
+            ],
+            [
+                "Six huskies are pulling a three wheeled vehicle through the grass ."
+            ],
+            [
+                "Woman being pulled on a large tricycle by several sled dogs ."
+            ]
+        ]
+    },
+    "image_712": {
+        "blip_caption": "there are a lot of people that are hiking in the mountains",
+        "gpt2_caption": "a man with a backpack and a woman with a hat on a mountain ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "Four shirtless men are hiking up a canyon ."
+            ],
+            [
+                "Four shirtless men hike up a canyon ."
+            ],
+            [
+                "Shirtless men hike through a canyon ."
+            ],
+            [
+                "The hikers are climbing up the mountains ."
+            ],
+            [
+                "Topless men walking up a rocky path ."
+            ]
+        ]
+    },
+    "image_713": {
+        "blip_caption": "there is a woman holding an umbrella and a man running in the rain",
+        "gpt2_caption": "a woman and a man walking down a street ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A jogger is being sheltered with an umbrella ."
+            ],
+            [
+                "A runner is being handed a water bottle from a woman in a teal jacket holding an umbrella ."
+            ],
+            [
+                "A woman assists a marathon runner by holding an umbrella over her and giving her water ."
+            ],
+            [
+                "A woman is holding a pink and brown umbrella for a lady running in a race wearing number 13406 ."
+            ],
+            [
+                "\"On a rainy day , a woman holds an umbrella above a runner and gives her water .\""
+            ]
+        ]
+    },
+    "image_714": {
+        "blip_caption": "there is a woman sitting at a table with a glass of wine in front of her",
+        "gpt2_caption": "a woman is sitting at a table with a glass of wine ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A blonde haired woman is pouring drinks at a bar ."
+            ],
+            [
+                "A blonde woman pours a glass of wine in a dim restaurant ."
+            ],
+            [
+                "A lady in the kitchen is pouring wine ."
+            ],
+            [
+                "A woman in a restaurant pouring wine into a clear glass ."
+            ],
+            [
+                "A woman with a tag is pouring red wine in a glass"
+            ]
+        ]
+    },
+    "image_715": {
+        "blip_caption": "there is a young boy that is on a slide in the park",
+        "gpt2_caption": "a young boy sitting on a chair in a room ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A boy wearing navy blue slides down a gray slide ."
+            ],
+            [
+                "A boy with laying on his stomach with his arms in front of him ."
+            ],
+            [
+                "A child sliding face first down a metal tube"
+            ],
+            [
+                "A little boy in black slides headfirst down a tan tube with his mouth open wide ."
+            ],
+            [
+                "A young boy going headfirst down a slide ."
+            ]
+        ]
+    },
+    "image_716": {
+        "blip_caption": "there is a man on a water ski being pulled by a boat",
+        "gpt2_caption": "a person on a board in the water ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A man beginning to waterski wearing a red life jacket ."
+            ],
+            [
+                "A man holds on to a handle in the water ."
+            ],
+            [
+                "A man waterskies ."
+            ],
+            [
+                "A man waterskies with a life jacket ."
+            ],
+            [
+                "a waterskier wearing a red life jacket is holding the line waiting to be pulled up in the water ."
+            ]
+        ]
+    },
+    "image_717": {
+        "blip_caption": "there is a little boy that is running on the beach with a frisbee",
+        "gpt2_caption": "a little boy standing on a beach with a surfboard ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A boy in a swimsuit walking in the sand towards the water"
+            ],
+            [
+                "A boy is running towards a seagull on a beach ."
+            ],
+            [
+                "A little boy on a beach runs towards the water ."
+            ],
+            [
+                "A young boy chasing a gull on the beach"
+            ],
+            [
+                "A young boy is walking towards a seagull on the shoreline of a beach ."
+            ]
+        ]
+    },
+    "image_718": {
+        "blip_caption": "there is a dog that is running on the beach with a frisbee in it's mouth",
+        "gpt2_caption": "a dog running on the beach with a frisbee in its mouth ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A brown and black dog runs down a sandy beach ."
+            ],
+            [
+                "An animal running through the sand at the beach ."
+            ],
+            [
+                "An orange cat with black stripes on a beach ."
+            ],
+            [
+                "A striped dog runs along the beach ."
+            ],
+            [
+                "Long necked dog jumps on"
+            ]
+        ]
+    },
+    "image_719": {
+        "blip_caption": "there is a dog that is jumping in the air with a tennis ball in it's mouth",
+        "gpt2_caption": "a dog jumping up to catch a frisbee ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A brown dog is jumping after a tennis ball ."
+            ],
+            [
+                "A brown dog leaps into the air to catch a dirty tennis ball in its mouth ."
+            ],
+            [
+                "A dog that looks much like a coyote jumps into the air over a grassy field to catch a tennis ball ."
+            ],
+            [
+                "A red dog jumps to catch a tennis ball in the dry tall grass ."
+            ],
+            [
+                "The brown dog catches a ball in the air ."
+            ]
+        ]
+    },
+    "image_720": {
+        "blip_caption": "there is a man and a boy playing with a water fountain in front of a building",
+        "gpt2_caption": "people are standing around a fountain ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A few younger boys play around a fountain ."
+            ],
+            [
+                "A group of people gather around a large fountain ."
+            ],
+            [
+                "Three boys play around a fountain in an office building courtyard ."
+            ],
+            [
+                "Three kids are playing at a fountain in front of a building ."
+            ],
+            [
+                "three kids playing around a fountain"
+            ]
+        ]
+    },
+    "image_721": {
+        "blip_caption": "there is a woman in a yellow bathing suit standing on a rock by the water",
+        "gpt2_caption": "a woman standing on a rock near a body of water ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A girl in a yellow bathing suit from a cliff looks at a person in the water ."
+            ],
+            [
+                "A girl in a yellow bathing suit stands on a rock over a body of water ."
+            ],
+            [
+                "A woman in a yellow bathing suit gets ready to jump in the water to join someone ."
+            ],
+            [
+                "A woman standing on a rock prepares to jump into the water ."
+            ],
+            [
+                "Wet girl in yellow swimsuit looks over cliff to a swimmer in the water ."
+            ]
+        ]
+    },
+    "image_722": {
+        "blip_caption": "there are three dogs that are running in the grass together",
+        "gpt2_caption": "a dog and a dog dog standing in a field ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A brown dog is running towards three other dogs ."
+            ],
+            [
+                "Four dogs are running around in the grass ."
+            ],
+            [
+                "Four dogs of varying breeds running through a field ."
+            ],
+            [
+                "Four dogs playing in a field"
+            ],
+            [
+                "Four dogs play together on a grassy and leafy ground ."
+            ]
+        ]
+    },
+    "image_723": {
+        "blip_caption": "there is a woman sitting on a log next to a man who is kneeling down",
+        "gpt2_caption": "a man and woman sitting on a tree ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A girl laying on the tree with a boy kneeling before her ."
+            ],
+            [
+                "A girl with bright red hair and black clothes is posing on a tree trunk ."
+            ],
+            [
+                "A large woman with long pink hair dressed in black is laying on a tree trunk talking to a man who is crouched down next to her ."
+            ],
+            [
+                "A red haired woman in black is posing for a man while resting on a tree ."
+            ],
+            [
+                "A woman with pink hair dressed in black talks to a man ."
+            ]
+        ]
+    },
+    "image_724": {
+        "blip_caption": "there is a small dog playing with a stuffed animal on the floor",
+        "gpt2_caption": "a dog laying on the floor with a tennis racket ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A brown dog is staring closely at a sleeping brown and white dog ."
+            ],
+            [
+                "A little dog struggles with a man holding a slipper ."
+            ],
+            [
+                "A small brown dog is playing with a fuzzy slipper ."
+            ],
+            [
+                "\"The black and tan dog is on a rug , tugging on a slipper .\""
+            ],
+            [
+                "The little dog grabs a hold of the bedroom slipper with its mouth ."
+            ]
+        ]
+    },
+    "image_725": {
+        "blip_caption": "there are four children posing for a picture together in a living room",
+        "gpt2_caption": "a family posing for a picture ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "Four young children dressed formally pose for a potrait with the two boys standing in front and the two girls smiling in the back ."
+            ],
+            [
+                "Four young children pose in formally for an informal picture ."
+            ],
+            [
+                "Two girls and two boys dressed alike stand together ."
+            ],
+            [
+                "Two girls in matching pink and white dresses and two smaller boys in matching black and white shirts ."
+            ],
+            [
+                "Two little girls in matching dresses pose with two little boys in matching outfits ."
+            ]
+        ]
+    },
+    "image_726": {
+        "blip_caption": "there is a woman in a blue uniform standing in front of a crowd",
+        "gpt2_caption": "a woman wearing a blue dress and a blue hat ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A girl in a firefighter 's uniform looks back and says something ."
+            ],
+            [
+                "\"A woman is dressed in a \"\" fire department \"\" uniform .\""
+            ],
+            [
+                "A young female firefighter stands in front of a crowd ."
+            ],
+            [
+                "The lady is wearing a blue fire department shirt ."
+            ],
+            [
+                "The woman wearing a fire department uniform is talking to people ."
+            ]
+        ]
+    },
+    "image_727": {
+        "blip_caption": "there are two young men walking down the street with their skateboards",
+        "gpt2_caption": "two men standing next to each other holding skateboards ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "The camera focuses on two people 's legs ."
+            ],
+            [
+                "The legs and mid-sections of two people with skateboards ."
+            ],
+            [
+                "\"Two guys walking , one carrying a skateboard\""
+            ],
+            [
+                "two male skaters walk on sidewalk"
+            ],
+            [
+                "two people wearing white shirts and jeans each carrying a skateboard"
+            ]
+        ]
+    },
+    "image_728": {
+        "blip_caption": "there is a young boy that is walking a dog on a leash",
+        "gpt2_caption": "a man is walking down the street with a dog ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A boy in a striped shirt walking a small dog on a leash ."
+            ],
+            [
+                "A boy is walking a small white dog down the street ."
+            ],
+            [
+                "A boy signals with his hands while he walks a white dog with a pink leash ."
+            ],
+            [
+                "A dark skinned boy is walking a white dog on a pink leash down a sidewalk ."
+            ],
+            [
+                "A young boy showing off while walking his white dog in a neighborhood ."
+            ]
+        ]
+    },
+    "image_729": {
+        "blip_caption": "smiling blonde woman in sunglasses and denim jacket standing in front of a row of surfboards",
+        "gpt2_caption": "a woman wearing sunglasses and a black jacket ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A blonde lady with sunglasses smiles ."
+            ],
+            [
+                "A blonde woman wearing sunglasses and dice earrings smiles ."
+            ],
+            [
+                "A woman wearing black sunglasses looks to the right and smiles ."
+            ],
+            [
+                "A woman wearing sunglasses smiles ."
+            ],
+            [
+                "The gal wearing the black sunglasses and blue jean jacket is smiling ."
+            ]
+        ]
+    },
+    "image_730": {
+        "blip_caption": "there are many people sitting around a campfire in the dark",
+        "gpt2_caption": "a fire place with a group of people standing around it ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A group of people sit around a blazing fire at night ."
+            ],
+            [
+                "A large campfire at night with several people sitting around it ."
+            ],
+            [
+                "People are clustered around a bonfire at night ."
+            ],
+            [
+                "People sitting around a campfire at night ."
+            ],
+            [
+                "Several people are sitting around a fire at night ."
+            ]
+        ]
+    },
+    "image_731": {
+        "blip_caption": "there is a man that is jumping over a rock with his hands in the air",
+        "gpt2_caption": "a man jumping over a rock with a rock ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A man in a red shirt is jumping from one rock to another larger rocker with two male spotters below him ."
+            ],
+            [
+                "A man in the red shirt tried to hang onto the rock while three others watched ."
+            ],
+            [
+                "A man is hanging from the edge of a rock while two others catch him ."
+            ],
+            [
+                "a man jumping from one large rock to the next"
+            ],
+            [
+                "A man jumps from one boulder to another and two men try to catch him as he barely makes it ."
+            ]
+        ]
+    },
+    "image_732": {
+        "blip_caption": "there is a dog that is standing in the water near a waterfall",
+        "gpt2_caption": "a dog swimming in a pool of water ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A dog swims towards a waterfall ."
+            ],
+            [
+                "a tan and white dog swimming towards a waterfall"
+            ],
+            [
+                "A yellow dog swims towards a waterfall ."
+            ],
+            [
+                "The dog swims through the water toward the waterfall ."
+            ],
+            [
+                "The dog swims towards a waterfall ."
+            ]
+        ]
+    },
+    "image_733": {
+        "blip_caption": "there is a man that is sitting in a tree with a cat",
+        "gpt2_caption": "a man sitting on a tree branch with a bunch of trees ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "Children climbing huge tree ."
+            ],
+            [
+                "Two children are sitting in some tree branches ."
+            ],
+            [
+                "Two children look down from a green tree they have climbed ."
+            ],
+            [
+                "Two kids in a green tree ."
+            ],
+            [
+                "Two people standing in tree on a sunny day"
+            ]
+        ]
+    },
+    "image_734": {
+        "blip_caption": "there is a young boy jumping in the air over a body of water",
+        "gpt2_caption": "a man jumping in the air to catch a frisbee ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A blond girl wearing blue jumping across a stream ."
+            ],
+            [
+                "\"A girl hops across the river , from rock to rock .\""
+            ],
+            [
+                "A girl jumping from one rock to another in a creek ."
+            ],
+            [
+                "A girl leaps through the air while running on the riverbank ."
+            ],
+            [
+                "A little girl jumps from one rock to another in a creek ."
+            ]
+        ]
+    },
+    "image_735": {
+        "blip_caption": "there is a black and white dog playing with a frisbee in a living room",
+        "gpt2_caption": "a black and white dog is playing with a remote ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A black and white dog standing on its hind legs on carpeting in front of a chair ."
+            ],
+            [
+                "A black and white dog stands on its hind legs ."
+            ],
+            [
+                "a boy jumps ."
+            ],
+            [
+                "Black and white dog in living room standing on hind legs ."
+            ],
+            [
+                "Closeup of a dog standing on its hind legs"
+            ]
+        ]
+    },
+    "image_736": {
+        "blip_caption": "there is a little girl that is sitting on a swing",
+        "gpt2_caption": "a little girl is holding a colorful umbrella ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A closeup of a little girl on a swing ."
+            ],
+            [
+                "A little girl in a dress with pink flowers swings on a red-seated swing ."
+            ],
+            [
+                "A little girl in a pink and white flowered dress and blue sweater swinging ."
+            ],
+            [
+                "A young girl is swinging in a backyard ."
+            ],
+            [
+                "The little girl swings in the backyard ."
+            ]
+        ]
+    },
+    "image_737": {
+        "blip_caption": "there is a fire truck that is spraying water out of a fire hydrant",
+        "gpt2_caption": "a fire hydrant spraying water onto a street ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A group of children play in the street where water is sprayed ."
+            ],
+            [
+                "Children playing in water ."
+            ],
+            [
+                "Children play in the street under a spray of water from a large machine ."
+            ],
+            [
+                "Kids playing under a big sprinkler ."
+            ],
+            [
+                "Kids play in the water in the middle of the street ."
+            ]
+        ]
+    },
+    "image_738": {
+        "blip_caption": "there are three people that are walking their dogs in the grass",
+        "gpt2_caption": "a dog running across a grassy field with a man ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A man and a woman walk their dogs on leashes ."
+            ],
+            [
+                "\"Dogs straining on leashes towards each other , as owners walk apart on grass .\""
+            ],
+            [
+                "The two dogs are being pulled away by their owners ."
+            ],
+            [
+                "Two dogs on leashes straining toward each other while their owners walk away from each other ."
+            ],
+            [
+                "Two dogs try to reach each other as their human companions pull them in opposite directions by their leashes ."
+            ]
+        ]
+    },
+    "image_739": {
+        "blip_caption": "there are many people dressed up in costumes for a parade",
+        "gpt2_caption": "a man dressed up as a bear in a costume ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "The Kiss-costumed adults are pushing the strollers of the Kiss-costumed kids ."
+            ],
+            [
+                "\"The two young children are in black and white facepaint and costumes while riding in a stroller , they are being pushed by a man also in facepaint and a costume\""
+            ],
+            [
+                "Two babies are dressed up as Kiss along with their parent 's ."
+            ],
+            [
+                "\"Two little kids in strollers have face makeup on like the band \"\" Kiss \"\" .\""
+            ],
+            [
+                "Two parents with two children and others dressed up like the music group Kiss ."
+            ]
+        ]
+    },
+    "image_740": {
+        "blip_caption": "there is a young girl jumping in the air in front of a fountain",
+        "gpt2_caption": "a young boy running in the water with a hose ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A child in a striped shirt gleefully plays among some water fountains ."
+            ],
+            [
+                "\"A child in rolled up jeans , a striped shirt , and a helmet frolics in sprinklers .\""
+            ],
+            [
+                "A girl playing in a fountain"
+            ],
+            [
+                "A girls leaps as she runs through sprinklers ."
+            ],
+            [
+                "Person with striped shirt is playing in the sprinklers ."
+            ]
+        ]
+    },
+    "image_741": {
+        "blip_caption": "there is a black dog that is standing on a wooden fence",
+        "gpt2_caption": "a black dog is standing on a log ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A dog jumps over a log in the woods ."
+            ],
+            [
+                "\"A large , black dog is climbing over a wooden fence surrounded by bushes .\""
+            ],
+            [
+                "Black dog climbs over fallen logs or boards ."
+            ],
+            [
+                "Black dog climbs over fence in grassy area"
+            ],
+            [
+                "Black dog with a red collar is climbing over fence posts ."
+            ]
+        ]
+    },
+    "image_742": {
+        "blip_caption": "there is a young boy dressed in a pirate costume with a skull and crossbone on his chest",
+        "gpt2_caption": "a young boy wearing a tie and holding a gun ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "a boy dressed as a pirate smiles largley ."
+            ],
+            [
+                "A boy with a skeleton on his shirt laughs ."
+            ],
+            [
+                "A child dressed like a pirate smiles ."
+            ],
+            [
+                "A young boy dressed as a pirate and running ."
+            ],
+            [
+                "The boys enjoys his pirate costume ."
+            ]
+        ]
+    },
+    "image_743": {
+        "blip_caption": "there are two dogs that are playing with each other in the grass",
+        "gpt2_caption": "a dog is running through the grass with a frisbee ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A dog looks behind itself ."
+            ],
+            [
+                "A tan dog is running alongside another dog outside"
+            ],
+            [
+                "Two dogs are running next to each other on the grass ."
+            ],
+            [
+                "Two dogs run together near the leaves ."
+            ],
+            [
+                "Two small dogs run on a dirt road covered in leafs ."
+            ]
+        ]
+    },
+    "image_744": {
+        "blip_caption": "there is a man that is in the air on a surfboard",
+        "gpt2_caption": "a man is water skiing while holding onto a rope ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A blonde man is wakeboarding and is jumping into the air ."
+            ],
+            [
+                "a blond man jumping through the air over the ocean"
+            ],
+            [
+                "A blond man on a single waterski ."
+            ],
+            [
+                "A man gets air time on his wakeboard ."
+            ],
+            [
+                "Man airborne on wakeboard with elevation in the background and blue water ."
+            ]
+        ]
+    },
+    "image_745": {
+        "blip_caption": "this is a black and white photo of a fire hydrant in front of a house",
+        "gpt2_caption": "a man is standing on a sidewalk with a red fire hydrant ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A boy dressed as Spiderman ringing a door bell"
+            ],
+            [
+                "A child dressed as Spiderman ringing a doorbell ."
+            ],
+            [
+                "A child that is dressed as Spiderman is ringing the doorbell ."
+            ],
+            [
+                "\"At Halloween , this little spiderman waits to get some candy .\""
+            ],
+            [
+                "A young child in a costume rings the door bell of a gray house ."
+            ]
+        ]
+    },
+    "image_746": {
+        "blip_caption": "there are many people on the beach flying kites on a sunny day",
+        "gpt2_caption": "a beach with people on it and a flag flying ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A beach crowded with beachgoers ."
+            ],
+            [
+                "A busy beach has people scattered on it watching the sky ."
+            ],
+            [
+                "A partly cloudy day at the beach with people standing around and a building on the right ."
+            ],
+            [
+                "Beachgoers watch something in the sky ."
+            ],
+            [
+                "\"Many people are on the beach , near a building with flags flying .\""
+            ]
+        ]
+    },
+    "image_747": {
+        "blip_caption": "there are two dogs that are playing in the pool together",
+        "gpt2_caption": "a dog jumping in the water with a frisbee ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "black dogs jump in pool to a hand ."
+            ],
+            [
+                "Two black dogs are diving into a pool to get a dog toy ."
+            ],
+            [
+                "Two black dogs jump in a pool ."
+            ],
+            [
+                "Two black dogs jump into a blue swimming pool ."
+            ],
+            [
+                "Two dogs are leaping into a swimming pool trying to fetch the yellow toy that is floating in the water ."
+            ]
+        ]
+    },
+    "image_748": {
+        "blip_caption": "there is a man in a mask sitting at a table with a plate of food",
+        "gpt2_caption": "a person sitting at a table with a laptop ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A costumed diner sits in a restaurant wearing a black outfit that covers their face ."
+            ],
+            [
+                "A costumed figure leans into the dinner table ."
+            ],
+            [
+                "A man dressed in a dark costume sitting at a restaurant table"
+            ],
+            [
+                "a man sitting at a table with a scary mask covering his face"
+            ],
+            [
+                "\"A person at a table , dressed in a black costume .\""
+            ]
+        ]
+    },
+    "image_749": {
+        "blip_caption": "there is a woman in a red bikini posing in front of a giant sculpture",
+        "gpt2_caption": "a woman in a bikini standing on a sidewalk ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A girl dressed as a devil stands in front of a lighted object on a city street ."
+            ],
+            [
+                "A girl is dressed up in a red devil outfit ."
+            ],
+            [
+                "A woman in a ' devil ' outfit standing in front of a fountain ."
+            ],
+            [
+                "A woman in a red devil costume in front of a fountain ."
+            ],
+            [
+                "A woman wears a devil costume and poses in front of a fountain ."
+            ]
+        ]
+    },
+    "image_750": {
+        "blip_caption": "there are two people that are standing in the snow with their arms in the air",
+        "gpt2_caption": "a man standing on top of a snow covered slope ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "Two men raise their arms atop a snowy mountain ."
+            ],
+            [
+                "Two people jumping up with snow covered mountains in the background ."
+            ],
+            [
+                "Two people kneel on the snow and raise their arms with mountains behind them ."
+            ],
+            [
+                "Two people raise their arms on a snowy hill in the mountains ."
+            ],
+            [
+                "two snowboarders throw up their hands ."
+            ]
+        ]
+    },
+    "image_751": {
+        "blip_caption": "there is a black and white dog wearing an orange vest and holding a stick in its mouth",
+        "gpt2_caption": "a dog with a baseball bat on a field ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A dog with a few leashes and a vest on pulls at something with its mouth ."
+            ],
+            [
+                "A dog with a harness and a toy its mouth ."
+            ],
+            [
+                "A dog with a reflective harness looks at the camera ."
+            ],
+            [
+                "A dog with a toy in its mouth eyes the camera ."
+            ],
+            [
+                "A small black and white dog in a harness is looking at the camera"
+            ]
+        ]
+    },
+    "image_752": {
+        "blip_caption": "there is a man in a red leather suit and mask standing on the street",
+        "gpt2_caption": "a man dressed in a costume and holding a red umbrella ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A man dressed in a red outfit ."
+            ],
+            [
+                "A man in a red suit and a red mask stands beside another costumed man ."
+            ],
+            [
+                "A man wearing a red costume stands near others ."
+            ],
+            [
+                "The guy is wearing a red and black outfit with a matching mask ."
+            ],
+            [
+                "The man is wearing a red outfit and red mask stands in front of another man in urban camouflage ."
+            ]
+        ]
+    },
+    "image_753": {
+        "blip_caption": "there is a man that is holding a light saber in his hand",
+        "gpt2_caption": "a man holding a black and white object in his hands ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A man dressed in brown holding a light saber ."
+            ],
+            [
+                "a man wearing a black outfit holding on to a glowing sword ."
+            ],
+            [
+                "Man dressed up in black and brown and holding a white light saber ."
+            ],
+            [
+                "The man holds a light Sabre ."
+            ],
+            [
+                "The man is playing with his Star Wars light sword ."
+            ]
+        ]
+    },
+    "image_754": {
+        "blip_caption": "there is a woman singing into a microphone with a guitar in front of her",
+        "gpt2_caption": "a woman in a black dress is playing a guitar ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A girl in a polka dot dress singing into a microphone ."
+            ],
+            [
+                "A woman in a polka dot top is singing into a microphone ."
+            ],
+            [
+                "A woman sings into a microphone with a guitar player in the background ."
+            ],
+            [
+                "A woman with black hair wearing a black and white polka-dot dress is singing into a microphone ."
+            ],
+            [
+                "A young woman stands singing at a microphone while a man behind her holds a guitar ."
+            ]
+        ]
+    },
+    "image_755": {
+        "blip_caption": "several people standing in a park with a frisbee in their hands",
+        "gpt2_caption": "people standing around a park ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A group of five people stand outdoors ."
+            ],
+            [
+                "Five people in back shirts stand in front of a small object in a grove of trees ."
+            ],
+            [
+                "\"Five people , wearing dark blue shirts , give a presentation outdoors .\""
+            ],
+            [
+                "Four men and one woman in black shirts stand in a park ."
+            ],
+            [
+                "One woman and four men wearing black shirts standing on the grass in the shade ."
+            ]
+        ]
+    },
+    "image_756": {
+        "blip_caption": "there is a woman that is holding a rope in her hands",
+        "gpt2_caption": "a man in a helmet is standing on a rock ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A girl with a red helmet carying a lot of rope ."
+            ],
+            [
+                "A smiling woman wearing a red hardhat has a long length of rope around her shoulders ."
+            ],
+            [
+                "A woman wearing a red helmet is holding a rope and smiling ."
+            ],
+            [
+                "A woman with a helmet and climbing rope smiles at the camera ."
+            ],
+            [
+                "The smiling woman in the red helmet is outdoors holding a very long rope ."
+            ]
+        ]
+    },
+    "image_757": {
+        "blip_caption": "there is a man that is driving a green jeep in the woods",
+        "gpt2_caption": "a large black truck with a large rock on top of it ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A man drives a green jeep over a few jagged rocks ."
+            ],
+            [
+                "A man drives a jeep over rough rocks ."
+            ],
+            [
+                "A man driving a green jeep is crossing over large rocks ."
+            ],
+            [
+                "A man is driving a green tractor-like vehicle over rocks ."
+            ],
+            [
+                "A vehicle climbs on rocks near a forest ."
+            ]
+        ]
+    },
+    "image_758": {
+        "blip_caption": "there is a woman that is standing in front of a red light",
+        "gpt2_caption": "a woman wearing a pink dress and a pink tie ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "An upset woman with her makeup streaming down her face from her tears ."
+            ],
+            [
+                "A person wearing a pink jacket who has lots of make-up on walks down a street ."
+            ],
+            [
+                "a woman wearing heavy makeup and a pink jacket is walking past a clothing shop at night ."
+            ],
+            [
+                "\"A woman wearing heavy makeup stands in front of a store with a neon sign saying , \"\" Red Light . \"\"\""
+            ],
+            [
+                "A woman with heavy makeup is standing next to a red light sign ."
+            ]
+        ]
+    },
+    "image_759": {
+        "blip_caption": "there is a dog that is jumping in the air with a frisbee in it's mouth",
+        "gpt2_caption": "a dog jumping up to catch a frisbee ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A dog catches a Frisbee as it jumps on the grass ."
+            ],
+            [
+                "A pitbull jumps to catch a flying disc ."
+            ],
+            [
+                "A white dog has jumped up in the air to catch a Frisbee ."
+            ],
+            [
+                "The dog jumps to catch the Frisbee ."
+            ],
+            [
+                "The white dog has a grey Frisbee in its mouth ."
+            ]
+        ]
+    },
+    "image_760": {
+        "blip_caption": "there is a man that is walking across the street with a backpack",
+        "gpt2_caption": "a man in a black shirt and a black jacket holding a white object ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A guy in gray is walking across the street at night ."
+            ],
+            [
+                "\"A man walking across a crosswalk with long hair , a green hoodie , and a backpack .\""
+            ],
+            [
+                "\"A man with long hair is making an \"\" OK \"\" sign with his hand while he walks down a street .\""
+            ],
+            [
+                "A man with long hair wearing gray clothes and a backpack ."
+            ],
+            [
+                "a young man wearing grey pants and backpack with long brown hair"
+            ]
+        ]
+    },
+    "image_761": {
+        "blip_caption": "there is a woman that is standing on a rock with a backpack",
+        "gpt2_caption": "a woman in a bikini standing on a rock ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A girl in a bikini top and shorts poses for a picture on a mountain overlooking a lake ."
+            ],
+            [
+                "A girl in a bikini top stands in front of a beautiful view ."
+            ],
+            [
+                "A girl in a bikini top with a great view in the background"
+            ],
+            [
+                "A woman poses for a picture while in front of a lake ."
+            ],
+            [
+                "Woman in white bikini top and blue shorts with body of water in the background ."
+            ]
+        ]
+    },
+    "image_762": {
+        "blip_caption": "several bicyclists are riding down a dirt road in the woods",
+        "gpt2_caption": "a large group of people riding bikes down a trail ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A group of bicyclists riding down a path in an off road race ."
+            ],
+            [
+                "A group of bikers riding through the woods"
+            ],
+            [
+                "A group of people are riding bicycles in a race ."
+            ],
+            [
+                "Bikers race through a forest ."
+            ],
+            [
+                "Many bicyclists racing along a dirt road ."
+            ]
+        ]
+    },
+    "image_763": {
+        "blip_caption": "there is a young boy kicking a soccer ball on a field",
+        "gpt2_caption": "young children playing soccer on a field ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A blond boy with a navy blue uniform kicks a soccer ball in an open field ."
+            ],
+            [
+                "A boy in an all blue uniform kicks a blue soccer ball in a grassy area ."
+            ],
+            [
+                "A little boy is playing soccer at a field ."
+            ],
+            [
+                "A small child plays with a ball while others relax and converse with one another ."
+            ],
+            [
+                "A young boy dressed in blue and white is kicking a soccer ball ."
+            ]
+        ]
+    },
+    "image_764": {
+        "blip_caption": "there is a man that is hanging from a rope in the water",
+        "gpt2_caption": "a person jumping in the air on a board ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A man in a maroon bathing suit swings on a rope on a lake ."
+            ],
+            [
+                "A man in red shorts swinging on a rope over a lake ."
+            ],
+            [
+                "A man is swinging on a rope above the water ."
+            ],
+            [
+                "A man is swinging on a rope over water ."
+            ],
+            [
+                "This man is swinging on the rope swing out over the blue water ."
+            ]
+        ]
+    },
+    "image_765": {
+        "blip_caption": "there is a man that is jumping into the water on a rope",
+        "gpt2_caption": "a person jumping over a body of water ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A guy in swimming trunks flying on a rope swing above a lake ."
+            ],
+            [
+                "A man is rope-swinging off a tree into a lake ."
+            ],
+            [
+                "A man is swinging on a rope swing into a lake ."
+            ],
+            [
+                "A person uses a rope swing over the water ."
+            ],
+            [
+                "There is a man swinging off a rope swing into a lake ."
+            ]
+        ]
+    },
+    "image_766": {
+        "blip_caption": "there are three children playing in the sand at the beach",
+        "gpt2_caption": "people sitting on a beach ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "The three people are squatting by the water ."
+            ],
+            [
+                "Three children bend over to look at the waters edge at a lake ."
+            ],
+            [
+                "Three kids lean into the water edge wearing bright pants ."
+            ],
+            [
+                "Three kids squat down and look at the ground on the shore of a lake ."
+            ],
+            [
+                "Three people squat down on the edge of a lake ."
+            ]
+        ]
+    },
+    "image_767": {
+        "blip_caption": "there is a dog that is playing with a frisbee in the water",
+        "gpt2_caption": "a dog is playing with a frisbee in the water ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "Two dogs are running through water carrying a rope and red float in their mouths ."
+            ],
+            [
+                "Two dogs carry a toy out of the ocean ."
+            ],
+            [
+                "Two dogs carrying a red toy in their mouths and running in water ."
+            ],
+            [
+                "Two dogs carry one object while wading in the ocean ."
+            ],
+            [
+                "Two dogs run through the water and both hold the same toy in their mouths ."
+            ]
+        ]
+    },
+    "image_768": {
+        "blip_caption": "there is a man taking a picture of a baby with a cell phone",
+        "gpt2_caption": "a woman and a child are looking at a cell phone ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "\"A baby with a pink hat , held by a man in red and a woman in pink .\""
+            ],
+            [
+                "A man is holding his baby while a woman takes a picture of the baby ."
+            ],
+            [
+                "A woman takes a photo of a baby being held by a man ."
+            ],
+            [
+                "A woman takes a picture of a baby wearing a pink hat while a man carries her ."
+            ],
+            [
+                "Woman is taking a picture of a baby in a pink hat ."
+            ]
+        ]
+    },
+    "image_769": {
+        "blip_caption": "there is a black dog that is in the water with a tennis ball in it's mouth",
+        "gpt2_caption": "a dog is swimming in the water ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A black dog in the water"
+            ],
+            [
+                "A black dog runs through the water with a ball in its mouth ."
+            ],
+            [
+                "A black laborador with a ball in his mouth coming out of the surf"
+            ],
+            [
+                "\"A large , black dog with something in its mouth is coming out of a pool of water .\""
+            ],
+            [
+                "The black dog waring a red collar is running through the water with a ball in its mouth ."
+            ]
+        ]
+    },
+    "image_770": {
+        "blip_caption": "there is a man and a woman that are wearing mickey mouse ears",
+        "gpt2_caption": "a man and woman standing next to each other ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A man and a woman wear mickey mouse ears at an event ."
+            ],
+            [
+                "A man and woman wearing Mickey Mouse ears stand in a crowd ."
+            ],
+            [
+                "A man and woman wear Mickey Mouse hats ."
+            ],
+            [
+                "a man and woman wearing Mickey Mouse ears in a crowd ."
+            ],
+            [
+                "Two spectators are adorn with Mickey Mouse ears while looking back at an angle from a stadium ."
+            ]
+        ]
+    },
+    "image_771": {
+        "blip_caption": "there is a dog that is running through the leaves in the woods",
+        "gpt2_caption": "a dog standing in the middle of a forest ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A black and white dog runs in some leaves ."
+            ],
+            [
+                "a dog sprints across the leaf covered ground ."
+            ],
+            [
+                "A dog with floppy ears runs in a forest in the fall ."
+            ],
+            [
+                "A dog with one ear up runs outside through the fall leaves ."
+            ],
+            [
+                "A white and brown dog is running over orange leaves ."
+            ]
+        ]
+    },
+    "image_772": {
+        "blip_caption": "there are two dogs that are playing with each other on the beach",
+        "gpt2_caption": "a dog and a cat playing together ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A black dog and a tan dog fighting ."
+            ],
+            [
+                "A black dog and a white dog are wrestling on the ground ."
+            ],
+            [
+                "A black dog bites a white dog while standing on the sand ."
+            ],
+            [
+                "two dogs fight ."
+            ],
+            [
+                "\"Two dogs , one white and one black , play with each other in the sand .\""
+            ]
+        ]
+    },
+    "image_773": {
+        "blip_caption": "there is a man laying on a rock with a backpack on his back",
+        "gpt2_caption": "a person on a rock climbing up a hill ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "\"A man rock climbs up a very tall cliff , with a blue rope behind him .\""
+            ],
+            [
+                "A man wearing a red shirt is climbing up the rock wall ."
+            ],
+            [
+                "\"A young man climbs a mountain , another follows below .\""
+            ],
+            [
+                "Man scales rock ."
+            ],
+            [
+                "The climber in red is leading climbers up a long rock face ."
+            ]
+        ]
+    },
+    "image_774": {
+        "blip_caption": "there is a man that is climbing up the side of a mountain",
+        "gpt2_caption": "a man is standing on a rock near a cliff ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A boy does a cartwheel on a rock cliff ."
+            ],
+            [
+                "a man climbs a large rock ."
+            ],
+            [
+                "A man climbs on a steep structure ."
+            ],
+            [
+                "A man climbs up a cliff face with no safety equipment ."
+            ],
+            [
+                "A shirtless man is climbing up a mountainside ."
+            ]
+        ]
+    },
+    "image_775": {
+        "blip_caption": "there is a dog that is standing on a log in the woods",
+        "gpt2_caption": "a large brown bear standing on top of a log ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A dog in the forest ."
+            ],
+            [
+                "A dog standing on a log in a forest ."
+            ],
+            [
+                "A grey colored dog is licking a fallen tree in the forest ."
+            ],
+            [
+                "A grey dog explores a fallen tree in the woods ."
+            ],
+            [
+                "A medium sized dog sniffing in a forest"
+            ]
+        ]
+    },
+    "image_776": {
+        "blip_caption": "there is a man standing next to a green jeep on a hill",
+        "gpt2_caption": "a man standing next to a truck with a dog ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A man in a hat stands in front of a gray jeep in dry grass ."
+            ],
+            [
+                "A man in a hat standing outside of his green jeep rangler ."
+            ],
+            [
+                "A man next to his black jeep ."
+            ],
+            [
+                "Man in green shirt and cargo khakis standing next to a green jeep ."
+            ],
+            [
+                "Man standing on a dirt hill next to a black jeep ."
+            ]
+        ]
+    },
+    "image_777": {
+        "blip_caption": "there are many lounge chairs and umbrellas on the beach next to the water",
+        "gpt2_caption": "a beach with a lot of people sitting on chairs ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "Many of the chairs are empty with only a few people enjoying the sun ."
+            ],
+            [
+                "People are lying on lounge chairs ."
+            ],
+            [
+                "Several people lay out in the sun on white lawn chairs by a body of water ."
+            ],
+            [
+                "Two people are relaxing on a beach amidst lounge chairs"
+            ],
+            [
+                "White lounge chairs are lined up at a resort for sunbathers ."
+            ]
+        ]
+    },
+    "image_778": {
+        "blip_caption": "there is a woman and a child that are walking down the street",
+        "gpt2_caption": "a little girl walking down a street with a skateboard ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A little blond boy and a young woman in jeans walk through a plaza ."
+            ],
+            [
+                "A toddler boy in a red tank top and khaki shorts walks on the European street with a woman in a white top and faded blue jeans ."
+            ],
+            [
+                "A woman walks and a little boy walks to the side of her ."
+            ],
+            [
+                "A young boy wearing a red shirt stands in the street with his arms open wide ."
+            ],
+            [
+                "The baby is wearing a red shirt and walking in a plaza ."
+            ]
+        ]
+    },
+    "image_779": {
+        "blip_caption": "there is a man and a little girl riding a bike on the street",
+        "gpt2_caption": "a man and a woman riding a bike down a street ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A man helps a little girl ride a bike ."
+            ],
+            [
+                "A man helps a young girl balance on a bicycle that is too big for her ."
+            ],
+            [
+                "A man holding onto a small girl on a bike ."
+            ],
+            [
+                "A man is helping a girl sit on a large bicycle ."
+            ],
+            [
+                "This man is helping a girl in an orange dress onto a bicycle ."
+            ]
+        ]
+    },
+    "image_780": {
+        "blip_caption": "there is a man and a little girl that are sitting on the ground",
+        "gpt2_caption": "a man and a woman sitting on a sidewalk eating ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A man and a girl sit on the ground and eat ."
+            ],
+            [
+                "A man and a little girl are sitting on a sidewalk near a blue bag eating ."
+            ],
+            [
+                "A man and young girl eat a meal on a city street ."
+            ],
+            [
+                "A man wearing a black shirt and a girl wearing an orange shirt sitting on the pavement eating ."
+            ],
+            [
+                "A man wearing a black shirt and a little girl wearing an orange dress share a treat ."
+            ]
+        ]
+    },
+    "image_781": {
+        "blip_caption": "there is a man feeding a little girl a piece of food on the street",
+        "gpt2_caption": "a man and a woman sitting on a sidewalk eating ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A father feeding his child on the street ."
+            ],
+            [
+                "A man in a black shirt and his little girl wearing orange are sharing a treat ."
+            ],
+            [
+                "A man is feeding a child food while sitting near a building with onlookers ."
+            ],
+            [
+                "\"A man , seated , serves food to a little girl .\""
+            ],
+            [
+                "A man with sunglasses and a black shirt feeds ice cream to a girl with an orange dress on who is sitting beside an opened bag ."
+            ]
+        ]
+    },
+    "image_782": {
+        "blip_caption": "there is a man that is climbing up the side of a mountain",
+        "gpt2_caption": "a person on a mountain with a backpack ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A climber is scaling a mountain cliff ."
+            ],
+            [
+                "A man climbs up a mountain ."
+            ],
+            [
+                "A man in a white helmet and huge backpack is rock climbing ."
+            ],
+            [
+                "A mountain climber follows the edge of the mountain ."
+            ],
+            [
+                "A mountain climber has reached the top of a brown rock ."
+            ]
+        ]
+    },
+    "image_783": {
+        "blip_caption": "there is a little girl that is standing on a wooden walkway",
+        "gpt2_caption": "a girl standing on a ledge near a pier ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A child at an exhibit ."
+            ],
+            [
+                "a girl skips over to the fence ."
+            ],
+            [
+                "A little girl walks on a boardwalk with blue domes in the background ."
+            ],
+            [
+                "\"A young girl is wearing a dress with a red , black , and white design .\""
+            ],
+            [
+                "\"Small girl in red , white and black dress looks at large silver orbs .\""
+            ]
+        ]
+    },
+    "image_784": {
+        "blip_caption": "there is a crowd of people standing in a field watching a man throw a frisbee",
+        "gpt2_caption": "a crowd of people standing around a field ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "Children participate in a sport involving swine among spectators ."
+            ],
+            [
+                "Children playing with a pig"
+            ],
+            [
+                "People are gathered around watching children with a pig ."
+            ],
+            [
+                "Several children pet a pig while a crowd watches ."
+            ],
+            [
+                "the young children are petting a piglet"
+            ]
+        ]
+    },
+    "image_785": {
+        "blip_caption": "there is a dog that is standing on a ramp in the grass",
+        "gpt2_caption": "a dog standing on a fence looking at the camera ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A black and white dog balances on a wooden plank ."
+            ],
+            [
+                "A dog is running on a wooden beam beside a blue fence ."
+            ],
+            [
+                "A dog performs acrobatic stunts on a platform ."
+            ],
+            [
+                "A dog walks on a red plank by a blue railing ."
+            ],
+            [
+                "The dog walks on the high plank ."
+            ]
+        ]
+    },
+    "image_786": {
+        "blip_caption": "there is a man that is sitting in a kayak in the water",
+        "gpt2_caption": "a person on a small boat in the water ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "a kayaker kayaks through the water ."
+            ],
+            [
+                "A person kayaking in the ocean ."
+            ],
+            [
+                "A person kayaks in the middle of the ocean on a grey day ."
+            ],
+            [
+                "A person rows a boat over a large body of water ."
+            ],
+            [
+                "person in a boat with a paddle in hand"
+            ]
+        ]
+    },
+    "image_787": {
+        "blip_caption": "there is a dog that is standing on a surfboard on the beach",
+        "gpt2_caption": "a dog laying on the beach next to a surfboard ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A dog has a wetsuit in his mouth on the beach ."
+            ],
+            [
+                "A dog on a beach dragging an item"
+            ],
+            [
+                "A dog walking on a beach"
+            ],
+            [
+                "A tan dog dragging a deflated innertube down the beach ."
+            ],
+            [
+                "The dog on the beach has gotten a hold of something ."
+            ]
+        ]
+    },
+    "image_788": {
+        "blip_caption": "there is a white dog on a leash being walked by a person on a bike",
+        "gpt2_caption": "a dog walking down a street with a bicycle ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A fluffy white dog on a leash with its owner riding a bike ."
+            ],
+            [
+                "A person on a bike has a white dog on a leash ."
+            ],
+            [
+                "a white dog being led by a person on a bicycle"
+            ],
+            [
+                "A white dog runs along a bicycle ."
+            ],
+            [
+                "A white dog walking beside a bicycler ."
+            ]
+        ]
+    },
+    "image_789": {
+        "blip_caption": "there is a woman that is standing on a rock in the water",
+        "gpt2_caption": "a woman is sitting on a rock near a river ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A girl in a bikini and sneakers makes her way out of the water and onto the rocks ."
+            ],
+            [
+                "A girl in a bikini in climbing rocks ."
+            ],
+            [
+                "A woman in a bikini climbs rocks next to a rocky stream ."
+            ],
+            [
+                "A woman in a bikini is running on rocks in a stream ."
+            ],
+            [
+                "A young woman wearubg a bikini is climbing rocks near a creek ."
+            ]
+        ]
+    },
+    "image_790": {
+        "blip_caption": "there are two children playing in a ball pit with a man laying on top of the ball pit",
+        "gpt2_caption": "a man and a boy playing with a toy ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "Several children playing in a ball pit ."
+            ],
+            [
+                "Some children playing in a pit full of colorful balls"
+            ],
+            [
+                "Three children in a ball pit ."
+            ],
+            [
+                "Two children fall headfirst into a colorful ball pit while a third child watches ."
+            ],
+            [
+                "Two children slide down a slide into a ball pit while another child looks on ."
+            ]
+        ]
+    },
+    "image_791": {
+        "blip_caption": "there are two dogs that are playing with a frisbee in the grass",
+        "gpt2_caption": "a black dog running through a yard with a frisbee ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "\"A spotted dog , a black dog , and a puppy converging on a tennis ball .\""
+            ],
+            [
+                "Three dogs are playing in the grass ."
+            ],
+            [
+                "Three dogs play in a grassy field ."
+            ],
+            [
+                "three dogs running around in the grass with woods in the background"
+            ],
+            [
+                "Two large dogs are playing in a large grassy area ."
+            ]
+        ]
+    },
+    "image_792": {
+        "blip_caption": "there is a woman that is riding a bike down the street",
+        "gpt2_caption": "a man riding a bike down a street ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A man is cycling on the road ."
+            ],
+            [
+                "A man rides a bicycle down a road with concrete barriers ."
+            ],
+            [
+                "A man rides his bicycle on a wet road ."
+            ],
+            [
+                "A person biking on a road near a fence ."
+            ],
+            [
+                "Man cycles through diry bike path wearing white helmet and gloves"
+            ]
+        ]
+    },
+    "image_793": {
+        "blip_caption": "there are three boys jumping into a swimming pool with one jumping in the air",
+        "gpt2_caption": "two young boys jumping in the air to catch a frisbee ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "Four boys doing a cannonball jump in unison into the pool ."
+            ],
+            [
+                "Four boys in swim trunks jump into a swimming pool ."
+            ],
+            [
+                "Four boys jumping into an inground pool ."
+            ],
+            [
+                "Four boys jumping into a swimming pool ."
+            ],
+            [
+                "Four children jump in a pool ."
+            ]
+        ]
+    },
+    "image_794": {
+        "blip_caption": "there is a small white dog standing on a log in the grass",
+        "gpt2_caption": "a white sheep standing on top of a log ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "a small dog steps onto a log ."
+            ],
+            [
+                "A small white dog climbs over a log ."
+            ],
+            [
+                "A small white dog with a blue collar is climbing over a large log ."
+            ],
+            [
+                "A white dog jumps over a log outside ."
+            ],
+            [
+                "A white terrior is jumping over a log ."
+            ]
+        ]
+    },
+    "image_795": {
+        "blip_caption": "there is a man that is sitting on a rock by the water",
+        "gpt2_caption": "a woman is sitting on a rock by a river ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A girl wearing a blue top has her feet in the stream ."
+            ],
+            [
+                "A hiker puts his feet in a stream while wearing brown shoes ."
+            ],
+            [
+                "A man wearing a blue shirt and shorts is resting on a rock soaking his feet in a rocky stream ."
+            ],
+            [
+                "A person is sitting near smooth rocks on a stream bed ."
+            ],
+            [
+                "\"A woman dressed in a blue shirt , plaid shorts and brown shoes , soaking her feet in a rocky creek while sitting on a towel .\""
+            ]
+        ]
+    },
+    "image_796": {
+        "blip_caption": "there is a young boy that is holding a ball in his hands",
+        "gpt2_caption": "a little boy standing on a sidewalk holding a frisbee ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A baby boy plays outside with a blue toy ."
+            ],
+            [
+                "A baby carrying a ball in stands in front of a house with a hose in the background ."
+            ],
+            [
+                "A little boy is holding a blue ball in the yard ."
+            ],
+            [
+                "A male child holding a ball standing on the sidewalk ."
+            ],
+            [
+                "a young boy playing with a blue ball standing on a sidewalk"
+            ]
+        ]
+    },
+    "image_797": {
+        "blip_caption": "there is a black and white dog that is running in the water",
+        "gpt2_caption": "a dog is running through the water ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A black and white dog is playing in water ."
+            ],
+            [
+                "a black dog is standing on a step next to a river at it shakes itself dry ."
+            ],
+            [
+                "A dog is shaking after coming out of the water ."
+            ],
+            [
+                "A dog is shaking water off of itself ."
+            ],
+            [
+                "A dog shakes off water ."
+            ]
+        ]
+    },
+    "image_798": {
+        "blip_caption": "there are two dogs that are playing with a ball on the beach",
+        "gpt2_caption": "a dog playing with a frisbee in the sand ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "The dogs fight over the red and pink ball ."
+            ],
+            [
+                "Two dogs both pull on the same orange ball while playing in the sand ."
+            ],
+            [
+                "two dogs fighting over a pink and red toy"
+            ],
+            [
+                "Two dogs play tug of war with a ball ."
+            ],
+            [
+                "Two dogs tug on a pink and orange ball from opposite ends ."
+            ]
+        ]
+    },
+    "image_799": {
+        "blip_caption": "there is a group of children that are standing in front of a group of people",
+        "gpt2_caption": "a crowd of children standing around a group of adults ",
+        "pix2struct_caption": "",
+        "original_captions": [
+            [
+                "A child shows other kids his still packaged toy ."
+            ],
+            [
+                "A group of kids are at a birthday party ."
+            ],
+            [
+                "A little boy is opening gifts surrounded by a group of children and adults ."
+            ],
+            [
+                "Boy at birthday party shows toy off ."
+            ],
+            [
+                "There is a group of children getting their picture taken with presents ."
+            ]
+        ]
+    }
+}

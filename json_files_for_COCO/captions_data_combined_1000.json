@@ -1,0 +1,1586 @@
+[
+    {
+        "image_id": 206135,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000206135.jpg",
+        "generated_captions": {
+            "blip": "a group of cows standing in front of a church",
+            "gpt2": "cows standing in front of a church ",
+            "pix2struct": "A building with a clock that says 10:00"
+        },
+        "original_coco_captions": [
+            "A herd of cattle sitting in front of a church with a steeple.",
+            "The view of four cows standing in a row from behind",
+            "Four cows stand in the parking lot of a church. ",
+            "Four cow rears stand in front of a building with a steeple.",
+            "There are four cows standing on the side of a road"
+        ]
+    },
+    {
+        "image_id": 503008,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000503008.jpg",
+        "generated_captions": {
+            "blip": "a man is riding a bull down the road",
+            "gpt2": "a man is walking with a herd of cattle ",
+            "pix2struct": "A man wearing a red shirt that says \"The New York Times\" is standing in front of"
+        },
+        "original_coco_captions": [
+            "A man waving a red flag at cows in the road.",
+            "Cows walking along a street with a man and a red flag.",
+            "a man walks a herd of animals down a street ",
+            "A man walking with a herd of cattle down a street.",
+            "That car may not be able to get around the cattle in the road."
+        ]
+    },
+    {
+        "image_id": 185327,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000185327.jpg",
+        "generated_captions": {
+            "blip": "a white car",
+            "gpt2": "a herd of sheep walking down a street ",
+            "pix2struct": "A car with a license plate that says 2163633."
+        },
+        "original_coco_captions": [
+            "A group of cows on street next to building and bus.",
+            "Several cows are in the public street by a car.",
+            "A person and some cows on a road.",
+            "A man herding animals on a street in Asia.",
+            "A bunch of horses on a street with one man in a hat."
+        ]
+    },
+    {
+        "image_id": 99908,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000099908.jpg",
+        "generated_captions": {
+            "blip": "a motorcycle parked on the side of a road",
+            "gpt2": "a car and a goat on a road ",
+            "pix2struct": "A man is standing in front of a sign that says'stop'."
+        },
+        "original_coco_captions": [
+            "A car stopped by three cows crossing a road.",
+            "some cows cross a road as a car passes by ",
+            "A car that is sitting near a couple of cows in the street.",
+            "A car is heading down the road and there is a cow standing in their pathway. ",
+            "a motorcycle parked on the side of the road "
+        ]
+    },
+    {
+        "image_id": 557016,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000557016.jpg",
+        "generated_captions": {
+            "blip": "a man driving a car down a road with cows",
+            "gpt2": "a man riding a horse down a street ",
+            "pix2struct": "A man wearing a blue shirt that says \"Wilson\" is standing in front of a"
+        },
+        "original_coco_captions": [
+            "A man drives his car down a road with foot and animal traffic",
+            "a close up of a person driving a car on a road ",
+            "A photo taken from within a car of a small street in a rural town ",
+            "A person is in a car on the street near some cattle and a man on a bike.",
+            "A car driving up the road and in front of it is several cows in the road."
+        ]
+    },
+    {
+        "image_id": 503008,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000503008.jpg",
+        "generated_captions": {
+            "blip": "a man is riding a bull down the road",
+            "gpt2": "a man is walking with a herd of cattle ",
+            "pix2struct": "A man wearing a red shirt that says \"The New York Times\" is standing in front of"
+        },
+        "original_coco_captions": [
+            "A man waving a red flag at cows in the road.",
+            "Cows walking along a street with a man and a red flag.",
+            "a man walks a herd of animals down a street ",
+            "A man walking with a herd of cattle down a street.",
+            "That car may not be able to get around the cattle in the road."
+        ]
+    },
+    {
+        "image_id": 557016,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000557016.jpg",
+        "generated_captions": {
+            "blip": "a man driving a car down a road with cows",
+            "gpt2": "a man riding a horse down a street ",
+            "pix2struct": "A man wearing a blue shirt that says \"Wilson\" is standing in front of a"
+        },
+        "original_coco_captions": [
+            "A man drives his car down a road with foot and animal traffic",
+            "a close up of a person driving a car on a road ",
+            "A photo taken from within a car of a small street in a rural town ",
+            "A person is in a car on the street near some cattle and a man on a bike.",
+            "A car driving up the road and in front of it is several cows in the road."
+        ]
+    },
+    {
+        "image_id": 99908,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000099908.jpg",
+        "generated_captions": {
+            "blip": "a motorcycle parked on the side of a road",
+            "gpt2": "a car and a goat on a road ",
+            "pix2struct": "A man is standing in front of a sign that says'stop'."
+        },
+        "original_coco_captions": [
+            "A car stopped by three cows crossing a road.",
+            "some cows cross a road as a car passes by ",
+            "A car that is sitting near a couple of cows in the street.",
+            "A car is heading down the road and there is a cow standing in their pathway. ",
+            "a motorcycle parked on the side of the road "
+        ]
+    },
+    {
+        "image_id": 557016,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000557016.jpg",
+        "generated_captions": {
+            "blip": "a man driving a car down a road with cows",
+            "gpt2": "a man riding a horse down a street ",
+            "pix2struct": "A man wearing a blue shirt that says \"Wilson\" is standing in front of a"
+        },
+        "original_coco_captions": [
+            "A man drives his car down a road with foot and animal traffic",
+            "a close up of a person driving a car on a road ",
+            "A photo taken from within a car of a small street in a rural town ",
+            "A person is in a car on the street near some cattle and a man on a bike.",
+            "A car driving up the road and in front of it is several cows in the road."
+        ]
+    },
+    {
+        "image_id": 75216,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000075216.jpg",
+        "generated_captions": {
+            "blip": "a herd of cattle",
+            "gpt2": "cows are laying down in a field ",
+            "pix2struct": "A man is holding a bottle of beer that says 'lima' on it."
+        },
+        "original_coco_captions": [
+            "A herd of cattle laying in the grass on the ground.",
+            "The cattle are resting on the ground.One of them is grazing. ",
+            "A herd of white and brown cows in a grassy field.",
+            "several cows sitting and resting in an open field",
+            "A herd of cows laying down in hay and grass"
+        ]
+    },
+    {
+        "image_id": 554466,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000554466.jpg",
+        "generated_captions": {
+            "blip": "a church in the middle of a snowy landscape",
+            "gpt2": "a church with a steeple and a steeple with a snow covered church ",
+            "pix2struct": "A building with a clock that says 10:00"
+        },
+        "original_coco_captions": [
+            "A white church sitting at the bottom of a hillside.",
+            "A church in the distance on a snow covered rise.",
+            "A church with a large steeple sitting on a hilltop that's covered in snow.",
+            "A white church with a steeple rests on a snowy hill.",
+            "The church is up on the hill in the country. "
+        ]
+    },
+    {
+        "image_id": 153734,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000153734.jpg",
+        "generated_captions": {
+            "blip": "a man leading a cow",
+            "gpt2": "a man is walking with a cow in a field ",
+            "pix2struct": "A man wearing a shirt that says \"S\" is standing in front of a building."
+        },
+        "original_coco_captions": [
+            "A brown cow walking along side of a man.",
+            "a large cow walking down the road with his owner.",
+            "A man stands holding a rope tied to a bull.",
+            "a man leading a cow to the market",
+            "Bunch of people gathered around with bulls and cows"
+        ]
+    },
+    {
+        "image_id": 554466,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000554466.jpg",
+        "generated_captions": {
+            "blip": "a church in the middle of a snowy landscape",
+            "gpt2": "a church with a steeple and a steeple with a snow covered church ",
+            "pix2struct": "A building with a clock that says 10:00"
+        },
+        "original_coco_captions": [
+            "A white church sitting at the bottom of a hillside.",
+            "A church in the distance on a snow covered rise.",
+            "A church with a large steeple sitting on a hilltop that's covered in snow.",
+            "A white church with a steeple rests on a snowy hill.",
+            "The church is up on the hill in the country. "
+        ]
+    },
+    {
+        "image_id": 180362,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000180362.jpg",
+        "generated_captions": {
+            "blip": "a group of cows walking down a dirt road",
+            "gpt2": "cows are walking down a road ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "A car dashboard with a group of brown cows waking towards it.",
+            "Cows are on the road that people are trying to drive on.",
+            "many cows walking on a road with trees near by",
+            "a herd of cows walking up a paved  road next to  green fields.",
+            "A group of cows walking down the middle of a street."
+        ]
+    },
+    {
+        "image_id": 459922,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000459922.jpg",
+        "generated_captions": {
+            "blip": "a black car",
+            "gpt2": "a white cow standing on top of a white car ",
+            "pix2struct": "A car with a license plate that says 1ST."
+        },
+        "original_coco_captions": [
+            "Animals surrounding a car and making a large mess.  ",
+            "A white bull near a parked car. ",
+            "a cow defecating in front of a car stopped at the side of the road",
+            "A white cow standing next to a compact car.",
+            "there is a large cow that is walking by a car"
+        ]
+    },
+    {
+        "image_id": 264805,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000264805.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a toilet, sink, and a mirror",
+            "gpt2": "a man is standing in a bathroom with a toilet ",
+            "pix2struct": "A man is standing in front of a large clock that says 10:00."
+        },
+        "original_coco_captions": [
+            "A person taking a selfie in front of a large mirror.",
+            "A person looks at their reflection in a bathroom mirror.",
+            "a toilet a man in a blue shirt a mirror and sink",
+            "A bathroom that has several pictures on the wall.",
+            "A man in a blue shirt looks at himself in a bathroom mirror."
+        ]
+    },
+    {
+        "image_id": 180362,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000180362.jpg",
+        "generated_captions": {
+            "blip": "a group of cows walking down a dirt road",
+            "gpt2": "cows are walking down a road ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "A car dashboard with a group of brown cows waking towards it.",
+            "Cows are on the road that people are trying to drive on.",
+            "many cows walking on a road with trees near by",
+            "a herd of cows walking up a paved  road next to  green fields.",
+            "A group of cows walking down the middle of a street."
+        ]
+    },
+    {
+        "image_id": 277542,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000277542.jpg",
+        "generated_captions": {
+            "blip": "a herd of cattle",
+            "gpt2": "a man on a horse is leading a herd of cattle ",
+            "pix2struct": "A man is holding a bottle of alcohol and the bottle says 'the man's name"
+        },
+        "original_coco_captions": [
+            "Several animals walking on a road with cars behind them. ",
+            "A man ridding a horse herding cattle down a road as automobiles follow.",
+            "a man riding a horse walking his herd of cows down the middle of the road",
+            "A herd of cows traveling down the street.",
+            "Cattle are being herded down a rural road."
+        ]
+    },
+    {
+        "image_id": 184613,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000184613.jpg",
+        "generated_captions": {
+            "blip": "a group of people",
+            "gpt2": "a young boy holding an umbrella while standing in a field ",
+            "pix2struct": "A man wearing a shirt that says \"The Queen\" is standing in front of a building."
+        },
+        "original_coco_captions": [
+            "A child holding a flowered umbrella and petting a yak.",
+            "A young man holding an umbrella next to a herd of cattle.",
+            "a young boy barefoot holding an umbrella touching the horn of a cow",
+            "A young boy with an umbrella who is touching the horn of a cow.",
+            "A boy holding an umbrella while standing next to livestock."
+        ]
+    },
+    {
+        "image_id": 277542,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000277542.jpg",
+        "generated_captions": {
+            "blip": "a herd of cattle",
+            "gpt2": "a man on a horse is leading a herd of cattle ",
+            "pix2struct": "A man is holding a bottle of alcohol and the bottle says 'the man's name"
+        },
+        "original_coco_captions": [
+            "Several animals walking on a road with cars behind them. ",
+            "A man ridding a horse herding cattle down a road as automobiles follow.",
+            "a man riding a horse walking his herd of cows down the middle of the road",
+            "A herd of cows traveling down the street.",
+            "Cattle are being herded down a rural road."
+        ]
+    },
+    {
+        "image_id": 184613,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000184613.jpg",
+        "generated_captions": {
+            "blip": "a group of people",
+            "gpt2": "a young boy holding an umbrella while standing in a field ",
+            "pix2struct": "A man wearing a shirt that says \"The Queen\" is standing in front of a building."
+        },
+        "original_coco_captions": [
+            "A child holding a flowered umbrella and petting a yak.",
+            "A young man holding an umbrella next to a herd of cattle.",
+            "a young boy barefoot holding an umbrella touching the horn of a cow",
+            "A young boy with an umbrella who is touching the horn of a cow.",
+            "A boy holding an umbrella while standing next to livestock."
+        ]
+    },
+    {
+        "image_id": 195800,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000195800.jpg",
+        "generated_captions": {
+            "blip": "a group of cows walking down a street",
+            "gpt2": "a herd of cattle walking down a street ",
+            "pix2struct": "A man is standing in front of a building that says 'the 'house'."
+        },
+        "original_coco_captions": [
+            "A street with people and cows walking down it.",
+            "A street that has three cows walking down the street together and people on the sidewalk area.",
+            "A few cows walking down the street in a town.",
+            "Three cows walking along the street in a town.",
+            "Cows on the street next to people that are on the sidewalk. "
+        ]
+    },
+    {
+        "image_id": 153734,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000153734.jpg",
+        "generated_captions": {
+            "blip": "a man leading a cow",
+            "gpt2": "a man is walking with a cow in a field ",
+            "pix2struct": "A man wearing a shirt that says \"S\" is standing in front of a building."
+        },
+        "original_coco_captions": [
+            "A brown cow walking along side of a man.",
+            "a large cow walking down the road with his owner.",
+            "A man stands holding a rope tied to a bull.",
+            "a man leading a cow to the market",
+            "Bunch of people gathered around with bulls and cows"
+        ]
+    },
+    {
+        "image_id": 180362,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000180362.jpg",
+        "generated_captions": {
+            "blip": "a group of cows walking down a dirt road",
+            "gpt2": "cows are walking down a road ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "A car dashboard with a group of brown cows waking towards it.",
+            "Cows are on the road that people are trying to drive on.",
+            "many cows walking on a road with trees near by",
+            "a herd of cows walking up a paved  road next to  green fields.",
+            "A group of cows walking down the middle of a street."
+        ]
+    },
+    {
+        "image_id": 277542,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000277542.jpg",
+        "generated_captions": {
+            "blip": "a herd of cattle",
+            "gpt2": "a man on a horse is leading a herd of cattle ",
+            "pix2struct": "A man is holding a bottle of alcohol and the bottle says 'the man's name"
+        },
+        "original_coco_captions": [
+            "Several animals walking on a road with cars behind them. ",
+            "A man ridding a horse herding cattle down a road as automobiles follow.",
+            "a man riding a horse walking his herd of cows down the middle of the road",
+            "A herd of cows traveling down the street.",
+            "Cattle are being herded down a rural road."
+        ]
+    },
+    {
+        "image_id": 75216,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000075216.jpg",
+        "generated_captions": {
+            "blip": "a herd of cattle",
+            "gpt2": "cows are laying down in a field ",
+            "pix2struct": "A man is holding a bottle of beer that says 'lima' on it."
+        },
+        "original_coco_captions": [
+            "A herd of cattle laying in the grass on the ground.",
+            "The cattle are resting on the ground.One of them is grazing. ",
+            "A herd of white and brown cows in a grassy field.",
+            "several cows sitting and resting in an open field",
+            "A herd of cows laying down in hay and grass"
+        ]
+    },
+    {
+        "image_id": 180362,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000180362.jpg",
+        "generated_captions": {
+            "blip": "a group of cows walking down a dirt road",
+            "gpt2": "cows are walking down a road ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "A car dashboard with a group of brown cows waking towards it.",
+            "Cows are on the road that people are trying to drive on.",
+            "many cows walking on a road with trees near by",
+            "a herd of cows walking up a paved  road next to  green fields.",
+            "A group of cows walking down the middle of a street."
+        ]
+    },
+    {
+        "image_id": 277542,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000277542.jpg",
+        "generated_captions": {
+            "blip": "a herd of cattle",
+            "gpt2": "a man on a horse is leading a herd of cattle ",
+            "pix2struct": "A man is holding a bottle of alcohol and the bottle says 'the man's name"
+        },
+        "original_coco_captions": [
+            "Several animals walking on a road with cars behind them. ",
+            "A man ridding a horse herding cattle down a road as automobiles follow.",
+            "a man riding a horse walking his herd of cows down the middle of the road",
+            "A herd of cows traveling down the street.",
+            "Cattle are being herded down a rural road."
+        ]
+    },
+    {
+        "image_id": 153734,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000153734.jpg",
+        "generated_captions": {
+            "blip": "a man leading a cow",
+            "gpt2": "a man is walking with a cow in a field ",
+            "pix2struct": "A man wearing a shirt that says \"S\" is standing in front of a building."
+        },
+        "original_coco_captions": [
+            "A brown cow walking along side of a man.",
+            "a large cow walking down the road with his owner.",
+            "A man stands holding a rope tied to a bull.",
+            "a man leading a cow to the market",
+            "Bunch of people gathered around with bulls and cows"
+        ]
+    },
+    {
+        "image_id": 180362,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000180362.jpg",
+        "generated_captions": {
+            "blip": "a group of cows walking down a dirt road",
+            "gpt2": "cows are walking down a road ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "A car dashboard with a group of brown cows waking towards it.",
+            "Cows are on the road that people are trying to drive on.",
+            "many cows walking on a road with trees near by",
+            "a herd of cows walking up a paved  road next to  green fields.",
+            "A group of cows walking down the middle of a street."
+        ]
+    },
+    {
+        "image_id": 185327,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000185327.jpg",
+        "generated_captions": {
+            "blip": "a white car",
+            "gpt2": "a herd of sheep walking down a street ",
+            "pix2struct": "A car with a license plate that says 2163633."
+        },
+        "original_coco_captions": [
+            "A group of cows on street next to building and bus.",
+            "Several cows are in the public street by a car.",
+            "A person and some cows on a road.",
+            "A man herding animals on a street in Asia.",
+            "A bunch of horses on a street with one man in a hat."
+        ]
+    },
+    {
+        "image_id": 277542,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000277542.jpg",
+        "generated_captions": {
+            "blip": "a herd of cattle",
+            "gpt2": "a man on a horse is leading a herd of cattle ",
+            "pix2struct": "A man is holding a bottle of alcohol and the bottle says 'the man's name"
+        },
+        "original_coco_captions": [
+            "Several animals walking on a road with cars behind them. ",
+            "A man ridding a horse herding cattle down a road as automobiles follow.",
+            "a man riding a horse walking his herd of cows down the middle of the road",
+            "A herd of cows traveling down the street.",
+            "Cattle are being herded down a rural road."
+        ]
+    },
+    {
+        "image_id": 180362,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000180362.jpg",
+        "generated_captions": {
+            "blip": "a group of cows walking down a dirt road",
+            "gpt2": "cows are walking down a road ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "A car dashboard with a group of brown cows waking towards it.",
+            "Cows are on the road that people are trying to drive on.",
+            "many cows walking on a road with trees near by",
+            "a herd of cows walking up a paved  road next to  green fields.",
+            "A group of cows walking down the middle of a street."
+        ]
+    },
+    {
+        "image_id": 180362,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000180362.jpg",
+        "generated_captions": {
+            "blip": "a group of cows walking down a dirt road",
+            "gpt2": "cows are walking down a road ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "A car dashboard with a group of brown cows waking towards it.",
+            "Cows are on the road that people are trying to drive on.",
+            "many cows walking on a road with trees near by",
+            "a herd of cows walking up a paved  road next to  green fields.",
+            "A group of cows walking down the middle of a street."
+        ]
+    },
+    {
+        "image_id": 185327,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000185327.jpg",
+        "generated_captions": {
+            "blip": "a white car",
+            "gpt2": "a herd of sheep walking down a street ",
+            "pix2struct": "A car with a license plate that says 2163633."
+        },
+        "original_coco_captions": [
+            "A group of cows on street next to building and bus.",
+            "Several cows are in the public street by a car.",
+            "A person and some cows on a road.",
+            "A man herding animals on a street in Asia.",
+            "A bunch of horses on a street with one man in a hat."
+        ]
+    },
+    {
+        "image_id": 180362,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000180362.jpg",
+        "generated_captions": {
+            "blip": "a group of cows walking down a dirt road",
+            "gpt2": "cows are walking down a road ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "A car dashboard with a group of brown cows waking towards it.",
+            "Cows are on the road that people are trying to drive on.",
+            "many cows walking on a road with trees near by",
+            "a herd of cows walking up a paved  road next to  green fields.",
+            "A group of cows walking down the middle of a street."
+        ]
+    },
+    {
+        "image_id": 185327,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000185327.jpg",
+        "generated_captions": {
+            "blip": "a white car",
+            "gpt2": "a herd of sheep walking down a street ",
+            "pix2struct": "A car with a license plate that says 2163633."
+        },
+        "original_coco_captions": [
+            "A group of cows on street next to building and bus.",
+            "Several cows are in the public street by a car.",
+            "A person and some cows on a road.",
+            "A man herding animals on a street in Asia.",
+            "A bunch of horses on a street with one man in a hat."
+        ]
+    },
+    {
+        "image_id": 185327,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000185327.jpg",
+        "generated_captions": {
+            "blip": "a white car",
+            "gpt2": "a herd of sheep walking down a street ",
+            "pix2struct": "A car with a license plate that says 2163633."
+        },
+        "original_coco_captions": [
+            "A group of cows on street next to building and bus.",
+            "Several cows are in the public street by a car.",
+            "A person and some cows on a road.",
+            "A man herding animals on a street in Asia.",
+            "A bunch of horses on a street with one man in a hat."
+        ]
+    },
+    {
+        "image_id": 538934,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000538934.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a brick wall and a sink",
+            "gpt2": "a kitchen with a sink, refrigerator, and cabinets ",
+            "pix2struct": "A store with a sign that says \"Camborne\"."
+        },
+        "original_coco_captions": [
+            "A view of a kitchen with a bunch of cleaning supplies around it.",
+            "a brown breakfast bar in a large kitchen",
+            "A counter and a trash can in a room.",
+            "The counter in this kitchen is very cluttered.",
+            "a counter top with all sorts of cleaning supplies"
+        ]
+    },
+    {
+        "image_id": 241844,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000241844.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a refrigerator and a sink",
+            "gpt2": "a kitchen with a refrigerator, stove, sink and a window ",
+            "pix2struct": "A kitchen with a fridge and a fridge that says'stove'."
+        },
+        "original_coco_captions": [
+            "A kitchen with white cabinets has a sink and white refrigerator.",
+            "A kitchen filled with lots of cabinet space and a refrigerator.",
+            "The sun is shining into a country style kitchen.",
+            "An empty kitchen lit by sunlight coming through the window. ",
+            "An old style kitchen with many cream colored cabinets and a brightly lit window."
+        ]
+    },
+    {
+        "image_id": 258266,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000258266.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a bowl on the counter",
+            "gpt2": "a kitchen with a white counter top and a white sink ",
+            "pix2struct": "A kitchen with a fridge and a fridge that says'reel'."
+        },
+        "original_coco_captions": [
+            "A bowl of food sitting on top of a white kitchen counter.",
+            "a large number of white cabinets in a kitchen",
+            "A white modern kitchen is on display in this photo.",
+            "A spotless white kitchen with some sort of platter on the counter.",
+            "A white kitchen counter with a big, brown bowl on it."
+        ]
+    },
+    {
+        "image_id": 320703,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000320703.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a stove and a sink",
+            "gpt2": "a kitchen with a stove, sink, and refrigerator ",
+            "pix2struct": "A kitchen with a fridge that says'sausages' on it."
+        },
+        "original_coco_captions": [
+            "A narrow kitchen with a white stove top oven.",
+            "A long galley kitchen with cabinets on both sides",
+            "a long narrow kitchen with cups in the sink",
+            "A white and light gray kitchen with stove, sink, and refrigerator. ",
+            "an image of a kitchen setting with formica counter"
+        ]
+    },
+    {
+        "image_id": 40986,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000040986.jpg",
+        "generated_captions": {
+            "blip": "a man standing in a kitchen with a dog",
+            "gpt2": "a kitchen with a stove, a sink, and a refrigerator ",
+            "pix2struct": "A kitchen with a fridge that says VV.T.B."
+        },
+        "original_coco_captions": [
+            "Raw cookies in a pan on the counter and baked cookies in a pan on the stove.",
+            "Assorted items on a counter top in a kitchenette.",
+            "A man points at the wall in his kitchen.",
+            "Two pans with cookies in them sitting on a counter with liquor bottles, a coffee maker and knives.",
+            "A countertop in a kitchen with fresh cookies."
+        ]
+    },
+    {
+        "image_id": 541493,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000541493.jpg",
+        "generated_captions": {
+            "blip": "a bathroom sink with a mirror and a vase",
+            "gpt2": "a bathroom sink with a mirror and a towel rack ",
+            "pix2struct": "A kitchen with a fridge that says 'Kick' on the top."
+        },
+        "original_coco_captions": [
+            "A white sink under a mirror in a bathroom next to a light switch.",
+            "a bathroom with a sink and a mirror in it",
+            "The sink has a mirrored cabinet above it",
+            "A sink with a few mirrors and soap. ",
+            "The bathroom is empty. There is no one in it."
+        ]
+    },
+    {
+        "image_id": 235699,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000235699.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a toilet and a shower stall",
+            "gpt2": "a bathroom with a toilet, sink, and shower ",
+            "pix2struct": "A box of Dawax is on a table next to a box of other boxes."
+        },
+        "original_coco_captions": [
+            "A toilet sitting in a bathroom next to a sink.",
+            "A bathroom with a glass shower door, toilet, bidet and sink, with a set of shelves",
+            "a brown tiled bathroom with a toilet, a bidet and a sink",
+            "A very nice looking rest room with a pretty shower.",
+            "a bathroom view of a tiled floor and toilet with a stand up shower"
+        ]
+    },
+    {
+        "image_id": 79754,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000079754.jpg",
+        "generated_captions": {
+            "blip": "a woman in a kitchen preparing food",
+            "gpt2": "a woman in a kitchen preparing food ",
+            "pix2struct": "A man is cooking food in a kitchen with a glass of beer next to him."
+        },
+        "original_coco_captions": [
+            "A woman standing in front of a counter with a plate of food.",
+            "A woman standing in a kitchen preparing food.",
+            "A woman in a kitchen arranging cookies on a plate.",
+            "Woman working on counter near kitchen sink preparing a meal. ",
+            "A woman organizes a plate of cookies and other foods. "
+        ]
+    },
+    {
+        "image_id": 490927,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000490927.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a sink and mirror",
+            "gpt2": "a bathroom sink with a mirror and a towel rack ",
+            "pix2struct": "A bottle of wine is next to a glass of wine."
+        },
+        "original_coco_captions": [
+            "The bathroom counter is nicely decorated and organized.",
+            "A decorative sink sits with flower designs and blue walls.",
+            "A tidy bathroom with a sink and mirror",
+            "Colorful sink in a bathroom area with toiletry items on it. ",
+            "a bathroom sink two baskets and a towel"
+        ]
+    },
+    {
+        "image_id": 287151,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000287151.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a toilet, sink, and mirror",
+            "gpt2": "a bathroom with a toilet, sink, and mirror ",
+            "pix2struct": "A kitchen with a fridge and a microwave."
+        },
+        "original_coco_captions": [
+            "View of a narrow bathroom with white vanity and commode with brown tile",
+            "a bathroom with a sink a toilet and a mirror",
+            "A modern bathroom with one window, toilet and vanity.",
+            "A bathroom with a window, toilet and counter.",
+            "A white bathroom with a tiled floor and one latticed window."
+        ]
+    },
+    {
+        "image_id": 173340,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000173340.jpg",
+        "generated_captions": {
+            "blip": "a woman standing in a kitchen holding a cell",
+            "gpt2": "a woman standing in a kitchen holding a cell phone ",
+            "pix2struct": "A man is holding a bottle of wine and wearing a shirt that says \"Celebration"
+        },
+        "original_coco_captions": [
+            "a female in a gray top is holding a cellphone",
+            "A photo of a woman standing looking at her phone.",
+            "A woman is standing in the kitchen using her phone.",
+            "A woman standing in a room with a cell phone.",
+            "a person in a kitchen with a cell phone"
+        ]
+    },
+    {
+        "image_id": 145199,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000145199.jpg",
+        "generated_captions": {
+            "blip": "a dining room with a table and chairs",
+            "gpt2": "a kitchen with a table and chairs and a window ",
+            "pix2struct": "A K20 machine is sitting in front of a store."
+        },
+        "original_coco_captions": [
+            "A kitchen area with a dining table and counter.",
+            "A table sits in front of the bar area of a wall.",
+            "A dinging area with yellow walls trimmed in brown.",
+            "A dining area has an open window to see into the kitchen.",
+            "Cloth covered table in eating area with yellow walls."
+        ]
+    },
+    {
+        "image_id": 559159,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000559159.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a wooden floor and a window",
+            "gpt2": "a kitchen with a sink, stove, and cabinets ",
+            "pix2struct": "A large screen with a large screen that says 'the man's room'."
+        },
+        "original_coco_captions": [
+            "A kitchen with a wooden floor and white cabinets.",
+            "A kitchen with a sink, cabinets and windows.",
+            "A kitchen with a hardwood floor with several windows.",
+            "A kitchen with a wooden floor and large picture window.",
+            "A full, organized and modern style kitchen with wood floors."
+        ]
+    },
+    {
+        "image_id": 467705,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000467705.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a wooden table and a microwave",
+            "gpt2": "a kitchen with a counter top and a shelf full of bottles ",
+            "pix2struct": "A shelf of books including one titled \"The New York Times\"."
+        },
+        "original_coco_captions": [
+            "A kitchen filled with bottles on it's counters and lots of counter space.",
+            "A kitchen counter with a glass sitting on a saucer.",
+            "A kitchen with a small window and wooden cabinets.",
+            "A glass of water on a kitchen table.",
+            "A kitchen with open style cabinets and a counter full of liquor bottles."
+        ]
+    },
+    {
+        "image_id": 344498,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000344498.jpg",
+        "generated_captions": {
+            "blip": "a man is preparing a meal in a kitchen",
+            "gpt2": "a man and woman are cooking in a kitchen ",
+            "pix2struct": "A man stands in front of a podium that says \"D\"."
+        },
+        "original_coco_captions": [
+            "Friends having a drink together in the kitchen",
+            "Three men and one woman stand around a green table as one man holds a silver bowl.",
+            "The friends are standing around a kitchen table.",
+            "A group of people gather in a kitchen with wine.",
+            "Man holding a metal bowl at the table."
+        ]
+    },
+    {
+        "image_id": 400123,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000400123.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a shower, toilet, and mirror",
+            "gpt2": "a bathroom with a toilet, sink, and shower ",
+            "pix2struct": "A man is holding a box of a bottle of alcohol."
+        },
+        "original_coco_captions": [
+            "Bathroom decorated in blues and greens with a mirror over the vanity.",
+            "A minimally cluttered bathroom view shows a white sink and toilet, mirror, towel ring, a blue wall and a shower space with a patterned but not colorful shower curtain. ",
+            "A clean bathroom is seen in this image.",
+            "A bathroom with a green hand towel and blue walls. ",
+            "A towel that is hanging near a mirror."
+        ]
+    },
+    {
+        "image_id": 47559,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000047559.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a sink and a toilet",
+            "gpt2": "a bathroom with a toilet, sink, and shower stall ",
+            "pix2struct": "A man is holding a bottle of wine that says 'adelaide' on it."
+        },
+        "original_coco_captions": [
+            "there is a small bathroom that is white and has a toilet",
+            "A toilet is sitting in a corner of a bathroom.",
+            "A white toilet in a very small room.",
+            "Small bathroom with only a toilet and throw rug.",
+            "A view of a toilet from the adjoining room."
+        ]
+    },
+    {
+        "image_id": 473055,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000473055.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a sink and a mirror",
+            "gpt2": "a bathroom with a mirror and a sink ",
+            "pix2struct": "A kitchen with a fridge that says'sausages' on it."
+        },
+        "original_coco_captions": [
+            "A mirror and sink in a small bathroom.",
+            "A picture of a bathroom with a very large mirror.",
+            "A colorful bath curtain in blue stripes and a bath and hand towel to match",
+            "The bathroom has a large mirror and a mirror glass cabinet above the sink.",
+            "A large mirror behind a sink and toilet in a small bathroom."
+        ]
+    },
+    {
+        "image_id": 441473,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000441473.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a toilet, sink, and mirror",
+            "gpt2": "a bathroom with a toilet, sink, and a mirror ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "This bathroom could benefit from a decorating makeover.",
+            "A home bathroom painted blue with a cluttered sink ",
+            "A toilet has a sink directly above it.",
+            "The bathroom contains a toilet, a toilet paper roll, cleaning supplies, and a cupboard.",
+            "A bathroom with a toilet, mirror and light. "
+        ]
+    },
+    {
+        "image_id": 463825,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000463825.jpg",
+        "generated_captions": {
+            "blip": "a cat standing in a sink",
+            "gpt2": "a cat is standing in a bathroom sink ",
+            "pix2struct": "A man is holding a bottle of wine that says 'the man's' on it"
+        },
+        "original_coco_captions": [
+            "A cat climbing into a bathroom sink looking at someone",
+            "A cat looks up as it stands in the bathroom sink.",
+            "A large cat stands inside of a clean bathroom sink.",
+            "Cat is caught stepping in to the bathroom sink",
+            "a cute kitty cat in the sink of a bathroom near a brush and other items"
+        ]
+    },
+    {
+        "image_id": 92257,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000092257.jpg",
+        "generated_captions": {
+            "blip": "a man sitting on a toilet reading a newspaper",
+            "gpt2": "a man reading a newspaper on a toilet ",
+            "pix2struct": "A man is holding a book titled The Guard."
+        },
+        "original_coco_captions": [
+            "The man on the toilet is reading the paper.",
+            "a young man sitting on the toilet and reading the newappaer",
+            "A man sitting on the toilet and reading a newspaper. ",
+            "A young man sitting on the toilet reading a newspaper.",
+            "A man reading a paper on a toilet, in a bathroom."
+        ]
+    },
+    {
+        "image_id": 7276,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000007276.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a sink and window with blinds",
+            "gpt2": "a bathroom with a sink, mirror, and a bath tub ",
+            "pix2struct": "A black and white photo of a Nokia phone sitting on a table."
+        },
+        "original_coco_captions": [
+            "A white bathroom sink sitting under a mirror.",
+            "A bathroom sink that is under a mirror.",
+            "A bathroom with a sink and other items. ",
+            "there is a very beautiful view out of this bathroom window",
+            "Sun shining through the blinds into a white bathroom."
+        ]
+    },
+    {
+        "image_id": 117914,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000117914.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a toilet, sink, and a basket",
+            "gpt2": "a bathroom with a toilet, sink, and tub ",
+            "pix2struct": "A man is holding a box of food that says'sausages' on it"
+        },
+        "original_coco_captions": [
+            "A toilet and towel rack are in a bathroom.",
+            "A bathroom with a toilet, window and tub in it.",
+            "The interior layout of an average clean bathroom.",
+            "A white toilet sitting in a bathroom next to a sink.",
+            "A restroom with a toilet, sink and window"
+        ]
+    },
+    {
+        "image_id": 283816,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000283816.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a table and chairs in it",
+            "gpt2": "a kitchen with a refrigerator, stove, and a table ",
+            "pix2struct": "A display of a computer monitor that says 07/08/2010"
+        },
+        "original_coco_captions": [
+            "a kitchen with a refrigerator a small table and chairs",
+            "A kitchen containing several appliances, a table with chairs and an open spice rack.",
+            "Kitchen area, with storage shelves, stove/oven, dish washer, refrigerator, counter and two person dining table.",
+            "A clean kitchen with a counter, spice rack and eating area.",
+            "Eating and kitchen area of a small apartment "
+        ]
+    },
+    {
+        "image_id": 332861,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000332861.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a stove, sink, and dishwasher",
+            "gpt2": "a kitchen with a stove, sink, and a dishwasher ",
+            "pix2struct": "A computer with a sticker that says \"real work\"."
+        },
+        "original_coco_captions": [
+            "A pot that is sitting on a stove.",
+            "A kitchen with a stove, dishwasher, and sink.",
+            "kitchen with withe counter tops and white appliences",
+            "A small kitchen with a sink, oven, stove top and mini fridge.",
+            "The kitchen needs to be cleaned before we can use it."
+        ]
+    },
+    {
+        "image_id": 210012,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000210012.jpg",
+        "generated_captions": {
+            "blip": "a woman standing in a kitchen with a dog",
+            "gpt2": "a woman standing in a kitchen with a stove and a refrigerator ",
+            "pix2struct": "A book shelf with a book titled \"The Book of the Dead\"."
+        },
+        "original_coco_captions": [
+            "A woman standing in a kitchen with hard wood floors.",
+            "A woman fixes food in the kitchen while a cat sits behind her.",
+            "A woman and a little dog in a very large kitchen.",
+            "a person in a kitchen with a stove and cupboards",
+            "a woman and a dog in her kitchen waiting as she prepares a meal"
+        ]
+    },
+    {
+        "image_id": 380247,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000380247.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a checkered floor and a checkered floor",
+            "gpt2": "a kitchen with a refrigerator, sink, and a microwave ",
+            "pix2struct": "A computer monitor with a label that says TRANS."
+        },
+        "original_coco_captions": [
+            "A small kitchen inside of a dark office",
+            "A kitchen with a soda machine and black and white tiles.",
+            "A kitchen with vending machines and a black and white checkered floor.",
+            "a kitchen with a checkerboard floor and vending machines on the side",
+            "Company breakroom with black and white tiled floor and a vending machine."
+        ]
+    },
+    {
+        "image_id": 236023,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000236023.jpg",
+        "generated_captions": {
+            "blip": "a woman in a kitchen",
+            "gpt2": "a woman holding a cup and a cup of coffee ",
+            "pix2struct": "A man wearing a shirt that says \"I\" is standing in front of a sign that says"
+        },
+        "original_coco_captions": [
+            "A beautiful red haired woman holding a cup while wearing a sweater",
+            "Several woman admire the alcohol available at a party",
+            "Group of women holding up red cups near alcohol bottles. ",
+            "Women are preparing drinks for themselves in the kitchen.",
+            "People are standing in a kitchen with solo cups as one person pours a drink."
+        ]
+    },
+    {
+        "image_id": 465129,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000465129.jpg",
+        "generated_captions": {
+            "blip": "a man in a kitchen with a light on his head",
+            "gpt2": "a woman is standing in a kitchen with a fish hook ",
+            "pix2struct": "A man is sitting in front of a large clock that says 10:00."
+        },
+        "original_coco_captions": [
+            "A person adjusting a  metal object hanging from a ceiling.",
+            "A lady in a bath robe touching something near the ceiling.",
+            "a person standing next to a metal pot holder in a kitchen ",
+            "A women brushing on a preservative liquid on a ceiling pot holder",
+            "A woman looking at a broken ceiling light in a kitchen "
+        ]
+    },
+    {
+        "image_id": 463610,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000463610.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a toilet and a shower",
+            "gpt2": "a bathroom with a toilet, sink, and shower ",
+            "pix2struct": "A black and white photo of a computer keyboard with the word \"C\" on the bottom."
+        },
+        "original_coco_captions": [
+            "A white toilet sitting next to a shower in a bathroom.",
+            "A bathroom, showing the shower, toilet and sink.",
+            "A bathroom with a toilet, sink and shower stall.",
+            "a bathroom view of a stand up shower and toilet with a sink near by",
+            "A PICTURE OF A BATHROOM WITH SLIDING SHOWER "
+        ]
+    },
+    {
+        "image_id": 107922,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000107922.jpg",
+        "generated_captions": {
+            "blip": "a circular picture of a living room with a staircase",
+            "gpt2": "a kitchen with a lot of clutter on the counter ",
+            "pix2struct": "A man is holding a book titled \"The Secret Life of the Mind\"."
+        },
+        "original_coco_captions": [
+            "A person sits at a table in a kitchen. ",
+            "An aerial view of a kitchen in cylindrical view.",
+            "An upside-down image of a room taken from above.",
+            "A circular view of an area that features a woman and kitchen counters and shelving.",
+            "an overhead photo of a kitchen with cupboards a garbage can "
+        ]
+    },
+    {
+        "image_id": 362127,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000362127.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a tub tub and a sink",
+            "gpt2": "a bathroom with a tub, sink, mirror and bathtub ",
+            "pix2struct": "A kitchen with a fridge that says'stove' on it."
+        },
+        "original_coco_captions": [
+            "Elegant marbled bathroom with blinds and toiletries with mirror",
+            "A hotel bathroom shows a large bathtub by a window.",
+            "A bathroom with modern fixtures including a garden style bathtub near a window that has it's shades closed.",
+            "A huge luxury bathroom with an oval tub.",
+            "A view of a bathroom with a mirror, towels and a tub. "
+        ]
+    },
+    {
+        "image_id": 460507,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000460507.jpg",
+        "generated_captions": {
+            "blip": "a plate of food with a bowl of soup and a sandwich",
+            "gpt2": "a bowl of soup and a sandwich on a plate ",
+            "pix2struct": "A bottle of beer next to a glass of beer."
+        },
+        "original_coco_captions": [
+            "A plate topped with a cut in half sandwich and a bowl of soup",
+            "A picture of a bowl of soup and sandwich on a square plate.",
+            "A grilled cheese sandwich with a bowl of soup next to it.",
+            "A bowl of food and sandwich on a table.",
+            "A plate that has a sandwich and bowl of soup on it."
+        ]
+    },
+    {
+        "image_id": 274494,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000274494.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a sink and a mirror",
+            "gpt2": "a bathroom with a sink, toilet and bathtub ",
+            "pix2struct": "A kitchen with a fridge that says'stove' on it."
+        },
+        "original_coco_captions": [
+            "A white sink and shower in a small bathroom.",
+            "A bathroom containing a mirror, sink and shower.",
+            "a bathroom that is stylish with a walk in shower",
+            "A sink, mirror and shower in a bathroom.",
+            "A bathroom with mirrors, a sink and railing with a towel draped over it"
+        ]
+    },
+    {
+        "image_id": 28022,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000028022.jpg",
+        "generated_captions": {
+            "blip": "a white tiled bathroom with a toilet and a shower stall",
+            "gpt2": "a bathroom with a toilet and a sink ",
+            "pix2struct": "A black and white photo of a building with a sign that says \"The Building\"."
+        },
+        "original_coco_captions": [
+            "A toilet is just inside a bathroom doorway.",
+            "Shot inside a plain bathroom from entrance with toilet nearest door.",
+            "A bathroom that has a small divider from the shower.",
+            "a walled of shower is next to a toilet in a bathroom",
+            "Open door to white tiled bathroom with toilet."
+        ]
+    },
+    {
+        "image_id": 47873,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000047873.jpg",
+        "generated_captions": {
+            "blip": "a counter with a bunch of coffee on it",
+            "gpt2": "a kitchen with a counter top and a counter top oven ",
+            "pix2struct": "A store with a sign that says \"Greed Cheese\"."
+        },
+        "original_coco_captions": [
+            "A picture of a counter and some chairs.",
+            "We are looking across a counter in a diner.",
+            "A counter with many items on it located in a cafe.",
+            "A dinner with a bunch of appliances on the counter.",
+            "a view of a counter top in a diner"
+        ]
+    },
+    {
+        "image_id": 507958,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000507958.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a microwave and a microwave oven",
+            "gpt2": "a kitchen with a stove, microwave, and cabinets ",
+            "pix2struct": "A store front with a display of books and a bookcase with a bookcase that says "
+        },
+        "original_coco_captions": [
+            "A kitchen with oak cabinetry  and white appliances",
+            "Kitchen cabinetry and counter top with a microwave",
+            "A kitchen counter with cabinets and a rack in the middle.",
+            "A very neat and tidy, fully stocked, kitchen.",
+            "Kitchen with wooden cabinets and a white microwave. "
+        ]
+    },
+    {
+        "image_id": 214463,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000214463.jpg",
+        "generated_captions": {
+            "blip": "a bathroom sink with a toothbrush and toothbrush",
+            "gpt2": "a bathroom sink with a toothbrush holder and toothpaste ",
+            "pix2struct": "A black and white photo of a camera that says everyday morning."
+        },
+        "original_coco_captions": [
+            "A bathroom sink with toothbrush holder and soap dispenser",
+            "a close up of a bathroom sink with soap and tooth brushes in a cup",
+            "A sink that has a container for toothbrushes on it's edge.",
+            "A bathroom sink has soap and toothbrushes on it.",
+            "A bathroom sink with a soap dispenser and toothbrush holder."
+        ]
+    },
+    {
+        "image_id": 37044,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000037044.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a sink and a window",
+            "gpt2": "a bathroom with a sink, mirror, and a tub ",
+            "pix2struct": "A white and blue computer keyboard with a green keypad."
+        },
+        "original_coco_captions": [
+            "A bathroom sink with a bottle of cleaning solution on it. ",
+            "An empty bathroom with only a spray bottle of cleaner on the counter.",
+            "a bottle is sitting on top of a white sink",
+            "A bottle that is next to a sink.",
+            "a bathroom that has a big sink in it"
+        ]
+    },
+    {
+        "image_id": 214274,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000214274.jpg",
+        "generated_captions": {
+            "blip": "a man and woman in a kitchen preparing food",
+            "gpt2": "a man and woman in a kitchen preparing food ",
+            "pix2struct": "A man is cooking food in a kitchen with a box of Coca-Cola 20."
+        },
+        "original_coco_captions": [
+            "A man and a woman cook in the kitchen.",
+            "A married couple preparing food in a house kitchen.",
+            "A couple of people that are in a kitchen cooking some food.",
+            "A man and woman in the kitchen preparing food.",
+            "A man and woman cooking together in the kitchen."
+        ]
+    },
+    {
+        "image_id": 120566,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000120566.jpg",
+        "generated_captions": {
+            "blip": "a white toilet with a red light on the lid",
+            "gpt2": "a toilet with a remote control and a toilet paper dispenser ",
+            "pix2struct": "A box of Aspen Oil sits on a table."
+        },
+        "original_coco_captions": [
+            "A bathroom that has a microphone and amplifier in it.",
+            "A bathroom with a toilet and an item on top of it. ",
+            "A microphone and amipifier are set up in a bathroom",
+            "An amplifier sits on top of a toilet with a microphone.",
+            "A white toilet and a amp in a room."
+        ]
+    },
+    {
+        "image_id": 79465,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000079465.jpg",
+        "generated_captions": {
+            "blip": "a room with a toilet and a chair",
+            "gpt2": "a bathroom with a toilet, sink, and a mirror ",
+            "pix2struct": "A collection of books including one titled \"The Little Book of the Bible\"."
+        },
+        "original_coco_captions": [
+            "A bathroom toilet nestled in a cubby is turned into a room for darts.",
+            "Unique photograph of the inside of a home with unique decorations",
+            "A painting of an apartment with a kitchen and a restroom.",
+            "A painting of a house showing the bathroom, kitchen and bedroom.",
+            "A photo of a kitchen a with appliances an a bathroom with a toilet "
+        ]
+    },
+    {
+        "image_id": 332499,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000332499.jpg",
+        "generated_captions": {
+            "blip": "a kitchen and dining area in a small apartment",
+            "gpt2": "a kitchen with a table and a lamp ",
+            "pix2struct": "A man is holding a book titled \"The Secret Life of the Mind\"."
+        },
+        "original_coco_captions": [
+            "A lamp that is on sitting on a table.",
+            "A kitchen area at night lit by a single lamp",
+            "Small table in entry of kitchen with bright light.",
+            "The dining room is incorporated into the kitchen.",
+            "a kitchen with a oven and table inside of it "
+        ]
+    },
+    {
+        "image_id": 31442,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000031442.jpg",
+        "generated_captions": {
+            "blip": "a man sitting on a chair in a kitchen",
+            "gpt2": "a man sitting on a wooden chair in a kitchen ",
+            "pix2struct": "A man is standing in front of a bread machine."
+        },
+        "original_coco_captions": [
+            "The man is sitting in the small kitchen on a stool. ",
+            "A man sits in a wooden kitchen at a table.",
+            "The man is sitting on a bench in his kitchen.",
+            "a man is sitting on a wood stool in a home",
+            "A man sits on a stool in a kitchen."
+        ]
+    },
+    {
+        "image_id": 4731,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000004731.jpg",
+        "generated_captions": {
+            "blip": "a woman holding a baby",
+            "gpt2": "a man holding a baby in a kitchen ",
+            "pix2struct": "A man is cooking in a kitchen with a table full of food."
+        },
+        "original_coco_captions": [
+            "A man holding a baby up in a kitchen.",
+            "a man is holding up a baby while he is in the kitchen",
+            "A person holding a baby while standing in a kitchen.",
+            "A broad panorama of several people getting together.\n",
+            "There is a man holding up a baby in the kitchen."
+        ]
+    },
+    {
+        "image_id": 306733,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000306733.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a sink, toilet, and shower",
+            "gpt2": "a bathroom with a sink, mirror, and bath tub ",
+            "pix2struct": "A display of home staging and redesigns is shown."
+        },
+        "original_coco_captions": [
+            "Bathroom with sink, shower, towels, curtain, and more with window",
+            "A picture of a bathroom with a fern plant near the sink and a photo of a city above the toilet. ",
+            "the mirror, sink and bathtub area of a white bathroom",
+            "Well decorated bathroom in a small yellow tinted area.",
+            "A bathroom with a sink, towel rack and shower stall."
+        ]
+    },
+    {
+        "image_id": 399851,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000399851.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a table and a stove",
+            "gpt2": "a kitchen with a stove, sink, and a shelf ",
+            "pix2struct": "A store with a sign that says \"Coffee\" on it."
+        },
+        "original_coco_captions": [
+            "A kitchen shelf holds an assortment of pots, pans, and utensils.",
+            "A wooden table in a kitchen with pots and pans.",
+            "A cutting board , pot rack and dish shelf.",
+            "A utility table in a kitchen, with pots, pans and utensils hanging nearby.",
+            "a table in a kitchen some pots and pans and hanging utensils"
+        ]
+    },
+    {
+        "image_id": 327529,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000327529.jpg",
+        "generated_captions": {
+            "blip": "a red and blue bike",
+            "gpt2": "a blue and white bicycle parked on a wooden dock ",
+            "pix2struct": "A man wearing a New World Tourist shirt stands next to a book."
+        },
+        "original_coco_captions": [
+            "Bicycle owned by the New World Tourist Company",
+            "A close up of the middle section of a bicycle.",
+            "A blue bike parked net to a wooden bench.",
+            "A close up photo of a light blue bicycle frame.",
+            "a blue bicycle with a bottle holder and plastic bottle"
+        ]
+    },
+    {
+        "image_id": 146961,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000146961.jpg",
+        "generated_captions": {
+            "blip": "a man in a kitchen preparing food",
+            "gpt2": "a man in a kitchen preparing food in a kitchen ",
+            "pix2struct": "A man is standing in front of a large screen that says \"Welsh Music\"."
+        },
+        "original_coco_captions": [
+            "A man is cooking in a crowded kitchen.",
+            "A man cooking in the kitchen in front of the stove. ",
+            "A man standing in a kitchen preparing food.",
+            "A man in the kitchen preparing food for dinner ",
+            "Man preparing dinner in the kitchen with under cabinet lights on."
+        ]
+    },
+    {
+        "image_id": 214046,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000214046.jpg",
+        "generated_captions": {
+            "blip": "a man in a kitchen",
+            "gpt2": "a man in a kitchen preparing food in a kitchen ",
+            "pix2struct": "A man is holding a bottle of Stimel."
+        },
+        "original_coco_captions": [
+            "A picture of an older man cutting a turkey on the counter.",
+            "A group of people that are standing in the kitchen.",
+            "A group of people standing over some food.",
+            "Three people agree in the kitchen near a cluttered bar.",
+            "a number of people in a kitchen preparing food"
+        ]
+    },
+    {
+        "image_id": 580027,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000580027.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a tub, sink, and mirror",
+            "gpt2": "a bathroom with a tub, sink, mirror and a bath tub ",
+            "pix2struct": "A store with a display of books and a sign that says 2016."
+        },
+        "original_coco_captions": [
+            "There is a tub, a sink, and a shower inside a bathroom.",
+            "a bathroom with a round tub, mirrors, shower and sinks",
+            "A couple of sinks and a bath in a room.",
+            "A bathroom with shower, sinks, and tub in it.",
+            "A corner bathtub in a very clean bathroom."
+        ]
+    },
+    {
+        "image_id": 145523,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000145523.jpg",
+        "generated_captions": {
+            "blip": "a toilet with a toilet paper roll in it",
+            "gpt2": "a toilet with a white toilet paper roll on the floor ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "A few items sit on top of a toilet in a bathroom stall.",
+            "A dirty toilet in a small bathroom.with items on top.",
+            "A toilet seat is left open inside of a bathroom.",
+            "A dirty toilet in a small cramped space.",
+            "A photo of a toilet with items on the tank."
+        ]
+    },
+    {
+        "image_id": 380348,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000380348.jpg",
+        "generated_captions": {
+            "blip": "a dining room with a chandel and a chandel",
+            "gpt2": "a dining room table with a large window ",
+            "pix2struct": "A table with a glass of beer and a bottle of wine."
+        },
+        "original_coco_captions": [
+            "A large room with tables and chandeliers ",
+            "A formal dining area with tables and shelves.",
+            "A fancy dining room with lots of amenities.",
+            "A couple of old fashioned oak wood dining tables.",
+            "A dining room with hard wood floors that is very fancy. "
+        ]
+    },
+    {
+        "image_id": 290750,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000290750.jpg",
+        "generated_captions": {
+            "blip": "a group of people standing around a kitchen",
+            "gpt2": "people standing around a kitchen ",
+            "pix2struct": "A man is holding a book titled \"The Secret Life of the Mind\"."
+        },
+        "original_coco_captions": [
+            "Lots of people stand in a busy kitchen.",
+            "A family cooking and posing in front of a camera in their open kitchen.",
+            "A group of people doing different things in a kitchen. ",
+            "Several people are shown standing in a kitchen.",
+            "Group of adults in kitchen area of home with wood flooring."
+        ]
+    },
+    {
+        "image_id": 369594,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000369594.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a sink and a window",
+            "gpt2": "a kitchen with a stove, sink, and window ",
+            "pix2struct": "A display of a kitchen with a sign that says Property of www.aadesignbuild.com"
+        },
+        "original_coco_captions": [
+            "The small kitchen has a black counter and wooden cabinets.",
+            "A small kitchen with black counters and a wide window.",
+            "a kitchen with a sink and some cupboards in it ",
+            "A kitchen sink is bright and sunny in front of a window.",
+            "A nice kitchen is shown with light coming in a window and black countertops."
+        ]
+    },
+    {
+        "image_id": 322783,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000322783.jpg",
+        "generated_captions": {
+            "blip": "a bathroom sink with a mirror above it",
+            "gpt2": "a sink in a bathroom with a mirror ",
+            "pix2struct": "A black and white photo of a computer keyboard with the letters 'a' on the bottom"
+        },
+        "original_coco_captions": [
+            "A white sink sits on a beige vanity in this uninspiring bathroom. ",
+            "A white bathroom sink under a mirror next to a shelf.",
+            "A bathroom sink with a tile design on the vanity.",
+            "The small sink is set in a tile vanity.",
+            "White bathroom sink with tile countertop and wood cabinet."
+        ]
+    },
+    {
+        "image_id": 358103,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000358103.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a sink, toilet, and a window",
+            "gpt2": "a bathroom with a white sink and a white tub ",
+            "pix2struct": "A man is standing in front of a clock that says 10:00."
+        },
+        "original_coco_captions": [
+            "A lucky bamboo plant in the window of a small bathroom.",
+            "Small white bathroom with a sink, shower, and small window. ",
+            "A bathroom with a plant and vase in window.",
+            "A pristine white bath room with a pedestal sink, black and white tile and a window at the far end",
+            "A small, white bathroom has a bamboo plant, a single sink and a shower with a shower curtain."
+        ]
+    },
+    {
+        "image_id": 367619,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000367619.jpg",
+        "generated_captions": {
+            "blip": "a cake on a plate",
+            "gpt2": "a cake on a counter top with a knife ",
+            "pix2struct": "A box of Cakes sits on a table next to a box of chocolates."
+        },
+        "original_coco_captions": [
+            "A white cake topped with coconut on a counter.",
+            "an image of cake on top of a counter",
+            "A homemade cake is displayed on a shiny tray. ",
+            "A cake on a counter with a mixer behind it.",
+            "a counter with a mixer and a cake on a tray."
+        ]
+    },
+    {
+        "image_id": 235839,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000235839.jpg",
+        "generated_captions": {
+            "blip": "a man sitting in front of a computer",
+            "gpt2": "a man with a beer in his hand ",
+            "pix2struct": "A man wearing a red shirt that says Weizen is standing in front of a book."
+        },
+        "original_coco_captions": [
+            "A man taking a picture of himself in front of three huge beer bottles",
+            "A PICTURE OF A MAN WITH BEER BEHIND HIM ",
+            "A man wearing a hat in front of large bottles.",
+            "a man standing next to a laptop and bottles of beer",
+            "A man with a baseball cap and glasses seated in front of three large beer bottles."
+        ]
+    },
+    {
+        "image_id": 118450,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000118450.jpg",
+        "generated_captions": {
+            "blip": "a group of bikes",
+            "gpt2": "bikes parked next to each other ",
+            "pix2struct": "A man wearing a shirt that says \"The Times\" is riding a bike."
+        },
+        "original_coco_captions": [
+            "A bunch of bicycles parked on the street with items sitting around them ",
+            "Bicycles with back packs parked in a public place.",
+            "Several bicycles sit parked nest to each other.",
+            "a bunch of bikes in the middle of a road",
+            "A bunch of bicycles are parked on a sidewalk. "
+        ]
+    },
+    {
+        "image_id": 506310,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000506310.jpg",
+        "generated_captions": {
+            "blip": "a room with a refrigerator and a refrigerator",
+            "gpt2": "a room with a refrigerator and a shelf with various items ",
+            "pix2struct": "A store with a clock that says 10:00."
+        },
+        "original_coco_captions": [
+            "A room with an empty and open refrigerator and a shelf of bottles.",
+            "A refrigerator freezer next to a  wall.",
+            "A refrigerator in a kitchen with its door opened.",
+            "A room that has an open refrigerator in it.",
+            "A room with an open refrigerator and shelves with jars on it. "
+        ]
+    }
+]

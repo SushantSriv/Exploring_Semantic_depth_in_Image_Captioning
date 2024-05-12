@@ -1,0 +1,1587 @@
+[
+    {
+        "image_id": 57703,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000057703.jpg",
+        "generated_captions": {
+            "blip": "a group of people walking through a forest",
+            "gpt2": "a man and two dogs are walking through the woods ",
+            "pix2struct": "A man wearing a shirt that says \"E\" is standing in front of a wall."
+        },
+        "original_coco_captions": [
+            "A man and two women walking their dogs and hiking in the woods.",
+            "Three dogs are huddled together with their owners. ",
+            "A group of people in the woods with dogs.",
+            "Three hikers walking in the wilderness with three dogs.",
+            "Three people standing in a wooded area walking three dogs. "
+        ]
+    },
+    {
+        "image_id": 191280,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000191280.jpg",
+        "generated_captions": {
+            "blip": "a dog is standing on the grass",
+            "gpt2": "a dog jumping up to catch a frisbee ",
+            "pix2struct": "A man wearing a shirt that says 10 cents"
+        },
+        "original_coco_captions": [
+            "A dog is catching a Frisbee at the dog show ",
+            "A dog catching a frisbee at a dog competition.",
+            "A crowd is watching a dog with a frisbee.",
+            "A dog catching a white frisbee in it's mouth.",
+            "A black and white dog catching a frisbee on a field."
+        ]
+    },
+    {
+        "image_id": 424378,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000424378.jpg",
+        "generated_captions": {
+            "blip": "a man and a dog in a car",
+            "gpt2": "a man in a car with a dog in the back seat ",
+            "pix2struct": "A man wearing a shirt that says 'di santi' on it."
+        },
+        "original_coco_captions": [
+            "A man with glasses riding in a car with an adorable dog in the backseat.",
+            "A man driving with his dog in the back seat.",
+            "A man driving  a car with his dog in the back seat.",
+            "A man driving with his dog in the backseat",
+            "A man is driving with his dog in the back seat. "
+        ]
+    },
+    {
+        "image_id": 278550,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000278550.jpg",
+        "generated_captions": {
+            "blip": "a dog in a basket on a bicycle",
+            "gpt2": "a dog is sitting in a basket on a bicycle ",
+            "pix2struct": "A man wearing a shirt that says 'the man's name' is standing in front"
+        },
+        "original_coco_captions": [
+            "a dog rests in a basket on a bike ",
+            "An adorable dog sitting in a brown baskets on top of a bike.",
+            "Small dog peeking out of a basket on a motorcycle.",
+            "A puppy in a shaded basked on a bicycle.",
+            "A very cute brown dog in a basket on a bike."
+        ]
+    },
+    {
+        "image_id": 170893,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000170893.jpg",
+        "generated_captions": {
+            "blip": "a dog is looking at a toilet in a bathroom",
+            "gpt2": "a dog is sitting on the toilet in the bathroom ",
+            "pix2struct": "A man is holding a bottle of wine that says 'a bottle of wine' on it"
+        },
+        "original_coco_captions": [
+            "A dog is standing next to a toilet playing with tissue",
+            "A dog in the bathroom reaching for the toilet paper.",
+            "A yellow dog smelling the toilet paper in a bathroom.",
+            "A dog uses its mouth to grab toilet paper off of the roll.",
+            "a dog eating toilet paper from the toilet paper holder"
+        ]
+    },
+    {
+        "image_id": 209468,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000209468.jpg",
+        "generated_captions": {
+            "blip": "a woman in a kitchen with a dog",
+            "gpt2": "a woman is working on a laptop in a kitchen ",
+            "pix2struct": "A store with a display of books and a box that says R."
+        },
+        "original_coco_captions": [
+            "A woman in pajamas using her laptop on the stove top in the kitchen",
+            "A woman reading a laptop set on a stove.",
+            "A woman looks at a computer that is sitting on a stove.",
+            "A woman in her pajamas looking at her laptop on the kitchen stove.",
+            "A young woman standing in front of a laptop computer on a stove."
+        ]
+    },
+    {
+        "image_id": 511463,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000511463.jpg",
+        "generated_captions": {
+            "blip": "a woman walking a dog on a trail",
+            "gpt2": "a woman walking with a dog in a forest ",
+            "pix2struct": "A man wearing a black shirt that says \"The Man\" is standing in front of a tree"
+        },
+        "original_coco_captions": [
+            "A woman and her dog taking a walk down a path in the woods.",
+            "an image of  a woman walking a dog in the woods",
+            "A woman in white shirt walking a dog in forest.",
+            "a lady walking down a dirt path in the wood with a dog",
+            "A woman walking a dog through the woods."
+        ]
+    },
+    {
+        "image_id": 65485,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000065485.jpg",
+        "generated_captions": {
+            "blip": "a red and silver truck parked in a field",
+            "gpt2": "a red truck parked in a field with a tree ",
+            "pix2struct": "A parking meter with a Turbo Diesel logo on it."
+        },
+        "original_coco_captions": [
+            "A dog driving an SUV in an open grass covered field.",
+            "A dog sits in the front seat of a jeep. ",
+            "A dog is sitting inside a red car.",
+            "A red truck has a black dog in the drivers chair.",
+            "A dog sitting in the front seat of a truck."
+        ]
+    },
+    {
+        "image_id": 236954,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000236954.jpg",
+        "generated_captions": {
+            "blip": "two dogs in a car",
+            "gpt2": "two dogs sitting in a car seat ",
+            "pix2struct": "A man is holding a bottle of wine that says \"A\" on it."
+        },
+        "original_coco_captions": [
+            "Two dogs are is sitting in the back seat of a car.",
+            "Two dogs sitting on a mat in the back of an automobile. ",
+            "There are two figs that are sitting in the car seat",
+            "Two dogs sitting in backseat of a car on a blanket.",
+            "Two dogs are sitting in the back seat of the car."
+        ]
+    },
+    {
+        "image_id": 329011,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000329011.jpg",
+        "generated_captions": {
+            "blip": "a dog getting a bath in a bathtub",
+            "gpt2": "a dog is laying in a bathtub with its tongue out ",
+            "pix2struct": "A man wearing a black shirt that says \"The Man\" is standing in front of a book"
+        },
+        "original_coco_captions": [
+            "A dog being washed in a tub, with a sad look on its face.",
+            "A person washing a dog in a bathtub.",
+            "A dog is getting a bath in a tub.",
+            "a sad looking dog getting a bath in a sink",
+            "A wet dog being giving a bath by it's owners."
+        ]
+    },
+    {
+        "image_id": 176474,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000176474.jpg",
+        "generated_captions": {
+            "blip": "three dogs on a leash",
+            "gpt2": "two dogs are standing next to each other ",
+            "pix2struct": "A group of people are standing in front of a fence that says \"The Tree\"."
+        },
+        "original_coco_captions": [
+            "Three different types of dogs looking at the camera.",
+            "Three dogs are in the grass together looking at the camera.",
+            "A group of dogs standing next to each other while on leashes.",
+            "Three dogs on leashes standing next to each other.",
+            "Three dogs on leashes standing in the grass."
+        ]
+    },
+    {
+        "image_id": 33405,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000033405.jpg",
+        "generated_captions": {
+            "blip": "a person and a dog on a log",
+            "gpt2": "a woman walking a dog on a leash near a body of water ",
+            "pix2struct": "A man is standing in front of a boat that says estadoise 2007."
+        },
+        "original_coco_captions": [
+            "A woman is walking her two dogs on the beach.",
+            "A young woman walking her dog along the sea shore.",
+            "The lady walks a pair of odd-looking dogs along the seashore.",
+            "A woman on the water with a dog on a leash.",
+            "A woman is standing on the beach with dogs."
+        ]
+    },
+    {
+        "image_id": 49097,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000049097.jpg",
+        "generated_captions": {
+            "blip": "a dog sitting next to a bicycle parked on the side of a street",
+            "gpt2": "a dog standing on a sidewalk next to a red bike ",
+            "pix2struct": "A collection of bikes including one that says Rid."
+        },
+        "original_coco_captions": [
+            "A bike and a dog on the sidewalk outside a red building.",
+            "a dog sitting on a side walk with a bike near by",
+            "A black and white dog standing next to a bike.",
+            "Bicycle parking outside a store with a dog along side it.",
+            "a dog and a bike sitting next to a red wall "
+        ]
+    },
+    {
+        "image_id": 540449,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000540449.jpg",
+        "generated_captions": {
+            "blip": "a dog sitting in the passenger seat of a car",
+            "gpt2": "a dog sitting in the back seat of a car ",
+            "pix2struct": "A man is holding a bottle of wine that says 'the smoky' on"
+        },
+        "original_coco_captions": [
+            "A medium-sized black dog lies in the back of a car. ",
+            "A dog that is sitting in the rear window of a vehicle.",
+            "A small dog is sitting near the back window of a car.",
+            "A dog sitting in the back window of a car.",
+            "a dog sitting up in a car window"
+        ]
+    },
+    {
+        "image_id": 504900,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000504900.jpg",
+        "generated_captions": {
+            "blip": "a man wearing a black shirt",
+            "gpt2": "a man sitting on a couch with a dog ",
+            "pix2struct": "A man is holding a book titled \"The 20th Century\"."
+        },
+        "original_coco_captions": [
+            "A man sitting on a couch with a dog on his lap",
+            "A man wearing glasses holds his dog in his lap",
+            "A man with a dog on his lap.",
+            "A man on a couch with a brown and white dog laying on top of it.",
+            "A man and a brown and white dog sitting together."
+        ]
+    },
+    {
+        "image_id": 161141,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000161141.jpg",
+        "generated_captions": {
+            "blip": "a blue train car",
+            "gpt2": "a bicycle parked next to a train on a track ",
+            "pix2struct": "A watch is on a table and says 10:00."
+        },
+        "original_coco_captions": [
+            "A red bicycle with a basket on front next to a train.",
+            "A red bike is leaning against a blue wall",
+            "The bike is parked next to the broken down bus.",
+            "A bicycle leans against a standing train car.",
+            "a bike that is parked next to a building"
+        ]
+    },
+    {
+        "image_id": 210012,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000210012.jpg",
+        "generated_captions": {
+            "blip": "a woman standing in a kitchen with a dog",
+            "gpt2": "a woman standing in a kitchen with a stove and a refrigerator ",
+            "pix2struct": "A book shelf with a book titled \"The Book of the Dead\"."
+        },
+        "original_coco_captions": [
+            "A woman standing in a kitchen with hard wood floors.",
+            "A woman fixes food in the kitchen while a cat sits behind her.",
+            "A woman and a little dog in a very large kitchen.",
+            "a person in a kitchen with a stove and cupboards",
+            "a woman and a dog in her kitchen waiting as she prepares a meal"
+        ]
+    },
+    {
+        "image_id": 200023,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000200023.jpg",
+        "generated_captions": {
+            "blip": "a dog is looking out the window of a car",
+            "gpt2": "a dog is looking out the window of a car ",
+            "pix2struct": "A man is holding a phone that says 'the man's phone'."
+        },
+        "original_coco_captions": [
+            "A big dog sticking its head out a car window.",
+            "A do sticking its head out the side of a car window.",
+            "Cute dog sticking it's head out of the window.",
+            "A dog sticking its head out of a vehicle.",
+            "A brown and black dog sticking its head out a window."
+        ]
+    },
+    {
+        "image_id": 272153,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000272153.jpg",
+        "generated_captions": {
+            "blip": "a man walking on a beach with a dog",
+            "gpt2": "a man walking with a dog on a beach ",
+            "pix2struct": "A man is standing on the beach and wearing a shirt that says \"S\"."
+        },
+        "original_coco_captions": [
+            "a dog walking beside a man carrying a surf board",
+            "A surfer and his dog walk on a beach.",
+            "A man is carrying a surfboard and walking on a beach with a dog. ",
+            "A man in a wet suit walking with a surfboard and a dog.",
+            "The man is on the beach with his surfboard and dog. "
+        ]
+    },
+    {
+        "image_id": 386968,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000386968.jpg",
+        "generated_captions": {
+            "blip": "a woman riding a bike with a dog in a basket",
+            "gpt2": "a woman riding a bike with a dog on a leash ",
+            "pix2struct": "A man wearing a watch that says \"O Canada a Boccorre\" is standing in"
+        },
+        "original_coco_captions": [
+            "A woman riding a green bike with a small white dog on the back.",
+            "A woman in a fur coat on a bike with a dog in the bike's basket.",
+            "A woman wearing a coat rides a bicycle with a dog. ",
+            "The woman is riding her bike with her dog on the back.",
+            "a little dog standing on the back of a woman's bike "
+        ]
+    },
+    {
+        "image_id": 374990,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000374990.jpg",
+        "generated_captions": {
+            "blip": "a woman standing in a room with a dog",
+            "gpt2": "a dog standing on a floor next to a woman ",
+            "pix2struct": "A man is holding a camera and wearing a shirt that says Brian J Matis."
+        },
+        "original_coco_captions": [
+            "A woman standing in a doorway as a dog turns and looks at her.",
+            "A large dog looks back at his owner.",
+            "A brown and white dog and person standing on a wooden floor.",
+            "A dog is looking at a woman in the kitchen.",
+            "The dog is looking up at a woman."
+        ]
+    },
+    {
+        "image_id": 135116,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000135116.jpg",
+        "generated_captions": {
+            "blip": "a dog standing next to a car on the grass",
+            "gpt2": "a dog standing in the grass next to a car ",
+            "pix2struct": "A woman is holding a baby and wearing a shirt that says \"S\"."
+        },
+        "original_coco_captions": [
+            "A furry long haired dog standing near a car",
+            "An adult golden retriever standing next to a car.",
+            "A dog standing up near a car looking ahead.",
+            "A dog standing outside next to a car.",
+            "A large brown dog standing next to a parked car."
+        ]
+    },
+    {
+        "image_id": 534829,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000534829.jpg",
+        "generated_captions": {
+            "blip": "a dog is tied to a leash on a leash",
+            "gpt2": "a dog standing on a sidewalk next to a woman ",
+            "pix2struct": "A man wearing a shirt that says Fred on it."
+        },
+        "original_coco_captions": [
+            "The bottom view of people's body and a puppy on a leash.",
+            "People stand in a circle wearing different types of shoes.",
+            "A small dog sits at the feet of two women and two men.",
+            "A dog with a shirt on sitting on the ground on a leash next to a man and a woman. ",
+            "a number f people standing near one another "
+        ]
+    },
+    {
+        "image_id": 546642,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000546642.jpg",
+        "generated_captions": {
+            "blip": "a motorcycle is parked on the side of the road",
+            "gpt2": "a dog is riding a motorcycle down the street ",
+            "pix2struct": "A boat with the word \"OCCUP\" on the side of it."
+        },
+        "original_coco_captions": [
+            "A motorcyclist riding down the street with a dog in a basket.",
+            "A motorcyclist drives down the road with a dog standing in the basket in the back.",
+            "The white dog with black spots is riding in a basket on the back of the motor bike.",
+            "A man riding a motorcycle down the street.",
+            "A man riding a motorcycle with his dalmatian dog sitting on the back."
+        ]
+    },
+    {
+        "image_id": 210060,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000210060.jpg",
+        "generated_captions": {
+            "blip": "a woman riding a bike with a dog on a leash",
+            "gpt2": "a woman riding a bike with a dog ",
+            "pix2struct": "A man wearing a black shirt that says 'the man's shirt' is standing in"
+        },
+        "original_coco_captions": [
+            "A woman on a bike with a baby seat holding a dog leash.",
+            "The woman is riding a bike with a child while walking her dog.",
+            "A woman riding a bike with her baby on the back and German Shepard on leash.",
+            "A person walking a dog while riding a bicycle.",
+            "A woman and her child bike while walking the dog."
+        ]
+    },
+    {
+        "image_id": 553436,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000553436.jpg",
+        "generated_captions": {
+            "blip": "two men in a kitchen with a dog",
+            "gpt2": "a man and a woman standing in a kitchen ",
+            "pix2struct": "A man is standing in front of a large black table with a book titled \"The Secret Life"
+        },
+        "original_coco_captions": [
+            "Two men and a dog in a kitchen.",
+            "Two men standing in a kitchen with a dog in between them.",
+            "Two men are standing in a kitchen and a medium sized dog is looking up at one of them.",
+            "Two men standing in a kitchen next to a dog.",
+            "Two men and a dog standing in a kitchen."
+        ]
+    },
+    {
+        "image_id": 106166,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000106166.jpg",
+        "generated_captions": {
+            "blip": "a car parked on a dirt road",
+            "gpt2": "a dog is standing on the side of the road ",
+            "pix2struct": "A car with a license plate that says flickr."
+        },
+        "original_coco_captions": [
+            "The car is traveling down the road while the dog watches.",
+            "A white and tan dog greeting passengers in a car which is coming up a driveway.",
+            "a yellow dog meeting a car coming down the road",
+            "Yellow dog watching a grey sedan drive on a rural road.",
+            "A dog investigating a car stopped on a dirt road."
+        ]
+    },
+    {
+        "image_id": 558671,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000558671.jpg",
+        "generated_captions": {
+            "blip": "a man and his dog in a kitchen",
+            "gpt2": "a woman standing in a kitchen next to a dog ",
+            "pix2struct": "A man is standing in front of a clock that says 10:00."
+        },
+        "original_coco_captions": [
+            "A woman cooking food on a stove while a dog watches.",
+            "a black and white picture of a woman in the kitchen with her dog ",
+            "a man that has a dog standing next to him",
+            "A person and a dog are standing in a cluttered kitchen.",
+            "Man standing in kitchen with dog sitting beside him. "
+        ]
+    },
+    {
+        "image_id": 276719,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000276719.jpg",
+        "generated_captions": {
+            "blip": "a dog is walking towards a car",
+            "gpt2": "a man and a woman walking down a street with a dog ",
+            "pix2struct": "A yellow car with the license plate 00000000000"
+        },
+        "original_coco_captions": [
+            "Two people are looking at a truck while a dog is being walked.",
+            "people on the street with their cars  moving",
+            "Some guys are standing over an old antique truck and someone is walking a dog nearby. ",
+            "Small groups of people, including a person walking a dog, are scattered about an outdoor area, encompassing some streets, that is filled with classic cars. ",
+            "classic cars on a city street with people and a dog"
+        ]
+    },
+    {
+        "image_id": 82312,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000082312.jpg",
+        "generated_captions": {
+            "blip": "a woman walking a dog on a sidewalk",
+            "gpt2": "a dog standing next to a bicycle on a street ",
+            "pix2struct": "A man is holding a bottle of Power and a bottle of Power."
+        },
+        "original_coco_captions": [
+            "A brown dog standing next to bicycles in front of a store.",
+            "A dog is standing in the middle of several bikes while a man observes. ",
+            "A person and a dog are standing near bicycles and a motorbike.",
+            "A person in a hat with a dog next to motorcycles",
+            "A colorfully dressed person and a dog standing next to several bicycles and a scooter."
+        ]
+    },
+    {
+        "image_id": 26730,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000026730.jpg",
+        "generated_captions": {
+            "blip": "a dog is sitting in the back of a motorcycle",
+            "gpt2": "a dog sitting in a motorcycle seat ",
+            "pix2struct": "A man is holding a bottle of wine that says 'the 100' on"
+        },
+        "original_coco_captions": [
+            "A dog sitting in the sidecar of a motorcycle.",
+            "A yellow dog sits in a sidecar attached to a motorcycle.",
+            "A dog sitting in a seat on a motorcycle.",
+            "A large brown dog sitting in the side car of a motorcycle.",
+            "A dog sits in the black sidecar of a motorcycle."
+        ]
+    },
+    {
+        "image_id": 94140,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000094140.jpg",
+        "generated_captions": {
+            "blip": "a dog sitting in the back seat of a car",
+            "gpt2": "a dog sitting in the back seat of a car ",
+            "pix2struct": "A man is holding a dog that says TAS2."
+        },
+        "original_coco_captions": [
+            "A photo taken in a car looking at a dog in the back seat.",
+            "A dog that is in the back of a car.",
+            "A dog is resting across a backseat beside a seat belt window sign.",
+            "A brown dog laying on the back seat of a car. ",
+            "A dog sits in the back of a car."
+        ]
+    },
+    {
+        "image_id": 521869,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000521869.jpg",
+        "generated_captions": {
+            "blip": "a dog sitting in a car",
+            "gpt2": "a dog sitting in the back of a car ",
+            "pix2struct": "A HPSTM 269 is shown on a table."
+        },
+        "original_coco_captions": [
+            "A dog driving a car down a street past a truck.",
+            "A dog is sitting behind the wheel of a vehicle.",
+            "A picture of a dog sitting in the driver's seat of a car.",
+            "A sepia picture of a dog at the wheel of a vehicle.",
+            "a dog is sitting behind the wheel of a car"
+        ]
+    },
+    {
+        "image_id": 407286,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000407286.jpg",
+        "generated_captions": {
+            "blip": "a woman in a red convertible car",
+            "gpt2": "a woman and two dogs sitting in a car ",
+            "pix2struct": "A man wearing a shirt that says 'tiff' is holding a book."
+        },
+        "original_coco_captions": [
+            "A trio of dogs sitting in their owner's lap in a red convertible.",
+            "Three little dogs looking out a car window while sitting on a woman's lap. ",
+            "A woman driver has three dogs in the seat with her.",
+            "A woman and her three dogs in a car.",
+            "Three dogs on the lap of a woman in the driver's seat of a convertible."
+        ]
+    },
+    {
+        "image_id": 498286,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000498286.jpg",
+        "generated_captions": {
+            "blip": "a dog with a collar",
+            "gpt2": "a dog with a collar on ",
+            "pix2struct": "A man is holding a black and white photo of a man in a black and white photo."
+        },
+        "original_coco_captions": [
+            "a vety cute furry dog posing near a big sign.",
+            "a close up of a dog with a car in the back",
+            "The small dog has a tiny black nose.",
+            "A grey dog with a black collar sits outside in the sun. ",
+            "A dog looking away from the camera in the wind."
+        ]
+    },
+    {
+        "image_id": 201190,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000201190.jpg",
+        "generated_captions": {
+            "blip": "a woman sitting on a bench with a dog",
+            "gpt2": "a woman holding a dog on a leash ",
+            "pix2struct": "A man and woman are sitting on a table with a bottle of wine."
+        },
+        "original_coco_captions": [
+            "A woman with a braid holds her dog in her lap.",
+            "A woman sitting on a bench holding onto a dog",
+            "A woman holds a dog on her lap. ",
+            "A woman is sitting with a large dog in her lap.",
+            "A woman is sitting down holding a dog in her lap."
+        ]
+    },
+    {
+        "image_id": 424162,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000424162.jpg",
+        "generated_captions": {
+            "blip": "a woman on a bike with a dog on a leash",
+            "gpt2": "a woman riding a bike with a dog ",
+            "pix2struct": "A man wearing a shirt that says Om is standing next to a man wearing a shirt that says"
+        },
+        "original_coco_captions": [
+            "a couple of women that have a dog on a leash",
+            "A person who is on a bike with a dog on a leash. ",
+            "a dog is pulling a woman on a bike",
+            "A few people riding bikes next to a dog on a leash.",
+            "A dog being led down the street, by a woman on a bike."
+        ]
+    },
+    {
+        "image_id": 245462,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000245462.jpg",
+        "generated_captions": {
+            "blip": "a man in a kitchen with a dog",
+            "gpt2": "a man standing in a kitchen with a dog ",
+            "pix2struct": "A man is holding a bottle of wine and a bottle of vodka."
+        },
+        "original_coco_captions": [
+            "A man in a gray jacket standing in a kitchen next to a black dog.",
+            "The dog is looking at the man holding something.",
+            "A man standing in a kitchen with a dog watching him.",
+            "A man with food in his hand and a black dog sitting nearby.",
+            "a man standing in a kitchen with a black dog staring at him "
+        ]
+    },
+    {
+        "image_id": 61108,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000061108.jpg",
+        "generated_captions": {
+            "blip": "a dog is sitting in a basket on a bike",
+            "gpt2": "a bike parked next to a bench ",
+            "pix2struct": "A man wearing a shirt that says \"I\" is standing next to a clock."
+        },
+        "original_coco_captions": [
+            "A dog sits in the basket of a bicycle leaning against bleachers.",
+            "A dog sitting in a basket mounted on the front of a blue bike.",
+            "A dog waits in the basket of the bicycle.",
+            "A blue bicycle with a puppy in its basket is parked next to the bleacher steps. ",
+            "A blue bicycle with a black basket on the front of it"
+        ]
+    },
+    {
+        "image_id": 532426,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000532426.jpg",
+        "generated_captions": {
+            "blip": "a motorcycle parked in a parking",
+            "gpt2": "a dog is standing next to a motorcycle ",
+            "pix2struct": "A pair of bikes with the number 36 on the front."
+        },
+        "original_coco_captions": [
+            "A dog  attached to a motor cycle by a leash.",
+            "A dog attache by his leash to the side car of a motorcycle parked in a parking lot.",
+            "A dog is tied to a cart on the side of a motorcycle",
+            "a dog tied to a motorcycle with a side car in a parking lot ",
+            "A dog waits as it is tied up to a motorcycle sidecar."
+        ]
+    },
+    {
+        "image_id": 444576,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000444576.jpg",
+        "generated_captions": {
+            "blip": "a green car",
+            "gpt2": "a man and a dog are riding in a car ",
+            "pix2struct": "A car with a license plate that says 0000000000"
+        },
+        "original_coco_captions": [
+            "A man and a dog ride in a convertible.",
+            "a man and his dog riding in a green convertible ",
+            "A person and a dog are riding in a convertible.",
+            "A man with a dog driving in his green convertible. ",
+            "A small car parked with a dog in the back seat "
+        ]
+    },
+    {
+        "image_id": 106900,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000106900.jpg",
+        "generated_captions": {
+            "blip": "a man and a woman walking in the snow",
+            "gpt2": "a man and a dog walking down a snow covered street ",
+            "pix2struct": "A man wearing a black shirt that says \"The Man\" is standing in front of a boat"
+        },
+        "original_coco_captions": [
+            "A woman, man, and a dog standing in the snow. ",
+            "These people are walking a dog in the snow. ",
+            "Two people are walking the dog through the snow.",
+            "A mand and a woman walking their dog in the snow down a hill.",
+            "A man and a woman walking in the snow with a dog. "
+        ]
+    },
+    {
+        "image_id": 102735,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000102735.jpg",
+        "generated_captions": {
+            "blip": "a dog is walking in the parking",
+            "gpt2": "a dog standing next to a parked truck ",
+            "pix2struct": "A man is holding a phone that says 16."
+        },
+        "original_coco_captions": [
+            "Dog in parking lot and on a leash.",
+            "A little dog next to a motorhome and motorcycle.",
+            "A dog tied up to a vehicle at the parking lot.  ",
+            "A dog standing on the street next to an RV and motorcycle. ",
+            "A dog on a leash tied to a motor home."
+        ]
+    },
+    {
+        "image_id": 518262,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000518262.jpg",
+        "generated_captions": {
+            "blip": "a dog is pulling a leash on a leash",
+            "gpt2": "a dog and a cat are playing together ",
+            "pix2struct": "A man is wearing a shirt that says \"S\" on it."
+        },
+        "original_coco_captions": [
+            "a small dog and a big dog both on leashes",
+            "a small dog attached to a leash behind a bigger dog",
+            "A large and small dog interacting on a crowded sidewalk.",
+            "a little dog standing behind a much bigger one ",
+            "A brown dog on a leash following another dog."
+        ]
+    },
+    {
+        "image_id": 562645,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000562645.jpg",
+        "generated_captions": {
+            "blip": "two dogs are standing in a bathroom",
+            "gpt2": "two dogs are standing in a bathroom with a toilet ",
+            "pix2struct": "A man is holding a bottle of Titorator beer."
+        },
+        "original_coco_captions": [
+            "A pair of dogs sit on a bathroom rug.",
+            "Two dogs are standing on the bathroom rug. ",
+            "Two dogs standing on a rug in a bathroom.",
+            "Two dogs stand side by side with their back to the camera in a bathroom",
+            "Two dogs standing on a bathroom rug in front of the shower while someone is showering."
+        ]
+    },
+    {
+        "image_id": 326911,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000326911.jpg",
+        "generated_captions": {
+            "blip": "a dog and a cat are walking down a path",
+            "gpt2": "a dog and a cat walking down a sidewalk ",
+            "pix2struct": "A man is holding a knife and a knife is next to him."
+        },
+        "original_coco_captions": [
+            "Two small dogs on a sidewalk near a bicycle.",
+            "Two small dogs walk next to a bicycle.",
+            "Two dogs are confronting each other new a parked bicycle.",
+            "A couple small dogs walking next to a bike.",
+            "a pair of dogs on a sidewalk next to a bicycle"
+        ]
+    },
+    {
+        "image_id": 319055,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000319055.jpg",
+        "generated_captions": {
+            "blip": "a white building",
+            "gpt2": "a man walking down a street next to a building ",
+            "pix2struct": "A billboard advertises Little Henri."
+        },
+        "original_coco_captions": [
+            "A woman is walking her dog across the street.",
+            "a building with a bunch of people walking around",
+            "A view of a building from the other side of a street intersection.",
+            "A woman walking a white dog across the street.",
+            "This is the outside of a building in a city."
+        ]
+    },
+    {
+        "image_id": 135275,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000135275.jpg",
+        "generated_captions": {
+            "blip": "a car parked in a parking lot",
+            "gpt2": "a car parked on the side of a road ",
+            "pix2struct": "A silver car with a license plate that says 0000."
+        },
+        "original_coco_captions": [
+            "A small blue car on a city road.",
+            "A dog sitting in the drivers seat of a parked car.",
+            "A small black car is sitting on the pavement",
+            "The car is parked beside of the building with stairs.",
+            "A SMALL BLUE CAR PARKED IN FRONT OF A BRICK BUILDING "
+        ]
+    },
+    {
+        "image_id": 27519,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000027519.jpg",
+        "generated_captions": {
+            "blip": "a couple of people walking down a sidewalk",
+            "gpt2": "a man walking a dog on a leash ",
+            "pix2struct": "A man stands in front of an Internet Cafe."
+        },
+        "original_coco_captions": [
+            "a person standing on a city sidewalk holding a dog leash",
+            "Some people gathered on the street and a dog on  a leash.",
+            "dog patiently lays on the ground while his owner is chatting with another man",
+            "A man talks to another as he walks his dog",
+            "A man with his dog on a leash talking to another man"
+        ]
+    },
+    {
+        "image_id": 397375,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000397375.jpg",
+        "generated_captions": {
+            "blip": "a dog in a car",
+            "gpt2": "a dog is sitting in the driver's seat of a car ",
+            "pix2struct": "A car with a license plate that says 0000000000"
+        },
+        "original_coco_captions": [
+            "A dog sitting in the passenger seat of a car.",
+            "A dog pokes his head up in the window of a white car.",
+            "A dog looking out a window of a car.",
+            "A dog sitting in the passenger seat of a car. ",
+            "A dog peeking out of a car's window."
+        ]
+    },
+    {
+        "image_id": 382668,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000382668.jpg",
+        "generated_captions": {
+            "blip": "two dogs laying on a blanket in a car",
+            "gpt2": "two brown dogs laying on a blue towel ",
+            "pix2struct": "A man is holding a book titled \"The Art of the Book\"."
+        },
+        "original_coco_captions": [
+            "Two adorable chubby dogs sleeping next to each other.",
+            "Two small, fluffy dogs lazing in the sun",
+            "THERE ARE DOGS SITTING DOWN ON THE COUCH ",
+            "Two fuzzy puppies sleep on a towel next to a window.",
+            "two brown dogs are sitting on a chair"
+        ]
+    },
+    {
+        "image_id": 133608,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000133608.jpg",
+        "generated_captions": {
+            "blip": "a group of people riding bikes down a street",
+            "gpt2": "a man riding a bike down a street next to a crowd of people ",
+            "pix2struct": "A man wearing a green shirt that says \"Verone\" is standing in front of a store"
+        },
+        "original_coco_captions": [
+            "A large group of bicyclists on a city street.",
+            "Bicycle riders enjoying outdoor event in urban city.",
+            "The men are riding their bikes threw the city shirtless.",
+            "a man reaching toward a dog in bicycle basket around a crowd of people.  ",
+            "A man is petting a dog while in the street with other cyclists"
+        ]
+    },
+    {
+        "image_id": 67213,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000067213.jpg",
+        "generated_captions": {
+            "blip": "a dog jumping in the air",
+            "gpt2": "a dog jumping in the air over a car ",
+            "pix2struct": "A man is standing in front of a car that says EIK."
+        },
+        "original_coco_captions": [
+            "A lot of people that are looking at a pool.",
+            "A dog jumping through the air into a pool.",
+            "A dog jumping through the air above a pool of water that has been marked for distance, with people watching in the distance.",
+            "A husky jumping jumping above the water of a pool",
+            "A dog competing in a long jump in to water contest"
+        ]
+    },
+    {
+        "image_id": 346560,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000346560.jpg",
+        "generated_captions": {
+            "blip": "a woman standing in a kitchen with a dog",
+            "gpt2": "a woman standing in a kitchen with a cat ",
+            "pix2struct": "A man is holding a bottle of wine that says 'the snob' on"
+        },
+        "original_coco_captions": [
+            "a woman is facing an oven in a kitchen",
+            "A woman in the kitchen preparing a meal.",
+            "The back of a woman next to a counter and a stove.",
+            "Woman in dark, heavy dress cooking in a home kitchen.",
+            "The dog is looking at a woman cooking in the kitchen. "
+        ]
+    },
+    {
+        "image_id": 283833,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000283833.jpg",
+        "generated_captions": {
+            "blip": "a dog wearing sunglasses and a red banda",
+            "gpt2": "a dog wearing a leash on a car seat ",
+            "pix2struct": "A bottle of Puppia sits on a table."
+        },
+        "original_coco_captions": [
+            "An adorable small dog wearing sunglasses while sitting in a back seat.",
+            "A dog sitting in a car sticking his tongue out.",
+            "A dog wearing goggles and a red collar sits in the backseat of a car with its tongue hanging out.",
+            "a dog wearing sunglasses sitting in the backseat of a car",
+            "A dog with shades on rididing in a car"
+        ]
+    },
+    {
+        "image_id": 365207,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000365207.jpg",
+        "generated_captions": {
+            "blip": "a car is seen in the rear view mirror",
+            "gpt2": "a mirror reflecting a car in a parking lot ",
+            "pix2struct": "A phone that says \"Slisva\" on the front"
+        },
+        "original_coco_captions": [
+            "rear view mirror reflection showing a dog in the back seat",
+            "A dog sticks its head out of the car and is reflected in the side mirror. ",
+            "A couple of red cars parked in front of a house.",
+            "A side mirror shows a dog sticking its head out of a car window.",
+            "A mirror shot of a dog sitting in a car."
+        ]
+    },
+    {
+        "image_id": 131273,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000131273.jpg",
+        "generated_captions": {
+            "blip": "a dog sitting in the back seat of a car",
+            "gpt2": "a dog sitting in the back seat of a car ",
+            "pix2struct": "A man wearing a black shirt that says \"The Man\" is standing next to a person."
+        },
+        "original_coco_captions": [
+            "A grey and white dog sitting in the passenger side of a car.",
+            "Beautiful husky sitting up in the front passenger seat",
+            "A husky riding in the front seat of the car",
+            "A husky dog sitting on the front seat of a car",
+            "A dog looks interested as he sits in the front seat of a car."
+        ]
+    },
+    {
+        "image_id": 279278,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000279278.jpg",
+        "generated_captions": {
+            "blip": "a group of people standing around a street",
+            "gpt2": "a woman walking a dog on a leash ",
+            "pix2struct": "A man wearing a shirt that says 't-shirts' is holding a bag of food"
+        },
+        "original_coco_captions": [
+            "a person riding a skate board on a city street",
+            "People standing on the street by parked bicycles with a skateboard",
+            "Man in a crowd of people with a skateboard.",
+            "Three people stand on the street talking next to a dog.",
+            "The man is riding his skateboard down the street. "
+        ]
+    },
+    {
+        "image_id": 35489,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000035489.jpg",
+        "generated_captions": {
+            "blip": "a dog in a car",
+            "gpt2": "a dog wearing a collar and a hat ",
+            "pix2struct": "A man wearing a shirt that says 'the man's name' is standing next to"
+        },
+        "original_coco_captions": [
+            "The dog with a cartoon collar is looking out of a car window.",
+            "A dog looking out of a car window, in the passenger seat.",
+            "A dog with a cat collar riding in the car",
+            "a dog stares out the window of a car ",
+            "A dog wearing a collar looking out the window of a car."
+        ]
+    },
+    {
+        "image_id": 186589,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000186589.jpg",
+        "generated_captions": {
+            "blip": "two dogs sleeping on a couch with a toy",
+            "gpt2": "two dogs are sitting on a couch together ",
+            "pix2struct": "A man is holding a baby and wearing a red shirt that says \"The Little One\"."
+        },
+        "original_coco_captions": [
+            "Some very cute small dogs laying by each other.",
+            "A white dog sleeping while harnessed into the car.",
+            "The two dogs are laying down on the seat together.",
+            "Two dogs are sleeping on a car seat.",
+            "Two animals laying beside each other on a blanket."
+        ]
+    },
+    {
+        "image_id": 141538,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000141538.jpg",
+        "generated_captions": {
+            "blip": "a river with rocks",
+            "gpt2": "two dogs are walking through a river ",
+            "pix2struct": "A man is standing in front of a tree with a sign that says \"The Tree of Life"
+        },
+        "original_coco_captions": [
+            "Three dogs exploring a stream and rocks in nature. ",
+            "Three dogs running around in a rocky creek.",
+            "A trio of dogs walking through a small stream.",
+            "Two dogs walking along a path in a forest.",
+            "A group of dogs is playing by a stream."
+        ]
+    },
+    {
+        "image_id": 216861,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000216861.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike with two dogs on it",
+            "gpt2": "a man riding a bike with two dogs ",
+            "pix2struct": "A man wearing a red shirt that says \"M\" is standing in front of a building."
+        },
+        "original_coco_captions": [
+            "a man on a bike that is walking dogs",
+            "A man on a bike that has a bunch of dogs.",
+            "a man on a bike pulling a group of dogs with him",
+            "A man riding a bike while holding the leashes on a bunch or dogs.",
+            "A person walks many dogs on a bike. "
+        ]
+    },
+    {
+        "image_id": 421569,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000421569.jpg",
+        "generated_captions": {
+            "blip": "a dog standing on the street",
+            "gpt2": "a dog standing on the side of a road ",
+            "pix2struct": "A man is wearing a shirt that says \"The Man\"."
+        },
+        "original_coco_captions": [
+            "A brown and white dog on street next to a blue car.",
+            "A dog is standing on the street next to a car.",
+            "A cute golden dog is standing in the street.",
+            "A dog stands in the middle of a road.",
+            "light brown cocker spaniel dog howling in street"
+        ]
+    },
+    {
+        "image_id": 316694,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000316694.jpg",
+        "generated_captions": {
+            "blip": "a bike leaning on a pole",
+            "gpt2": "a dog standing on a leash next to a bike ",
+            "pix2struct": "A man is holding a watch that says the number 15."
+        },
+        "original_coco_captions": [
+            "A small black dog on a leash next to a bike.",
+            "Dog standing next to bike while tied to the bike rack.",
+            "A dog is chained to a bike post locked up.",
+            "A dog with a rope attached to its neck is standing on a sidewalk next to a bicycle.",
+            "A dog on a leash is next to a bicycle."
+        ]
+    },
+    {
+        "image_id": 18783,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000018783.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike with a dog on the back",
+            "gpt2": "a man riding a bike with a dog ",
+            "pix2struct": "A man wearing a green shirt with the number 4 on it."
+        },
+        "original_coco_captions": [
+            "A man in white shirt on bicycle with a dog riding in the back.",
+            "A man on a bicycle with a dog sitting in the back of the bike.",
+            "an old photo of a person on a bike in a parking lot",
+            "A man and his dog riding on a bike. ",
+            "there is a man riding a bike with a dog on the back"
+        ]
+    },
+    {
+        "image_id": 162256,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000162256.jpg",
+        "generated_captions": {
+            "blip": "a dog is standing on a leash in a crowd",
+            "gpt2": "a dog standing next to a group of people ",
+            "pix2struct": "A man wearing a shirt that says \"Thai\" is standing in front of a boat."
+        },
+        "original_coco_captions": [
+            "A large hairy dog on a leash next to a crowd.",
+            "A dog is on the ground near people and a bike.",
+            "a white and brown dog on its leash and some people",
+            "A dog on a leash near a group of people.",
+            "A dog being walked through a group of people.",
+            "A dog on a leash and people and bicycles in the background."
+        ]
+    },
+    {
+        "image_id": 560373,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000560373.jpg",
+        "generated_captions": {
+            "blip": "a dog with a leash",
+            "gpt2": "a dog sitting in a chair with a man ",
+            "pix2struct": "A man wearing a shirt that says 2005 Dan Buczynski."
+        },
+        "original_coco_captions": [
+            "A tan dog with sky blue eyes posing for a picture with a man sitting on a chair in the background.",
+            "A dog is sitting in front of a man who is smiling. ",
+            "A blue eyes dog look dubious as his owner smiles behind him.",
+            "a dog with blue eyes sits in front of a man with a suitcase",
+            "A dog sits in front of his owner and suitcase. "
+        ]
+    },
+    {
+        "image_id": 16180,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000016180.jpg",
+        "generated_captions": {
+            "blip": "a dog is sitting on the dashboard of a car",
+            "gpt2": "a dog sitting in the driver's seat of a car ",
+            "pix2struct": "A Honda van is parked next to a car."
+        },
+        "original_coco_captions": [
+            "A dog laying on the dashboard of a vehicle.",
+            "A poodle is on the dashboard of a car.",
+            "A black poodle witting on a cars dashboard.",
+            "A black dog sitting on top of a dash board.",
+            "A dog sitting on a car dashboard looking at a camera"
+        ]
+    },
+    {
+        "image_id": 410016,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000410016.jpg",
+        "generated_captions": {
+            "blip": "a dog with long hair",
+            "gpt2": "a dog with a collar sticking out of its mouth ",
+            "pix2struct": "A man is holding a coin that says 'the man's name'."
+        },
+        "original_coco_captions": [
+            "a close up photo of a shaggy dog in a car",
+            "A shaggy terrier puts one paw on the glass as he looks out the window of car.",
+            "A dog peering head out window of motion car",
+            "A dog that is wearing a leash with its head out the window.",
+            "A shaggy dog with its head out of a car window."
+        ]
+    },
+    {
+        "image_id": 544122,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000544122.jpg",
+        "generated_captions": {
+            "blip": "a woman laying in bed with a dog",
+            "gpt2": "a woman laying on a bed with a dog ",
+            "pix2struct": "A man is holding a baby and the date 4/1/2011 "
+        },
+        "original_coco_captions": [
+            "A lady in bed with oxygen tube and a dog.",
+            "A woman is laying in a bed with a small dog. ",
+            "Lady using oxygen in bed with a little dog.",
+            "A lady with an oxygen tube on laying in bed with a dog.",
+            "A woman in bed with an oxygen tube and a dog."
+        ]
+    },
+    {
+        "image_id": 225919,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000225919.jpg",
+        "generated_captions": {
+            "blip": "a dog in a box",
+            "gpt2": "a dog is riding a bike with a basket ",
+            "pix2struct": "A man is holding a watch that says the number 10."
+        },
+        "original_coco_captions": [
+            "A man on a bicycle rides with his dog as a passenger in the back.",
+            "A man is riding a bike with his dog in a basket.",
+            "This photograph appears to be looking truly wonderful. \n",
+            "A dog rides in a box on the back of a bike.",
+            "Two photos one of a man carrying his dog in a bike and the other a close view of the dog."
+        ]
+    },
+    {
+        "image_id": 383780,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000383780.jpg",
+        "generated_captions": {
+            "blip": "two dogs sleeping in a car",
+            "gpt2": "a dog and a cat laying on a bed ",
+            "pix2struct": "A man wearing a black shirt that says \"L\" is standing next to a man wearing a"
+        },
+        "original_coco_captions": [
+            "two hairy dogs lying on a bed cover looking",
+            "kkkk kkk kk kkkk kkk kkk kkk k kk k k k kk k k k kk",
+            "Three dogs bunched into a bed with their leases still intact.",
+            "The dogs are on their leashes in a bed. ",
+            "A dachshund and two other dogs crowed into a dog bed."
+        ]
+    },
+    {
+        "image_id": 370210,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000370210.jpg",
+        "generated_captions": {
+            "blip": "two dogs in the car",
+            "gpt2": "two dogs are looking out the window of a car ",
+            "pix2struct": "A man wearing a shirt that says 'the snooze' on it."
+        },
+        "original_coco_captions": [
+            "Two dogs in a car looking out the window.",
+            "Two dogs are looking out a car door window.",
+            "Two adorable dogs hanging out of a car door window.",
+            "Two dogs sticking their heads out of a car window.",
+            "Two dogs in the car looking outside of the window. "
+        ]
+    },
+    {
+        "image_id": 173350,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000173350.jpg",
+        "generated_captions": {
+            "blip": "two dogs standing next to a toilet in a bathroom",
+            "gpt2": "a dog and a cat sitting on the floor ",
+            "pix2struct": "A man is holding a phone that says 07.15.2006"
+        },
+        "original_coco_captions": [
+            "Two dogs are looking up while they stand near the toilet in the bathroom.",
+            "Two small dogs standing in a restroom next to a toilet.",
+            "Two dogs looking up at a camera in a bathroom.",
+            "Two small lap dogs in a small bathroom.",
+            "Two small dogs stand together in a bathroom."
+        ]
+    },
+    {
+        "image_id": 333018,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000333018.jpg",
+        "generated_captions": {
+            "blip": "a man walking down a street with a dog",
+            "gpt2": "a man riding a bike with a dog ",
+            "pix2struct": "A person is holding a bottle of alcohol that says 12."
+        },
+        "original_coco_captions": [
+            "Person riding a bicycle while walking two dogs. ",
+            "A man who is riding his bike while walking two dogs.",
+            "A man on a bicycle rides with two dogs at his side.",
+            "A person riding a bike down a sidewalk with two dogs.",
+            "A blurred man on a bicycle next to two smaller blurred figures."
+        ]
+    },
+    {
+        "image_id": 346071,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000346071.jpg",
+        "generated_captions": {
+            "blip": "a dog sticking its head out of a car window",
+            "gpt2": "a dog and a car in a car ",
+            "pix2struct": "A man wearing a shirt that says \"The New York Times\" is standing in front of a"
+        },
+        "original_coco_captions": [
+            "Two husky's hanging out of the car windows.",
+            "Dogs stick their heads out of car windows",
+            "Two husky dogs ride in a car with their heads hanging out windows.",
+            "Two happy dogs have their head out the car window.",
+            "Some dogs stick their heads out the car window."
+        ]
+    },
+    {
+        "image_id": 252203,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000252203.jpg",
+        "generated_captions": {
+            "blip": "a dog in a car",
+            "gpt2": "a dog sitting in the back seat of a car ",
+            "pix2struct": "A man is holding a bottle of wine that says 'the 1000'"
+        },
+        "original_coco_captions": [
+            "A couple of dogs sitting in the front seats of a car.",
+            "There is a dog in a car licking at the window",
+            "A dog with his tongue out sits ion a car",
+            "an image of a dog sitting in the passenger seat of a car",
+            "Two dogs sitting on a car seat wanting to get out"
+        ]
+    },
+    {
+        "image_id": 233660,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000233660.jpg",
+        "generated_captions": {
+            "blip": "a dog in a basket",
+            "gpt2": "a dog and a cat sitting on a bicycle ",
+            "pix2struct": "A man is holding a bottle of beer that says 'bijijn ulismer"
+        },
+        "original_coco_captions": [
+            "a couple of small dogs sit in a basket on a bike",
+            "A bicycle with a basket in which two dogs are sitting and a handbag is hanging.other bicycles are also standing.",
+            "Two adorable little dogs in a basket attached to a bike.",
+            "Two small dogs sitting in the basket of a bicycle outside.",
+            "Two dogs are sitting in a basket on a bicycle."
+        ]
+    },
+    {
+        "image_id": 98194,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000098194.jpg",
+        "generated_captions": {
+            "blip": "a red truck",
+            "gpt2": "a dog and a cat are in a pile of trash ",
+            "pix2struct": "A man is holding a bottle of alcohol and a bottle of alcohol."
+        },
+        "original_coco_captions": [
+            "Two black and white dogs in front of an abandoned truck in a wooden area. ",
+            "A couple of dogs standing outside of a wrecked car.",
+            "two dogs near a heap of junk with trees in the background",
+            "Two dogs in the show looking at a junked car.",
+            "Two dogs standing in front of debris in the snow. "
+        ]
+    },
+    {
+        "image_id": 361022,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000361022.jpg",
+        "generated_captions": {
+            "blip": "a man kneeling down with a dog",
+            "gpt2": "a man holding a dog in his arms ",
+            "pix2struct": "A man wearing a shirt that says LE on it."
+        },
+        "original_coco_captions": [
+            "A man kneeling down on a sidewalk to hug his two dogs.",
+            "a man with a hat petting two brown dogs",
+            "A man squatted down by two small dogs.",
+            "A man is hugging a couple of dogs",
+            "A man is hugging to brown dogs on a leash."
+        ]
+    },
+    {
+        "image_id": 270744,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000270744.jpg",
+        "generated_captions": {
+            "blip": "a man walking a dog",
+            "gpt2": "a man walking a dog on a leash ",
+            "pix2struct": "A man wearing a shirt that says \"I'm a man\" is standing in front of"
+        },
+        "original_coco_captions": [
+            "A man carries a leash around his shoulders as two dogs make their way alongside.",
+            "A man walks across a bridge with his two dogs. ",
+            "A man in boots and jeans walking over a small walkway bridge with two dogs next to him.",
+            "A man walking two large brown dogs on a leash.",
+            "Man walking with two dogs over a bridge."
+        ]
+    },
+    {
+        "image_id": 43433,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000043433.jpg",
+        "generated_captions": {
+            "blip": "a black and silver motorcycle",
+            "gpt2": "a dog standing on a motorcycle in front of a house ",
+            "pix2struct": "A man wearing a watch that says 1800 on it."
+        },
+        "original_coco_captions": [
+            "A dog that is on the back of a motorcycle.",
+            "a small dog stands on top of a motor cycle ",
+            "A small dog stands atop a vintage motorcycle.",
+            "a small dog is standing on a motorcycle",
+            "A motorcycle parked on a sidewalk with a dog standing on the seat."
+        ]
+    },
+    {
+        "image_id": 349642,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000349642.jpg",
+        "generated_captions": {
+            "blip": "a dog is sitting on a bench with a person",
+            "gpt2": "a dog sitting on a bench with a person ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Building\"."
+        },
+        "original_coco_captions": [
+            "A woman is sitting on a bench with a dog behind her.",
+            "Someone sitting on a bench while a dog sits behind the bench ",
+            "A person sitting on a bench next to a dog.",
+            "A dog is laying behind a bench with a person sitting on it. ",
+            "An old lady in a fur-lined coat sitting on a wooden bench with a fuzzy dog sitting behind the bench. "
+        ]
+    },
+    {
+        "image_id": 57703,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000057703.jpg",
+        "generated_captions": {
+            "blip": "a group of people walking through a forest",
+            "gpt2": "a man and two dogs are walking through the woods ",
+            "pix2struct": "A man wearing a shirt that says \"E\" is standing in front of a wall."
+        },
+        "original_coco_captions": [
+            "A man and two women walking their dogs and hiking in the woods.",
+            "Three dogs are huddled together with their owners. ",
+            "A group of people in the woods with dogs.",
+            "Three hikers walking in the wilderness with three dogs.",
+            "Three people standing in a wooded area walking three dogs. "
+        ]
+    },
+    {
+        "image_id": 236954,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000236954.jpg",
+        "generated_captions": {
+            "blip": "two dogs in a car",
+            "gpt2": "two dogs sitting in a car seat ",
+            "pix2struct": "A man is holding a bottle of wine that says \"A\" on it."
+        },
+        "original_coco_captions": [
+            "Two dogs are is sitting in the back seat of a car.",
+            "Two dogs sitting on a mat in the back of an automobile. ",
+            "There are two figs that are sitting in the car seat",
+            "Two dogs sitting in backseat of a car on a blanket.",
+            "Two dogs are sitting in the back seat of the car."
+        ]
+    },
+    {
+        "image_id": 176474,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000176474.jpg",
+        "generated_captions": {
+            "blip": "three dogs on a leash",
+            "gpt2": "two dogs are standing next to each other ",
+            "pix2struct": "A group of people are standing in front of a fence that says \"The Tree\"."
+        },
+        "original_coco_captions": [
+            "Three different types of dogs looking at the camera.",
+            "Three dogs are in the grass together looking at the camera.",
+            "A group of dogs standing next to each other while on leashes.",
+            "Three dogs on leashes standing next to each other.",
+            "Three dogs on leashes standing in the grass."
+        ]
+    },
+    {
+        "image_id": 407286,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000407286.jpg",
+        "generated_captions": {
+            "blip": "a woman in a red convertible car",
+            "gpt2": "a woman and two dogs sitting in a car ",
+            "pix2struct": "A man wearing a shirt that says 'tiff' is holding a book."
+        },
+        "original_coco_captions": [
+            "A trio of dogs sitting in their owner's lap in a red convertible.",
+            "Three little dogs looking out a car window while sitting on a woman's lap. ",
+            "A woman driver has three dogs in the seat with her.",
+            "A woman and her three dogs in a car.",
+            "Three dogs on the lap of a woman in the driver's seat of a convertible."
+        ]
+    },
+    {
+        "image_id": 518262,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000518262.jpg",
+        "generated_captions": {
+            "blip": "a dog is pulling a leash on a leash",
+            "gpt2": "a dog and a cat are playing together ",
+            "pix2struct": "A man is wearing a shirt that says \"S\" on it."
+        },
+        "original_coco_captions": [
+            "a small dog and a big dog both on leashes",
+            "a small dog attached to a leash behind a bigger dog",
+            "A large and small dog interacting on a crowded sidewalk.",
+            "a little dog standing behind a much bigger one ",
+            "A brown dog on a leash following another dog."
+        ]
+    },
+    {
+        "image_id": 562645,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000562645.jpg",
+        "generated_captions": {
+            "blip": "two dogs are standing in a bathroom",
+            "gpt2": "two dogs are standing in a bathroom with a toilet ",
+            "pix2struct": "A man is holding a bottle of Titorator beer."
+        },
+        "original_coco_captions": [
+            "A pair of dogs sit on a bathroom rug.",
+            "Two dogs are standing on the bathroom rug. ",
+            "Two dogs standing on a rug in a bathroom.",
+            "Two dogs stand side by side with their back to the camera in a bathroom",
+            "Two dogs standing on a bathroom rug in front of the shower while someone is showering."
+        ]
+    },
+    {
+        "image_id": 326911,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000326911.jpg",
+        "generated_captions": {
+            "blip": "a dog and a cat are walking down a path",
+            "gpt2": "a dog and a cat walking down a sidewalk ",
+            "pix2struct": "A man is holding a knife and a knife is next to him."
+        },
+        "original_coco_captions": [
+            "Two small dogs on a sidewalk near a bicycle.",
+            "Two small dogs walk next to a bicycle.",
+            "Two dogs are confronting each other new a parked bicycle.",
+            "A couple small dogs walking next to a bike.",
+            "a pair of dogs on a sidewalk next to a bicycle"
+        ]
+    },
+    {
+        "image_id": 382668,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000382668.jpg",
+        "generated_captions": {
+            "blip": "two dogs laying on a blanket in a car",
+            "gpt2": "two brown dogs laying on a blue towel ",
+            "pix2struct": "A man is holding a book titled \"The Art of the Book\"."
+        },
+        "original_coco_captions": [
+            "Two adorable chubby dogs sleeping next to each other.",
+            "Two small, fluffy dogs lazing in the sun",
+            "THERE ARE DOGS SITTING DOWN ON THE COUCH ",
+            "Two fuzzy puppies sleep on a towel next to a window.",
+            "two brown dogs are sitting on a chair"
+        ]
+    },
+    {
+        "image_id": 186589,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000186589.jpg",
+        "generated_captions": {
+            "blip": "two dogs sleeping on a couch with a toy",
+            "gpt2": "two dogs are sitting on a couch together ",
+            "pix2struct": "A man is holding a baby and wearing a red shirt that says \"The Little One\"."
+        },
+        "original_coco_captions": [
+            "Some very cute small dogs laying by each other.",
+            "A white dog sleeping while harnessed into the car.",
+            "The two dogs are laying down on the seat together.",
+            "Two dogs are sleeping on a car seat.",
+            "Two animals laying beside each other on a blanket."
+        ]
+    },
+    {
+        "image_id": 216861,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000216861.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike with two dogs on it",
+            "gpt2": "a man riding a bike with two dogs ",
+            "pix2struct": "A man wearing a red shirt that says \"M\" is standing in front of a building."
+        },
+        "original_coco_captions": [
+            "a man on a bike that is walking dogs",
+            "A man on a bike that has a bunch of dogs.",
+            "a man on a bike pulling a group of dogs with him",
+            "A man riding a bike while holding the leashes on a bunch or dogs.",
+            "A person walks many dogs on a bike. "
+        ]
+    },
+    {
+        "image_id": 141538,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000141538.jpg",
+        "generated_captions": {
+            "blip": "a river with rocks",
+            "gpt2": "two dogs are walking through a river ",
+            "pix2struct": "A man is standing in front of a tree with a sign that says \"The Tree of Life"
+        },
+        "original_coco_captions": [
+            "Three dogs exploring a stream and rocks in nature. ",
+            "Three dogs running around in a rocky creek.",
+            "A trio of dogs walking through a small stream.",
+            "Two dogs walking along a path in a forest.",
+            "A group of dogs is playing by a stream."
+        ]
+    },
+    {
+        "image_id": 57703,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000057703.jpg",
+        "generated_captions": {
+            "blip": "a group of people walking through a forest",
+            "gpt2": "a man and two dogs are walking through the woods ",
+            "pix2struct": "A man wearing a shirt that says \"E\" is standing in front of a wall."
+        },
+        "original_coco_captions": [
+            "A man and two women walking their dogs and hiking in the woods.",
+            "Three dogs are huddled together with their owners. ",
+            "A group of people in the woods with dogs.",
+            "Three hikers walking in the wilderness with three dogs.",
+            "Three people standing in a wooded area walking three dogs. "
+        ]
+    },
+    {
+        "image_id": 176474,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000176474.jpg",
+        "generated_captions": {
+            "blip": "three dogs on a leash",
+            "gpt2": "two dogs are standing next to each other ",
+            "pix2struct": "A group of people are standing in front of a fence that says \"The Tree\"."
+        },
+        "original_coco_captions": [
+            "Three different types of dogs looking at the camera.",
+            "Three dogs are in the grass together looking at the camera.",
+            "A group of dogs standing next to each other while on leashes.",
+            "Three dogs on leashes standing next to each other.",
+            "Three dogs on leashes standing in the grass."
+        ]
+    },
+    {
+        "image_id": 407286,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000407286.jpg",
+        "generated_captions": {
+            "blip": "a woman in a red convertible car",
+            "gpt2": "a woman and two dogs sitting in a car ",
+            "pix2struct": "A man wearing a shirt that says 'tiff' is holding a book."
+        },
+        "original_coco_captions": [
+            "A trio of dogs sitting in their owner's lap in a red convertible.",
+            "Three little dogs looking out a car window while sitting on a woman's lap. ",
+            "A woman driver has three dogs in the seat with her.",
+            "A woman and her three dogs in a car.",
+            "Three dogs on the lap of a woman in the driver's seat of a convertible."
+        ]
+    },
+    {
+        "image_id": 141538,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000141538.jpg",
+        "generated_captions": {
+            "blip": "a river with rocks",
+            "gpt2": "two dogs are walking through a river ",
+            "pix2struct": "A man is standing in front of a tree with a sign that says \"The Tree of Life"
+        },
+        "original_coco_captions": [
+            "Three dogs exploring a stream and rocks in nature. ",
+            "Three dogs running around in a rocky creek.",
+            "A trio of dogs walking through a small stream.",
+            "Two dogs walking along a path in a forest.",
+            "A group of dogs is playing by a stream."
+        ]
+    },
+    {
+        "image_id": 216861,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000216861.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike with two dogs on it",
+            "gpt2": "a man riding a bike with two dogs ",
+            "pix2struct": "A man wearing a red shirt that says \"M\" is standing in front of a building."
+        },
+        "original_coco_captions": [
+            "a man on a bike that is walking dogs",
+            "A man on a bike that has a bunch of dogs.",
+            "a man on a bike pulling a group of dogs with him",
+            "A man riding a bike while holding the leashes on a bunch or dogs.",
+            "A person walks many dogs on a bike. "
+        ]
+    }
+]

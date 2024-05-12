@@ -1,0 +1,1586 @@
+[
+    {
+        "image_id": 501294,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000501294.jpg",
+        "generated_captions": {
+            "blip": "a blur of people walking in a room",
+            "gpt2": "a living room filled with furniture and a tv ",
+            "pix2struct": "A man is holding a book titled \"The Secret Life of the Mind\"."
+        },
+        "original_coco_captions": [
+            "A picture of people watching TV in the living room adjusted to imply motion.",
+            "A blurry/manipulated image of people watching television in a living room",
+            "a blurry picture of a man on a coach",
+            "Distorted motion shot of narrow living room and flat screen TV.",
+            "A blurred view of people watching television. "
+        ]
+    },
+    {
+        "image_id": 444390,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000444390.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a stove and a sink",
+            "gpt2": "a kitchen with a stove, sink, and refrigerator ",
+            "pix2struct": "A store with a sign that says \"The Kitchen\"."
+        },
+        "original_coco_captions": [
+            "This is the view of a kitchen stove, kitchen sink, counter, and cabinets. ",
+            "A wooden kitchen center island with a rug in front of it.",
+            "The sink is on the island of a large kitchen.",
+            "a kitchen wih a stove a sink and a counter",
+            "A kitchen with a sink, stove, flower vase and wine rack."
+        ]
+    },
+    {
+        "image_id": 448928,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000448928.jpg",
+        "generated_captions": {
+            "blip": "a desk with a computer, keyboard and a monitor",
+            "gpt2": "a desk with a laptop and a monitor ",
+            "pix2struct": "A computer screen with a red box that says 2"
+        },
+        "original_coco_captions": [
+            "A computer chair that is in front of two computers.",
+            "An office desk with a laptop, a keyboard and a monitor",
+            "A picture of someone's office desk and computer.",
+            "The keyboard has an external monitor cooked up to it.",
+            "An office has one keyboard and two monitors."
+        ]
+    },
+    {
+        "image_id": 433915,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000433915.jpg",
+        "generated_captions": {
+            "blip": "a television screen with a man on it",
+            "gpt2": "a man in a suit and tie is watching tv ",
+            "pix2struct": "A man is holding a baby and wearing a shirt that says Baby."
+        },
+        "original_coco_captions": [
+            "A double image of a comedian and a singer on the television screen.  ",
+            "A video screen with faces of a couple of guys on it.",
+            "Stephen Colbert on TV doing an interview with Paul McCartney.",
+            "A picture of a tv screen with two faces overlapping ",
+            "The TV has two men merged together on it."
+        ]
+    },
+    {
+        "image_id": 388534,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000388534.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a bathtub and a sink",
+            "gpt2": "a hotel room with a large white tub ",
+            "pix2struct": "A kitchen with a glass door that says \"Cooking\"."
+        },
+        "original_coco_captions": [
+            "A large sink next to a kitchen in a hotel room.",
+            "A motel room layout includes a garden tub in an open area.",
+            "A hotel room with a white bed and tub.",
+            "A hotel room with a separate bathroom area containing a bathtub",
+            "Nice bathroom has a large white bath tub"
+        ]
+    },
+    {
+        "image_id": 480015,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000480015.jpg",
+        "generated_captions": {
+            "blip": "a computer monitor, keyboard, and mouse on a desk",
+            "gpt2": "a desk with a computer, a keyboard, a mouse, and a book ",
+            "pix2struct": "A computer screen with a picture of a man and a man in a suit."
+        },
+        "original_coco_captions": [
+            "A desk with a book, computer and other electronic devices. ",
+            "a desk with various electronic devices, including a pc",
+            "A computer desk topped with a computer and a keyboard.",
+            "Multiple electronics on a desk with a computer.",
+            "A desk with a phone, remote and computer keyboard and screen."
+        ]
+    },
+    {
+        "image_id": 561403,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000561403.jpg",
+        "generated_captions": {
+            "blip": "a desk with a laptop, monitor, and mouse",
+            "gpt2": "a desk with a laptop, monitor, keyboard and mouse ",
+            "pix2struct": "A computer screen with a blue background that says \"Windows\"."
+        },
+        "original_coco_captions": [
+            "The computer desk has a laptop, a monitor, and a tablet PC on it.",
+            "a desktop with a laptop, monitor and tablet sitting on top",
+            "A tablet, a laptop and a computer on a desk",
+            "A computer desk has a tablet, a laptop, and a desktop computer.",
+            "An office desk with a lot of technology including a flat screen PC monitor, a laptop computer, a tablet and an iPhone."
+        ]
+    },
+    {
+        "image_id": 234470,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000234470.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a bar and a sink",
+            "gpt2": "a kitchen with a sink, stove, and a refrigerator ",
+            "pix2struct": "A store front with a sign that says \"The Store\"."
+        },
+        "original_coco_captions": [
+            "a big kitchen with an island and track lighting ",
+            "A counter and a table in a room.",
+            "An empty kitchen with empty dark wooden cabinets.",
+            "The contemporary kitchen is full of all the modern appliances.",
+            "A kitchen with a center island and lots of cabinets."
+        ]
+    },
+    {
+        "image_id": 264032,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000264032.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a sink and a microwave",
+            "gpt2": "a kitchen with a sink, stove, and cabinets ",
+            "pix2struct": "A store with a display of food and a fridge with a glass of beer."
+        },
+        "original_coco_captions": [
+            "Extra hands would be a help for this messy kitchen.",
+            "A kitchen with a cluttered counter and sink with dishes",
+            "A kitchen counter is cluttered with items around the partially full kitchen sink.",
+            "Dirty dishes in and around the sink. ",
+            "A kitchen counter has many dishes on it."
+        ]
+    },
+    {
+        "image_id": 93140,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000093140.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a stove and a sink",
+            "gpt2": "a kitchen with a stove, sink, and refrigerator ",
+            "pix2struct": "A kitchen with a fridge and a microwave."
+        },
+        "original_coco_captions": [
+            "A kitchen filled with hard wood flooring and appliances.",
+            "A large kitchen with white cabnets and wood floors",
+            "A clean white and wood toned kitchen with wine.",
+            "A large open kitchen with stainless steel appliances.",
+            "A modern kitchen with geometric design and hardwood floors."
+        ]
+    },
+    {
+        "image_id": 149222,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000149222.jpg",
+        "generated_captions": {
+            "blip": "a computer monitor",
+            "gpt2": "a computer desk with a monitor and keyboard ",
+            "pix2struct": "A computer screen with a page titled Learning."
+        },
+        "original_coco_captions": [
+            "The computer monitor has a framed picture near it.",
+            "A computer desktop with other office supplies and papers.",
+            "A desk with a pc, including keyboard and mouse",
+            "a keyboard and a monitor a mouse and a picture",
+            "A view of a desktop computer that is online."
+        ]
+    },
+    {
+        "image_id": 292741,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000292741.jpg",
+        "generated_captions": {
+            "blip": "a computer desk with a monitor and a keyboard",
+            "gpt2": "a television set up on a wooden stand ",
+            "pix2struct": "A wall with a clock that says The Way It's Gonna Be."
+        },
+        "original_coco_captions": [
+            "A television with a video game logo sits in front of two trays with controllers.",
+            "a couple of chairs in front of a television",
+            "A flat screen TV sitting on top of a wooden counter.",
+            "Two TV trays set with gaming devices in front of a screen.",
+            "A flat screen television on a wooden cabinet with electronics below it and two trays with computer controllers on them."
+        ]
+    },
+    {
+        "image_id": 444199,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000444199.jpg",
+        "generated_captions": {
+            "blip": "a man standing on a table with a bunch of televisions",
+            "gpt2": "a man standing next to a television holding a remote ",
+            "pix2struct": "A billboard advertises Comcast Doesn't Care."
+        },
+        "original_coco_captions": [
+            "a person with a bat near many tvs",
+            "Man with a baseball bat and televisions protesting on a city street",
+            "A pile of televisions sets are on the sidewalk and they have slogan written on them.",
+            "A man with a metal baseball bat standing over some televisions. ",
+            "A man with a bat next to televisions that say Comcast Doesnt care."
+        ]
+    },
+    {
+        "image_id": 118544,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000118544.jpg",
+        "generated_captions": {
+            "blip": "a man sitting at a desk with a laptop",
+            "gpt2": "a man sitting at a desk with a laptop ",
+            "pix2struct": "A man is holding a laptop open to a screen that says \"Laptop Contest to Enter"
+        },
+        "original_coco_captions": [
+            "A man is looking at his laptop screen reading live posts.",
+            "a man wearing glasses looking at a computer",
+            "The person is working on the computer live. ",
+            "A man working on a laptop with a screen behind him",
+            "A man on a laptop at a desk in a contest ad."
+        ]
+    },
+    {
+        "image_id": 554625,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000554625.jpg",
+        "generated_captions": {
+            "blip": "a boy wearing a white shirt",
+            "gpt2": "a boy in a black shirt and a black and white computer ",
+            "pix2struct": "A man wearing a shirt that says 100%."
+        },
+        "original_coco_captions": [
+            "a boy wearing headphones using one computer in a long row of computers",
+            "A little boy with earphones on listening to something.",
+            "A group of people sitting at desk using computers.",
+            "Children sitting at computer stations on a long table.",
+            "A small child wearing headphones plays on the computer."
+        ]
+    },
+    {
+        "image_id": 328462,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000328462.jpg",
+        "generated_captions": {
+            "blip": "a man in a kitchen",
+            "gpt2": "a man and woman are sitting at a table in a kitchen ",
+            "pix2struct": "A man is holding a bottle of beer that says 'trevor' on it."
+        },
+        "original_coco_captions": [
+            "Lady working in a kitchen while man sits at table watching TV.",
+            "A woman sitting next to a stove top oven.",
+            "A kitchen room with a lady by the refrigerator and a man seated at a table.",
+            "A man watches TV while a woman tends to the kitchen.",
+            "A man and a woman in a very small kitchen together."
+        ]
+    },
+    {
+        "image_id": 17379,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000017379.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a television in the mirror",
+            "gpt2": "a bathroom with a urinal and a sink ",
+            "pix2struct": "A computer monitor with a blue background and a blue background that says \"The New York Times\""
+        },
+        "original_coco_captions": [
+            "a flat screen TV embedded in a restroom mirror.",
+            "a tv in a bathroom mirror next to sinks",
+            "A football game on TV reflects in a bathroom mirror.",
+            "A flat screen TV adorns a bathroom mirror.",
+            "A photo of a video game in the middle of a large mirror in a bathroom. "
+        ]
+    },
+    {
+        "image_id": 120535,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000120535.jpg",
+        "generated_captions": {
+            "blip": "a white tent",
+            "gpt2": "a living room with a tv and a table ",
+            "pix2struct": "A man is holding a box of Neva Boy."
+        },
+        "original_coco_captions": [
+            "Two television that are sitting on stands in a room.",
+            "this is a room with several tvs and a man",
+            "A room with a desk, tables, and television screens.",
+            "a large piece of wood furniture in a room",
+            "The view of a small kitchen display between two television screens."
+        ]
+    },
+    {
+        "image_id": 361586,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000361586.jpg",
+        "generated_captions": {
+            "blip": "a group of people standing in front of a counter",
+            "gpt2": "people standing around a vending machine ",
+            "pix2struct": "A man stands in front of a Keise Ticket Counter."
+        },
+        "original_coco_captions": [
+            "several people are purchasing tickets at a bus station",
+            "Some people are checking in at the ticket counter somewhere in Asia.",
+            "People waiting in line with luggage at a ticket counter.",
+            "People are standing near an airport ticket kiosk.",
+            "Customers stand at a kiosk waiting for tickets"
+        ]
+    },
+    {
+        "image_id": 939,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000000939.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with two sinks and a mirror",
+            "gpt2": "a bathroom with a sink, mirror, and a television ",
+            "pix2struct": "A black and white photo of a phone that says'sms' on it."
+        },
+        "original_coco_captions": [
+            "a bathroom wih a big mirror and a tv attached in the corner",
+            "A bathroom with a mounted TV next to his and her sinks.",
+            "Small bathroom with a mirror, double sink, and a mounted television. ",
+            "A bathroom with a double sink and large vanity mirror",
+            "The bathroom has double sinks and there is a television mounted."
+        ]
+    },
+    {
+        "image_id": 103134,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000103134.jpg",
+        "generated_captions": {
+            "blip": "a woman standing in a bathroom with a tv above her",
+            "gpt2": "two women in a bathroom with a toilet and a sink ",
+            "pix2struct": "A man is holding a phone that says 'ELE' on it."
+        },
+        "original_coco_captions": [
+            "Two ladies are standing near a few toilets. ",
+            "Two women standing in a bathroom with a bunch of open toilets.",
+            "Two women facing a window in a large ladies bathroom",
+            "Both women are looking at the toilet bowl shown on the monitor. ",
+            "Two woman are looking out the window in a bathroom."
+        ]
+    },
+    {
+        "image_id": 479950,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000479950.jpg",
+        "generated_captions": {
+            "blip": "a group of people sitting around a table",
+            "gpt2": "people sitting at a table with laptops ",
+            "pix2struct": "A man is giving a presentation in front of a computer."
+        },
+        "original_coco_captions": [
+            "A group of  people sitting around a table on laptops.",
+            "A conference table full of people working on computers, with stacks of paper covering the table.",
+            "A group of people sitting around a table and standing in the room.",
+            "Laptops sitting on both sides of a table with people working at them.",
+            "There is a group of people working at the large desk. "
+        ]
+    },
+    {
+        "image_id": 494629,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000494629.jpg",
+        "generated_captions": {
+            "blip": "a man sitting on a toilet with a computer",
+            "gpt2": "a man sitting on a toilet in front of a computer ",
+            "pix2struct": "A man is holding a book titled \"The Art of the Book\"."
+        },
+        "original_coco_captions": [
+            "A man sits on a toilet while working on his computer at his desk.",
+            "A man sitting on a toilet in front of the computer.",
+            "A man sitting on a chair in front of a computer. ",
+            "a person sitting on a toilet while operating a computer",
+            "A man sitting on a toilet in front of a large computer monitor."
+        ]
+    },
+    {
+        "image_id": 567254,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000567254.jpg",
+        "generated_captions": {
+            "blip": "a little girl holding a toothbrush in front of a television",
+            "gpt2": "a little girl is playing with a television ",
+            "pix2struct": "A woman is holding a bottle of wine that says 'the snob'."
+        },
+        "original_coco_captions": [
+            "A small child watching home videos on T.V.",
+            "A toddler with blond hair in the foreground, and in the background, a baby on a television screen.",
+            "A young blonde child is holding something pink. ",
+            "An adorable little girl standing in front of a TV with a baby on the screen.",
+            "There is a baby on the television screen."
+        ]
+    },
+    {
+        "image_id": 277390,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000277390.jpg",
+        "generated_captions": {
+            "blip": "a group of people are gathered around a counter",
+            "gpt2": "people standing around a kitchen ",
+            "pix2struct": "A man is holding a bottle of wine that says 'the 1000'"
+        },
+        "original_coco_captions": [
+            "A group of people standing around a center kitchen island.",
+            "a couple of men are standing in a kitchen",
+            "Men lounge around a kitchen island in an office.",
+            "a bunch of men all around a table in a room",
+            "Men gather around a counter with cooking items on it."
+        ]
+    },
+    {
+        "image_id": 127987,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000127987.jpg",
+        "generated_captions": {
+            "blip": "a toy figure sitting on a desk next to a computer",
+            "gpt2": "a doll of a person on a computer ",
+            "pix2struct": "A man is holding a bottle of Cool Cooper."
+        },
+        "original_coco_captions": [
+            "A baseball player bobble head next to two computer monitors on a desk.",
+            "A close of a bobble head doll with a computer in the background.",
+            "A bobble head is shown next to computer screens.",
+            "A bobble head baseball figurine on a desk. ",
+            "A desk with two computer screens and a Cecil Cooper bobble head."
+        ]
+    },
+    {
+        "image_id": 410627,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000410627.jpg",
+        "generated_captions": {
+            "blip": "a man is cooking in a kitchen with a wooden spoon",
+            "gpt2": "a man in a kitchen with a bowl of soup ",
+            "pix2struct": "A man is cooking a meal with a plate of food."
+        },
+        "original_coco_captions": [
+            "The young man is stirring his pot of food with a wooden spoon.",
+            "A man enjoys cooking food in a pan",
+            "A smiling man is cooking in his kitchen.",
+            "A man smiles as he stirs his food in the pot.",
+            "A boy smiles while holding a pot and spoon."
+        ]
+    },
+    {
+        "image_id": 554500,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000554500.jpg",
+        "generated_captions": {
+            "blip": "a woman sitting at a desk with a laptop",
+            "gpt2": "a woman sitting at a desk with a computer ",
+            "pix2struct": "A woman is standing in front of a computer that says \"Windows\"."
+        },
+        "original_coco_captions": [
+            "A pretty young lady sitting in a room with computers.",
+            "a person sitting down near other people on computers ",
+            "A woman is sitting and smiling at the camera.",
+            "A smiling woman is in a booth table in a large room.",
+            "A woman sitting with another woman behind her with a computer. "
+        ]
+    },
+    {
+        "image_id": 55295,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000055295.jpg",
+        "generated_captions": {
+            "blip": "a man playing a video game on a television",
+            "gpt2": "a man is watching a television screen with a large screen ",
+            "pix2struct": "A person is holding a phone that says 'phone' on it."
+        },
+        "original_coco_captions": [
+            "a person in front of a tv with a gun",
+            "A man is watching a big screen TV.",
+            "A man is watching something on a big screen",
+            "A person sitting in front of a television in a room.",
+            "A man playing a video game on a television."
+        ]
+    },
+    {
+        "image_id": 523526,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000523526.jpg",
+        "generated_captions": {
+            "blip": "a computer monitor",
+            "gpt2": "a desk with a cup of coffee and a computer ",
+            "pix2struct": "A book titled Spring Water sits on a table."
+        },
+        "original_coco_captions": [
+            "A desktop computer monitor on a white desk next to books.",
+            "A computer desk with a cup of coffee,,and cookbooks",
+            "There is a coffee cup and water bottle on a desk",
+            "A desk with computer books, pen, and drinks.",
+            "A pen and a piece of paper in front of a computer."
+        ]
+    },
+    {
+        "image_id": 183620,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000183620.jpg",
+        "generated_captions": {
+            "blip": "a man is cutting a piece of a street sign",
+            "gpt2": "a woman is watching a television show on a pole ",
+            "pix2struct": "A man is standing in front of a Comcast booth."
+        },
+        "original_coco_captions": [
+            "A woman with a bat hitting televisions that say Comcast Doesnt Care.",
+            "A woman standing on a blue mat with two broken tv's and a bat in her hands.",
+            "A person and some cones on a city street.",
+            "This woman is unloading the TVs she is going to try and sell.",
+            "a bunch of boxes on a table next to the street"
+        ]
+    },
+    {
+        "image_id": 86696,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000086696.jpg",
+        "generated_captions": {
+            "blip": "a room with a table and a television set up",
+            "gpt2": "a kitchen with a tv and a refrigerator ",
+            "pix2struct": "A store with a sign that says \"Etiquette\"."
+        },
+        "original_coco_captions": [
+            "A wooden center island in a kitchen next to two flat screen TVs.",
+            "A staged kitchen is ready for filming on set.",
+            "a fake kitchen area with a tv and a counter",
+            "A room that has various types of electronics in it.",
+            "A car a tripod is set up near a small kitchen."
+        ]
+    },
+    {
+        "image_id": 241350,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000241350.jpg",
+        "generated_captions": {
+            "blip": "a bike is parked in a room",
+            "gpt2": "a bicycle is parked in front of a computer desk ",
+            "pix2struct": "A book titled Invarston Tour sits on a table."
+        },
+        "original_coco_captions": [
+            "A ten speed bike is next to a wooden desk.",
+            "A fish eye view of a bicycle and a wooden desk",
+            "Fisheye photograph of a room with a bicycle and desk.",
+            "A bicycle is parked next to a small desk.",
+            "A dorm room with posters on the wall, a desk, and a bike."
+        ]
+    },
+    {
+        "image_id": 290750,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000290750.jpg",
+        "generated_captions": {
+            "blip": "a group of people standing around a kitchen",
+            "gpt2": "people standing around a kitchen ",
+            "pix2struct": "A man is holding a book titled \"The Secret Life of the Mind\"."
+        },
+        "original_coco_captions": [
+            "Lots of people stand in a busy kitchen.",
+            "A family cooking and posing in front of a camera in their open kitchen.",
+            "A group of people doing different things in a kitchen. ",
+            "Several people are shown standing in a kitchen.",
+            "Group of adults in kitchen area of home with wood flooring."
+        ]
+    },
+    {
+        "image_id": 186632,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000186632.jpg",
+        "generated_captions": {
+            "blip": "a large white counter",
+            "gpt2": "a kitchen with a television and a large mirror ",
+            "pix2struct": "A fridge with a glass of beer and a bottle of beer."
+        },
+        "original_coco_captions": [
+            "A flat screen TV sitting in a living room in front of a dining room table.",
+            "A fancy bathroom has glass sinks, a chandelier, and a TV.",
+            "The large bathroom has four sinks and a chandelier.",
+            "a beautiful, modern bathroom with a TV, chandelier and glass sinks.",
+            "A hotel room with a chandelier and glass fixtures."
+        ]
+    },
+    {
+        "image_id": 280498,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000280498.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a skylight",
+            "gpt2": "a kitchen with a sink, a refrigerator, and a counter top ",
+            "pix2struct": "A kitchen with a fridge and a microwave."
+        },
+        "original_coco_captions": [
+            "A kitchen that is very clean in a house.",
+            "A TV mounted on a wall next to a kitchen with a sink.",
+            "A large, clean kitchen has three bar stools and a lot of countertop area.",
+            "A modern kitchen with white walls and wood flooring.",
+            "A bare kitchen is outfitted with light wood and white furniture. "
+        ]
+    },
+    {
+        "image_id": 511430,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000511430.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a sink and a microwave",
+            "gpt2": "a kitchen with a stove, refrigerator, microwave and a sink ",
+            "pix2struct": "A black van with the license plate BRW."
+        },
+        "original_coco_captions": [
+            "A full view of a kitchen with many things to use. ",
+            "A metal refrigerator freezer sitting inside of a kitchen.",
+            "kitchen with silver appliances sun shining in the room",
+            "Microwave stationed above the oven next to the wide refrigerator ",
+            "a kitchen with a refrigerator a sotve and sink"
+        ]
+    },
+    {
+        "image_id": 72018,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000072018.jpg",
+        "generated_captions": {
+            "blip": "a bedroom with a bed, a television, and a bathtub",
+            "gpt2": "a small bathroom with a television and a bed ",
+            "pix2struct": "A kitchen with a fridge that says'stove' on the top."
+        },
+        "original_coco_captions": [
+            "A picture of a room with a TV and a bathroom.",
+            "Picture of room with door to outside and bathroom adjoining.",
+            "A view shows the bedroom and bathroom close together.",
+            "this is a bedroom and a bathroom and a tv",
+            "A television that is on top of a dresser in a living room."
+        ]
+    },
+    {
+        "image_id": 157944,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000157944.jpg",
+        "generated_captions": {
+            "blip": "a tv screen",
+            "gpt2": "a man in a suit is on a television ",
+            "pix2struct": "A picture of a man with a big brother on the front"
+        },
+        "original_coco_captions": [
+            "a close up of a tv with a man wearing s suit and shirt",
+            "a television set with a big brother evicted person on the screen",
+            "A reality TV star being interviewed on a show.",
+            "A bald man in a suit on a television.",
+            "A TV with a person being interviewed on the screen."
+        ]
+    },
+    {
+        "image_id": 275668,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000275668.jpg",
+        "generated_captions": {
+            "blip": "a hotel room with two beds and a television",
+            "gpt2": "a hotel room with two beds and a television ",
+            "pix2struct": "A kitchen with a fridge and a fridge that says'sausages'."
+        },
+        "original_coco_captions": [
+            "Two large beds in a hotel room next to a desk.",
+            "There are two beds with red and white bedspreads in a hotel room.",
+            "A hotel room with two full sized beds.",
+            "Two beds inside of a large hotel room",
+            "A hotel room has a small kitchen and red bedspreads."
+        ]
+    },
+    {
+        "image_id": 68814,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000068814.jpg",
+        "generated_captions": {
+            "blip": "a desk with a computer, keyboard, and other items",
+            "gpt2": "a desk with a computer and a keyboard ",
+            "pix2struct": "A man is holding a phone that says VAC."
+        },
+        "original_coco_captions": [
+            "A computer monitor sitting on top of a wooden table.",
+            "A wooden desk has a computer on it.",
+            "A computer on a desk with boxes of components.",
+            "a work station made of a large wooden desk with a flat screen monitor, keyboard, and various items.",
+            "A cluttered desktop with a  computer and some boxes on it."
+        ]
+    },
+    {
+        "image_id": 85160,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000085160.jpg",
+        "generated_captions": {
+            "blip": "a man sitting at a desk with a laptop",
+            "gpt2": "a man sitting at a desk working on a laptop ",
+            "pix2struct": "A man is holding a phone that says 'phones' on it."
+        },
+        "original_coco_captions": [
+            "A few people working on various computers in an office.",
+            "A man works on a laptop placed on a table in a busy office.",
+            "A man is working on a laptop computer at a desk.",
+            "A man in blue works on a laptop computer.",
+            "A man sitting in front of a laptop computer."
+        ]
+    },
+    {
+        "image_id": 440475,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000440475.jpg",
+        "generated_captions": {
+            "blip": "a living room with a large table and chairs",
+            "gpt2": "a living room with a tv and a table ",
+            "pix2struct": "A store with a glass of beer and a bottle of beer."
+        },
+        "original_coco_captions": [
+            "A room with a Tv, potted plant, tables and chairs",
+            "The dark wood and marble pillars give this living space a warm feel. ",
+            "a living room with a lot of chairs and  a big entertainment center",
+            "Nice furniture is arranged in a fancy looking house. ",
+            "A large living and dining room area with rich wood features."
+        ]
+    },
+    {
+        "image_id": 368900,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000368900.jpg",
+        "generated_captions": {
+            "blip": "a living room with a checkered floor and a television",
+            "gpt2": "a living room with a tv and a refrigerator ",
+            "pix2struct": "A man is holding a book titled \"The Secret Life of the Mind\"."
+        },
+        "original_coco_captions": [
+            "A cluttered room filled with a tv and a kitchen. ",
+            "a room with a television set  a stool and some pictures",
+            "A small apartment has many belongings in it",
+            "The front room of an apartment with the basics.",
+            "A TV sits in a room with many other things. "
+        ]
+    },
+    {
+        "image_id": 9772,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000009772.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a large mirror and a bathtub",
+            "gpt2": "a bathroom with a sink, mirror, and bath tub ",
+            "pix2struct": "A man is sitting in front of a clock that says 10:00."
+        },
+        "original_coco_captions": [
+            "A person is taking a picture of a hotel bathroom.",
+            "A beautiful bathroom and a guy is in bathroom.",
+            "a bathroom with a sink and television in it ",
+            "A person takes a picture in a hotel bathroom.",
+            "A view of a bathroom in what appears to be a hotel."
+        ]
+    },
+    {
+        "image_id": 366406,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000366406.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a sink and stove",
+            "gpt2": "a kitchen with a stove, sink, microwave and refrigerator ",
+            "pix2struct": "A kitchen with a fridge and a microwave."
+        },
+        "original_coco_captions": [
+            "a sink and an oven in a kitchen",
+            "a double sink dishwasher stove and microwave and nice cabinets ",
+            "kitchen with wooden cabinets and stainless steel appliences",
+            "A kitchen with a metallic stove top over under a microwave.",
+            "The large kitchen has a stove, and a dual sink on the counter. "
+        ]
+    },
+    {
+        "image_id": 404484,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000404484.jpg",
+        "generated_captions": {
+            "blip": "a dog is standing in a living room",
+            "gpt2": "a dog standing on a rug looking at a tv ",
+            "pix2struct": "A man is holding a book titled \"The Art of the Book\"."
+        },
+        "original_coco_captions": [
+            "A woman bending over in a living room to pet her dog.",
+            "Lady in her living room playing with the dog.",
+            "A female plays with her dog in the living room",
+            "A woman and dog in a living room with the tv on.",
+            "A woman in a living room with a dog. "
+        ]
+    },
+    {
+        "image_id": 373713,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000373713.jpg",
+        "generated_captions": {
+            "blip": "a group of people sitting around a table with laptops",
+            "gpt2": "three men sitting at a table with a laptop ",
+            "pix2struct": "A man stands in front of a TV that says Stability."
+        },
+        "original_coco_captions": [
+            "Three men sit at a conference discussing a topic",
+            "Three people sitting in an office with a big screen on wall",
+            "three men on computers having a discussion with each other",
+            "A group of people sitting next to each other.",
+            "Three people with laptops in a small room."
+        ]
+    },
+    {
+        "image_id": 89359,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000089359.jpg",
+        "generated_captions": {
+            "blip": "a desk with two monitors and a keyboard",
+            "gpt2": "a computer desk with a monitor and keyboard ",
+            "pix2struct": "A Dell computer is open to a page that says \"Flick\"."
+        },
+        "original_coco_captions": [
+            "The adjacent computer screens near the keyboard show different displays.",
+            "Two computer monitors sit on a desk with one keyboard.",
+            "A variety of computer equipment on a desk.",
+            "a keyboard is sitting on a desk, with two monitors elevated above it.",
+            "A computer arrangement of two monitors, a camera, key board and mouse on a desk."
+        ]
+    },
+    {
+        "image_id": 22208,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000022208.jpg",
+        "generated_captions": {
+            "blip": "a man sitting on a couch watching a television",
+            "gpt2": "a television is on in a living room ",
+            "pix2struct": "A computer screen with a blue screen that says \"Windows\"."
+        },
+        "original_coco_captions": [
+            "A flat screen TV next to a fire place in a living room.",
+            "And image of a baby on a flat screen television.",
+            "A large flat screen television is displaying a laughing baby.",
+            "A movie on a big screen television features a smiling baby. ",
+            "A TV SET IS IN THE LVING ROOM WITH A FIRE PLACE"
+        ]
+    },
+    {
+        "image_id": 484751,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000484751.jpg",
+        "generated_captions": {
+            "blip": "a desk with two monitors and a keyboard",
+            "gpt2": "a computer desk with a monitor and keyboard ",
+            "pix2struct": "A table with a table full of books and a book called The Secret Life of the Mind."
+        },
+        "original_coco_captions": [
+            "Three computer screens showing a panoramic beach scene.",
+            "Three computer screens at a desk show a panoramic view of the ocean.",
+            "A desk with multiple computer screens forming one large screen.",
+            "A computer desk with a triple monitor computer setup.",
+            " There are three tvs with a keyboard in front of it"
+        ]
+    },
+    {
+        "image_id": 102625,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000102625.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a sink and a television",
+            "gpt2": "a kitchen with a sink, stove, and refrigerator ",
+            "pix2struct": "A store front with a clock that says 10:00."
+        },
+        "original_coco_captions": [
+            "An empty kitchen filled with dishes and appliances.",
+            "A well lit kitchen with  polished wooden floors.",
+            "a kitchen with a window a sink and a table",
+            "There is a country styled kitchen with wood flooring and white walls.",
+            "A clean kitchen inside a home during the day."
+        ]
+    },
+    {
+        "image_id": 525083,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000525083.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a table and a refrigerator",
+            "gpt2": "a kitchen with a refrigerator, stove, sink and a table ",
+            "pix2struct": "A store with a sign that says \"Bring a Dog\"."
+        },
+        "original_coco_captions": [
+            "a view of a kitchen from across the room.",
+            "a small modern day house sits well lit",
+            "A kitchen with hardwood floors and hardwood cabinets.",
+            "a wood floor in a large home kitchen",
+            "a kitchen with a wooden floor and a microwave oven "
+        ]
+    },
+    {
+        "image_id": 383443,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000383443.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a large tub and a television",
+            "gpt2": "a bathroom with a tub, sink, and mirror ",
+            "pix2struct": "A kitchen with a fridge and a microwave."
+        },
+        "original_coco_captions": [
+            "A bathroom with a tub, sinks, lights and a television.",
+            "A large white bathroom with two vanity sinks and a bathtub.",
+            "A bathroom with a white tub and white cabinets has a black pattern on the floor.",
+            "Large white bathroom showing sink, tub, TV, and countertops.",
+            "Deep bathtub displayed in area of large tiled bathroom."
+        ]
+    },
+    {
+        "image_id": 240940,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000240940.jpg",
+        "generated_captions": {
+            "blip": "a cat is watching a television in a living room",
+            "gpt2": "a cat sitting on a rug watching television ",
+            "pix2struct": "A man is sitting in front of a computer that says \"Studio 200"
+        },
+        "original_coco_captions": [
+            "A cat sitting on the floor watching television.",
+            "a cat siting on the ground watching a tv",
+            "A cat sitting on the floor watching a television.",
+            "A cat sitting of a TV on top of a TV stand.",
+            "A cat watches cars racing on a television."
+        ]
+    },
+    {
+        "image_id": 192403,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000192403.jpg",
+        "generated_captions": {
+            "blip": "a bed in a hotel room",
+            "gpt2": "a bedroom with a bed, a desk and a window ",
+            "pix2struct": "A kitchen with a fridge and a toaster."
+        },
+        "original_coco_captions": [
+            "A very modern hotel bedroom holds a large, white bed. ",
+            "A bedroom with a bed, chair, and a slanted ceiling.",
+            "A view of a bedroom with a bed, closet and telephone. ",
+            "A bedroom is shown with a bed and TV.",
+            "The bedroom is clean and ready for us to use. "
+        ]
+    },
+    {
+        "image_id": 58329,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000058329.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a large tub and a large mirror",
+            "gpt2": "a bathroom with a tub, sink, and a window ",
+            "pix2struct": "A man is holding a book titled \"The Secret Life of the Mind\"."
+        },
+        "original_coco_captions": [
+            "A luxurious bathtub in front of a window with a red carpet and marble walls",
+            "A bathtub next to a window below a antler light.",
+            "this bathroom has a jacuzzi tub and a rug on the floor",
+            "a big bathroom with a very large bath tub",
+            "A bathroom that is empty and not in use."
+        ]
+    },
+    {
+        "image_id": 315740,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000315740.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a stove, sink, and refrigerator",
+            "gpt2": "a kitchen with a stove, sink, refrigerator and a tv ",
+            "pix2struct": "A computer monitor with a black screen that says \"Onslaus\"."
+        },
+        "original_coco_captions": [
+            "A kitchen with metallic appliances and wooden cabinets.",
+            "a kitchen that has a stove in it",
+            "A kitchen and a living room behind it.",
+            "A well modeled kitchen open to a living room.",
+            "Pristine kitchen with luxury amenities and living room in back."
+        ]
+    },
+    {
+        "image_id": 15918,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000015918.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a toilet and a mirror",
+            "gpt2": "a bathroom with a mirror and a toilet ",
+            "pix2struct": "A phone that says \"I'm not on a cell phone\" is sitting on a table"
+        },
+        "original_coco_captions": [
+            "A restroom hanging off the side of a building over a mountain.",
+            "A strange picture with suitcases by a window.",
+            "A mirror image of a bathroom and a scenic view from a window.",
+            "A mirror shows the inside view of a room while a large window shows a worldly view of the terrain.",
+            "A mirror in front of a large glass window displays a bathroom."
+        ]
+    },
+    {
+        "image_id": 93894,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000093894.jpg",
+        "generated_captions": {
+            "blip": "a man sitting at a table in a restaurant",
+            "gpt2": "a restaurant with a table and chairs and a laptop ",
+            "pix2struct": "A store front with a sign that says \"Primke\"."
+        },
+        "original_coco_captions": [
+            "Some people sitting at a table eating in a restaurant.",
+            "Two women and a man sit together in an empty restaurant. ",
+            "The three people are the only ones in the restaurant currently. ",
+            "A restaurant area with computer monitors in the table.",
+            "Group sitting inside a cafeteria having a meal."
+        ]
+    },
+    {
+        "image_id": 435003,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000435003.jpg",
+        "generated_captions": {
+            "blip": "a desk with a laptop and a monitor",
+            "gpt2": "a desk with a laptop computer and a monitor ",
+            "pix2struct": "A computer screen with a sticker that says \"Studio Offices\"."
+        },
+        "original_coco_captions": [
+            "A laptop computer sitting on a desk next to a desktop monitor.",
+            "a computer desk with multiple computers and screens\n",
+            "A desk with two computer monitors and a laptop.",
+            "A computer desk that has three monitors on top of it.",
+            "A computer workstation with a laptop and two additional monitors."
+        ]
+    },
+    {
+        "image_id": 319706,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000319706.jpg",
+        "generated_captions": {
+            "blip": "a cat laying on top of a computer desk",
+            "gpt2": "a cat laying on top of a computer desk ",
+            "pix2struct": "A man is holding a book titled \"The Secret Life of the Mind\"."
+        },
+        "original_coco_captions": [
+            "A cat sits on a desk in front of a computer. ",
+            "A black and white cat laying on top of a computer desk.",
+            "A cat sits on the top of a computer desk.",
+            "A cat sleeps on top of a computer desk.",
+            "a cat stretched out on a computer desk"
+        ]
+    },
+    {
+        "image_id": 480591,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000480591.jpg",
+        "generated_captions": {
+            "blip": "a group of people playing a video game",
+            "gpt2": "people standing around a room playing a video game ",
+            "pix2struct": "A man is sitting in front of a computer with a B on it."
+        },
+        "original_coco_captions": [
+            "A group of men and women playing a game on the Nintendo Wii.",
+            "Group of four people standing and playing a video game.",
+            "A group of people in a large room playing a video game.",
+            "Several people in a large room playing a video game displayed on a wall with a projector.",
+            "People standing in a room looking at a tennis match on a projector screen."
+        ]
+    },
+    {
+        "image_id": 149222,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000149222.jpg",
+        "generated_captions": {
+            "blip": "a computer monitor",
+            "gpt2": "a computer desk with a monitor and keyboard ",
+            "pix2struct": "A computer screen with a page titled Learning."
+        },
+        "original_coco_captions": [
+            "The computer monitor has a framed picture near it.",
+            "A computer desktop with other office supplies and papers.",
+            "A desk with a pc, including keyboard and mouse",
+            "a keyboard and a monitor a mouse and a picture",
+            "A view of a desktop computer that is online."
+        ]
+    },
+    {
+        "image_id": 316842,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000316842.jpg",
+        "generated_captions": {
+            "blip": "a white desk with two computers and a mouse",
+            "gpt2": "a desk with a laptop, monitor, keyboard and mouse ",
+            "pix2struct": "A computer with a screen that says \"enter\"."
+        },
+        "original_coco_captions": [
+            "This is the inside of someone's deejay station.",
+            "A cluttered desk holds two desktop monitors and a laptop. ",
+            "A laptop sits on a desk along with 2 monitors.",
+            "A desktop with three computers and a pair of headphones",
+            "A desk that has three computers sitting on it."
+        ]
+    },
+    {
+        "image_id": 444199,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000444199.jpg",
+        "generated_captions": {
+            "blip": "a man standing on a table with a bunch of televisions",
+            "gpt2": "a man standing next to a television holding a remote ",
+            "pix2struct": "A billboard advertises Comcast Doesn't Care."
+        },
+        "original_coco_captions": [
+            "a person with a bat near many tvs",
+            "Man with a baseball bat and televisions protesting on a city street",
+            "A pile of televisions sets are on the sidewalk and they have slogan written on them.",
+            "A man with a metal baseball bat standing over some televisions. ",
+            "A man with a bat next to televisions that say Comcast Doesnt care."
+        ]
+    },
+    {
+        "image_id": 554625,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000554625.jpg",
+        "generated_captions": {
+            "blip": "a boy wearing a white shirt",
+            "gpt2": "a boy in a black shirt and a black and white computer ",
+            "pix2struct": "A man wearing a shirt that says 100%."
+        },
+        "original_coco_captions": [
+            "a boy wearing headphones using one computer in a long row of computers",
+            "A little boy with earphones on listening to something.",
+            "A group of people sitting at desk using computers.",
+            "Children sitting at computer stations on a long table.",
+            "A small child wearing headphones plays on the computer."
+        ]
+    },
+    {
+        "image_id": 89359,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000089359.jpg",
+        "generated_captions": {
+            "blip": "a desk with two monitors and a keyboard",
+            "gpt2": "a computer desk with a monitor and keyboard ",
+            "pix2struct": "A Dell computer is open to a page that says \"Flick\"."
+        },
+        "original_coco_captions": [
+            "The adjacent computer screens near the keyboard show different displays.",
+            "Two computer monitors sit on a desk with one keyboard.",
+            "A variety of computer equipment on a desk.",
+            "a keyboard is sitting on a desk, with two monitors elevated above it.",
+            "A computer arrangement of two monitors, a camera, key board and mouse on a desk."
+        ]
+    },
+    {
+        "image_id": 484751,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000484751.jpg",
+        "generated_captions": {
+            "blip": "a desk with two monitors and a keyboard",
+            "gpt2": "a computer desk with a monitor and keyboard ",
+            "pix2struct": "A table with a table full of books and a book called The Secret Life of the Mind."
+        },
+        "original_coco_captions": [
+            "Three computer screens showing a panoramic beach scene.",
+            "Three computer screens at a desk show a panoramic view of the ocean.",
+            "A desk with multiple computer screens forming one large screen.",
+            "A computer desk with a triple monitor computer setup.",
+            " There are three tvs with a keyboard in front of it"
+        ]
+    },
+    {
+        "image_id": 113588,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000113588.jpg",
+        "generated_captions": {
+            "blip": "a man working on a laptop",
+            "gpt2": "a man sitting at a desk with two computers ",
+            "pix2struct": "A man is holding a phone that says 'the phone' on it."
+        },
+        "original_coco_captions": [
+            "several young students working at a desk with multiple computers",
+            "A young man at his workstation examines the monitor of a lap top, with one hand on the keyboard and the other on the mouse.",
+            "A man is working on a laptop next to other computers.",
+            "People in a large room, use multiple computers.",
+            "A young professional is working at his laptop while his coworker is reading material."
+        ]
+    },
+    {
+        "image_id": 17899,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000017899.jpg",
+        "generated_captions": {
+            "blip": "a woman cutting up a sandwich on a table",
+            "gpt2": "a woman cutting up a cake on a table ",
+            "pix2struct": "A man is cooking in a kitchen with a bottle of beer in front of him."
+        },
+        "original_coco_captions": [
+            "an old woman is in front of some food on a table",
+            "A person at a table in a room with some food.",
+            "Woman working with large assortment of baked goods at kitchen table.",
+            "A woman prepares bread and pastries on a table.",
+            "An older woman preparing cookies and bread at a table."
+        ]
+    },
+    {
+        "image_id": 202273,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000202273.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a sink and a mirror",
+            "gpt2": "a bathroom with a sink, mirror, and a cabinet ",
+            "pix2struct": "A man is holding a box of Coca Cola."
+        },
+        "original_coco_captions": [
+            "The bathroom is clean and ready to use.",
+            "A sink in a small bathroom with tile walls.",
+            "A bathroom with a sink, cabinet and hand mirror.",
+            "A bathroom with tiled walls, a sink and cabinets in it.",
+            "a white sink on top of a white cabinet"
+        ]
+    },
+    {
+        "image_id": 475407,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000475407.jpg",
+        "generated_captions": {
+            "blip": "a man on a motorcycle",
+            "gpt2": "a man riding a red motorcycle on a street ",
+            "pix2struct": "A man is holding a bottle of wine that says 3:08."
+        },
+        "original_coco_captions": [
+            "A man riding on the back of a red motorcycle.",
+            "A man stops his motorcycle to read the advertisement on the bus bench.",
+            "A man on rd motorcycle next to graffiti of birds.",
+            "A man on a motorcycle looks at wall graffiti. ",
+            "A man on a red motorcycle driving past a mural."
+        ]
+    },
+    {
+        "image_id": 19608,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000019608.jpg",
+        "generated_captions": {
+            "blip": "a bird standing in the water",
+            "gpt2": "a person riding a bicycle next to a lake ",
+            "pix2struct": "A man wearing a black shirt that says \"The Man\" is running."
+        },
+        "original_coco_captions": [
+            "a man riding a red bicycle watching a bird in the water",
+            "a bird stands in water was a person passes by on a bike ",
+            "a man on a bike moving besides waters and a long bird standing on it",
+            "Man riding a bike on the other side of the pond with a bird in it.",
+            "A bicyclist looking at a stork in shallow water."
+        ]
+    },
+    {
+        "image_id": 469793,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000469793.jpg",
+        "generated_captions": {
+            "blip": "a man in a kitchen preparing food",
+            "gpt2": "a man in a chef's hat is cutting a cake ",
+            "pix2struct": "A man is holding a bottle of wine that says 'the snob' on"
+        },
+        "original_coco_captions": [
+            "A man preparing food inside of a kitchen with a  small bird on his shoulder like snow white while wearing a cheap chefs hat.",
+            "a man in the kitchen cutting something on a cutting board",
+            "a man in a chefs hat chopping food",
+            "Man wearing chef hat with bird on shoulder having a disaster in kitchen.",
+            "a man is cutting some food at a kitchen counter"
+        ]
+    },
+    {
+        "image_id": 358765,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000358765.jpg",
+        "generated_captions": {
+            "blip": "a small bird perched on a motorcycle handle",
+            "gpt2": "a brown and black bird perched on a bicycle handle bar ",
+            "pix2struct": "A man wearing a shirt that says ZUCON is standing in front of a tree."
+        },
+        "original_coco_captions": [
+            "A brown songbird perched on the handlebars of a bicycle.",
+            "A small brown bird is sitting on the handle bar of a bicycle. ",
+            "A brown and yellow bird sitting on a bike's handlebars",
+            "A small bird sitting on a handlebar of a bicycle.",
+            "A brown bird sits on the handlebar of a bicycle or motorcycle."
+        ]
+    },
+    {
+        "image_id": 366406,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000366406.jpg",
+        "generated_captions": {
+            "blip": "a kitchen with a sink and stove",
+            "gpt2": "a kitchen with a stove, sink, microwave and refrigerator ",
+            "pix2struct": "A kitchen with a fridge and a microwave."
+        },
+        "original_coco_captions": [
+            "a sink and an oven in a kitchen",
+            "a double sink dishwasher stove and microwave and nice cabinets ",
+            "kitchen with wooden cabinets and stainless steel appliences",
+            "A kitchen with a metallic stove top over under a microwave.",
+            "The large kitchen has a stove, and a dual sink on the counter. "
+        ]
+    },
+    {
+        "image_id": 551517,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000551517.jpg",
+        "generated_captions": {
+            "blip": "a bird standing next to a car on a street",
+            "gpt2": "a bird standing next to a car ",
+            "pix2struct": "A car with a license plate that says 0000."
+        },
+        "original_coco_captions": [
+            "a bird standing close to a parked car",
+            "Two birds standing next to a black car looking inside.",
+            "A PAIR OF VERY LARGE BIRDS ARE STANDING BESIDE A CAR",
+            "A bird is looking through a car window",
+            "Two bird that are looking inside of a car."
+        ]
+    },
+    {
+        "image_id": 70774,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000070774.jpg",
+        "generated_captions": {
+            "blip": "a motorcycle parked in front of a building",
+            "gpt2": "a bicycle with a basket of bananas on it ",
+            "pix2struct": "A man is holding a watch that says D94UM."
+        },
+        "original_coco_captions": [
+            "Small motorcycle with several bicycles tied to the back of it. ",
+            "black and white photo of a scooter carrying numerous bikes",
+            "A motorcycle parked outside of a building with bird cages.",
+            "A motorbike parked, with several bicycles stacked on on the back of it.",
+            "A motorcycle is sitting outside near some plants."
+        ]
+    },
+    {
+        "image_id": 111099,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000111099.jpg",
+        "generated_captions": {
+            "blip": "a cloudy sky",
+            "gpt2": "people walking on a sidewalk near a pier ",
+            "pix2struct": "A man is standing in front of a boat that says 'C' on the side."
+        },
+        "original_coco_captions": [
+            "People standing and sitting around at a pier",
+            "People are walking and sitting near a body of water. ",
+            "A city pier with benches to enjoy the view",
+            "People sitting on benches and walking along a water front.",
+            "A group of people hanging out next to the ocean."
+        ]
+    },
+    {
+        "image_id": 269436,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000269436.jpg",
+        "generated_captions": {
+            "blip": "a bird sitting on a wheel",
+            "gpt2": "a small bird sitting on top of a metal object ",
+            "pix2struct": "A phone with the time of 10:00 on the screen."
+        },
+        "original_coco_captions": [
+            "A small baby bird on a piece of metal.",
+            "A small bird sitting in a metal wheel ",
+            "A bird that is sitting in the rim of a tire.",
+            "A close up of a very small and cute bird.",
+            "Small young bird standing on metal wheel hub."
+        ]
+    },
+    {
+        "image_id": 111099,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000111099.jpg",
+        "generated_captions": {
+            "blip": "a cloudy sky",
+            "gpt2": "people walking on a sidewalk near a pier ",
+            "pix2struct": "A man is standing in front of a boat that says 'C' on the side."
+        },
+        "original_coco_captions": [
+            "People standing and sitting around at a pier",
+            "People are walking and sitting near a body of water. ",
+            "A city pier with benches to enjoy the view",
+            "People sitting on benches and walking along a water front.",
+            "A group of people hanging out next to the ocean."
+        ]
+    },
+    {
+        "image_id": 264659,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000264659.jpg",
+        "generated_captions": {
+            "blip": "two white birds on a car",
+            "gpt2": "two birds standing on top of a car ",
+            "pix2struct": "A man is holding a book titled \"The Book of the Dead\"."
+        },
+        "original_coco_captions": [
+            "Two birds sit on top of a parked car.",
+            "Two birds are standing on top of the front of an automobile.",
+            "Two white birds standing on the hood of a vehicle.",
+            "two doves sit on the windshield of a car",
+            "Two white birds perched of the windshield and hood of a car"
+        ]
+    },
+    {
+        "image_id": 264659,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000264659.jpg",
+        "generated_captions": {
+            "blip": "two white birds on a car",
+            "gpt2": "two birds standing on top of a car ",
+            "pix2struct": "A man is holding a book titled \"The Book of the Dead\"."
+        },
+        "original_coco_captions": [
+            "Two birds sit on top of a parked car.",
+            "Two birds are standing on top of the front of an automobile.",
+            "Two white birds standing on the hood of a vehicle.",
+            "two doves sit on the windshield of a car",
+            "Two white birds perched of the windshield and hood of a car"
+        ]
+    },
+    {
+        "image_id": 69189,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000069189.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike with a bunch of chickens on it",
+            "gpt2": "a man riding a bike down a street with a basket of carrots ",
+            "pix2struct": "A man cooking food in a kitchen with a plate of food that says 'Cook'"
+        },
+        "original_coco_captions": [
+            "A man riding a bike down a street.",
+            "A man transports chickens by bicycle on a busy street.",
+            "a person with the stuff riding a bicycle",
+            "a person riding a bike with chickens strapped to the back.",
+            "A person rides a bicycle down the road."
+        ]
+    },
+    {
+        "image_id": 197915,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000197915.jpg",
+        "generated_captions": {
+            "blip": "a plate with a bird on it",
+            "gpt2": "a bird sitting on a table next to a pot of food ",
+            "pix2struct": "A bottle of Ioni sits next to a glass of beer."
+        },
+        "original_coco_captions": [
+            "A bird that is sitting on a plate on a table.",
+            "A blue bird caught eating leftovers from a dinner plate.",
+            "A bird sits on an old plate of food.",
+            "a blue bird with a black face sitting on a plate",
+            "a blue and black bird a plate of food and some cups and pots"
+        ]
+    },
+    {
+        "image_id": 152886,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000152886.jpg",
+        "generated_captions": {
+            "blip": "a woman is walking with a small child",
+            "gpt2": "a woman is walking with a bird on her shoulder ",
+            "pix2struct": "A man wearing a black shirt with the number 22 on it."
+        },
+        "original_coco_captions": [
+            "A black and white image of a woman catching a bird",
+            "Couple of women near pigeons near a busy town",
+            "A woman on a path holds out her hand for a bird to alight on.",
+            "A woman that is standing near the birds.",
+            "Two women standing in the park surrounded by birds."
+        ]
+    },
+    {
+        "image_id": 508602,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000508602.jpg",
+        "generated_captions": {
+            "blip": "a bird sitting on top of a car",
+            "gpt2": "a bird standing on top of a car ",
+            "pix2struct": "A boat with a license plate that says 1000."
+        },
+        "original_coco_captions": [
+            "Bird standing on car roof near covered pavilion.",
+            "A small crane stands on the roof of a car in a city area.",
+            "The white bird is standing on the roof of a car.",
+            "a close up of a bird on top of a parked car ",
+            "A bird is standing on top of a car."
+        ]
+    },
+    {
+        "image_id": 18750,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000018750.jpg",
+        "generated_captions": {
+            "blip": "a clear blue sky",
+            "gpt2": "a large building with a clock on top ",
+            "pix2struct": "A large building with a clock that says 10:00."
+        },
+        "original_coco_captions": [
+            "Artistic photograph of architecture and frost-laden trees at dawn",
+            "Pointy steeples and a widow's walk rise up to the sky.",
+            "A tower is on a building behind an icy tree.",
+            "A building with multiple steeples and a pine tree.",
+            "A tall white fortress surrounded by tall trees."
+        ]
+    },
+    {
+        "image_id": 56205,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000056205.jpg",
+        "generated_captions": {
+            "blip": "a man sitting on a bench",
+            "gpt2": "a person sitting on a bench near a street ",
+            "pix2struct": "A man is standing in front of a clock that says 10:00."
+        },
+        "original_coco_captions": [
+            "A person sits next to their bike while birds walk nearby.",
+            "A man sits on a curb with his bicycle",
+            "A black and whit photo of a woman sitting hear her bike.",
+            "a person sitting next to a bicycle while watching pigeons on a sidewalk.",
+            "a person sitting on a ledge with a bike near by"
+        ]
+    },
+    {
+        "image_id": 566038,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000566038.jpg",
+        "generated_captions": {
+            "blip": "a bird is sitting on the window sie",
+            "gpt2": "a bird sitting on the window sill of a car ",
+            "pix2struct": "A black car with a license plate that says 000."
+        },
+        "original_coco_captions": [
+            "A bird sits on an outside windowsill overlooking a parking lot.",
+            "a bird is sitting on the ledge of a window relaxing",
+            "A car parked in front of a building in a parking space.",
+            "A bird sitting on a ledge outside of window with a car in the background.",
+            "A bird sitting on the outside of a window."
+        ]
+    },
+    {
+        "image_id": 123585,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000123585.jpg",
+        "generated_captions": {
+            "blip": "a group of birds eating food on the ground",
+            "gpt2": "a bird is eating a donut on the ground ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "a few birds eating stuff off the ground",
+            "A pigeon with it's head inside of a donut.",
+            "A pigeon outside with his head in a piece of bread. ",
+            "a pigeon eating out of a bread bowl. ",
+            "A bird is eating bread on the pavement."
+        ]
+    },
+    {
+        "image_id": 64909,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000064909.jpg",
+        "generated_captions": {
+            "blip": "a man in a chef's uniform standing in a kitchen",
+            "gpt2": "a man in a costume is standing in a kitchen ",
+            "pix2struct": "A man stands in front of a Who Dat sign."
+        },
+        "original_coco_captions": [
+            "A young man wears a fake mustache in a kitchen decorated for the New Orleans Saints.",
+            "A man in a costume poses for a photo.",
+            "a chef with a silly mustache on his face",
+            "A man is a St. Louis themed chef with a costume.",
+            "A person dressed up as a chef cooking."
+        ]
+    },
+    {
+        "image_id": 524361,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000524361.jpg",
+        "generated_captions": {
+            "blip": "a bird sitting on a bike",
+            "gpt2": "a small bird perched on top of a metal object ",
+            "pix2struct": "A man is holding a watch that says \"Iphone\"."
+        },
+        "original_coco_captions": [
+            "A small bed laying on top of a table.",
+            "A bird stting on what appears to be a piece of machinery. ",
+            "Small bird with fluffy feathers sitting in nest",
+            "a small bird with its head pulled back",
+            "A newborn baby bird sitting quietly by itself "
+        ]
+    },
+    {
+        "image_id": 265378,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000265378.jpg",
+        "generated_captions": {
+            "blip": "a white car parked in a parking lot",
+            "gpt2": "a white car parked in a parking lot ",
+            "pix2struct": "A car with a license plate that reads 6SJC716."
+        },
+        "original_coco_captions": [
+            "A white car parked in a parking space.",
+            "a white bmw in a parking lot in day",
+            "A small white car parked in a parking lot.",
+            "A Volkswagen sedan lies still in a parking space",
+            "A white VW car with a California license plate and a black bird on top of the car."
+        ]
+    },
+    {
+        "image_id": 385473,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000385473.jpg",
+        "generated_captions": {
+            "blip": "a motorcycle parked on a street next to a tree",
+            "gpt2": "a motorcycle with a black and silver handlebar ",
+            "pix2struct": "A man is holding a watch that says the brand name is Omega."
+        },
+        "original_coco_captions": [
+            "A close up of a front end of a motorcycle and tire.",
+            "A motorcycle front tire with the brake system showing.",
+            "A low-angle view of the front fork of a motorcyle from the tire to the headlight.",
+            "The front wheel of a parked motorcycle is slanted.  ",
+            "An up close photo of a motorcycle tire. "
+        ]
+    },
+    {
+        "image_id": 56205,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000056205.jpg",
+        "generated_captions": {
+            "blip": "a man sitting on a bench",
+            "gpt2": "a person sitting on a bench near a street ",
+            "pix2struct": "A man is standing in front of a clock that says 10:00."
+        },
+        "original_coco_captions": [
+            "A person sits next to their bike while birds walk nearby.",
+            "A man sits on a curb with his bicycle",
+            "A black and whit photo of a woman sitting hear her bike.",
+            "a person sitting next to a bicycle while watching pigeons on a sidewalk.",
+            "a person sitting on a ledge with a bike near by"
+        ]
+    },
+    {
+        "image_id": 469480,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000469480.jpg",
+        "generated_captions": {
+            "blip": "a small bird perched on a bike handle",
+            "gpt2": "a brown and black bird perched on a bicycle handle bar ",
+            "pix2struct": "A man wearing a shirt that says'saxon' is standing in front of a"
+        },
+        "original_coco_captions": [
+            "A brown bird perched on the handle bars of a bike.",
+            "Little bird relaxing on a bike handle. ",
+            "A small bird sitting on the handle bars of a motor bike.",
+            "A brown bird perched on the handle of a bike.",
+            "A bird is using the handlebars of a bicycle for its perch."
+        ]
+    },
+    {
+        "image_id": 137490,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000137490.jpg",
+        "generated_captions": {
+            "blip": "a bird is perched on the side of a car",
+            "gpt2": "a small bird is perched on the hood of a car ",
+            "pix2struct": "A man wearing a black shirt that says 'the man's shirt' is standing in"
+        },
+        "original_coco_captions": [
+            "A small bird sitting on the handle of a car door.",
+            "A BIRD PERCHED ON THE CAR DOOR HANDLE",
+            "A brown bird resting on the handle of a black car.",
+            "Close up of passenger door of car exterior with dove on handle.",
+            "A pigeon perched on a car door handle."
+        ]
+    }
+]

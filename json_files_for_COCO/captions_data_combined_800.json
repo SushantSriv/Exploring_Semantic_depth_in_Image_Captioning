@@ -1,0 +1,1586 @@
+[
+    {
+        "image_id": 543686,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000543686.jpg",
+        "generated_captions": {
+            "blip": "a white cat eating food out of a bowl",
+            "gpt2": "a white cat standing on a floor next to a bowl ",
+            "pix2struct": "A bottle of beer is next to a glass."
+        },
+        "original_coco_captions": [
+            "A cat that is standing over a bowl.",
+            "A cat eating out of a green bowl",
+            "A white cat with a red collar is eating from a green bowl.",
+            "A white cat is leaning over to drink out of a water bowl.",
+            "White cat eating out fom her bowl near a white wall."
+        ]
+    },
+    {
+        "image_id": 280736,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000280736.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on the ground",
+            "gpt2": "a cat sitting on a sidewalk next to a brick wall ",
+            "pix2struct": "A man is holding a bottle of beer that says'smoky' on it."
+        },
+        "original_coco_captions": [
+            "A cat sitting outside on some cobble stone.",
+            "Cat staring at something while sitting on porch.  ",
+            "A cat looking to its left while sitting on a sidewalk.",
+            "A tan cat sitting on a stone patio",
+            "a cat standing around on some bricks outside."
+        ]
+    },
+    {
+        "image_id": 558073,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000558073.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting in a bathtub",
+            "gpt2": "a cat sitting in a bath tub ",
+            "pix2struct": "A man is holding a book titled \"The Art of the Art of Drawing\"."
+        },
+        "original_coco_captions": [
+            "a cat sitting in a bathtub not looking amused",
+            "An adult cat is sitting inside of a bathtub.",
+            "A tiger cat sitting in a white bathtub.",
+            "A striped cat sits in a bath tub.",
+            "Cat messing around in the white bathtub. "
+        ]
+    },
+    {
+        "image_id": 257036,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000257036.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on a chair next to a bicycle",
+            "gpt2": "a cat sitting on a bicycle seat ",
+            "pix2struct": "A man is holding a book titled \"The Secret Life of the Mind\"."
+        },
+        "original_coco_captions": [
+            "there is a cat sitting on a table next to a bike wheel ",
+            "A cat sitting on top of a table next to a wheel.",
+            "A cat sits between a lamp and a bicycle wheel.",
+            "A black cat, bicycle and backpack on the table",
+            "A cat sits atop a night stand next to a bike."
+        ]
+    },
+    {
+        "image_id": 307989,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000307989.jpg",
+        "generated_captions": {
+            "blip": "two kittens in a kitchen",
+            "gpt2": "two cats are eating from a bowl on the floor ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "A couple of kittens standing around metal bowls on a tray.",
+            "two baby kittens at the feeding bowls one is drinking",
+            "A kitten drinking water out of a bowl on a tray. ",
+            "Two little kittens drinking water out of the bowls",
+            "Two kittens drink water from some bowls. "
+        ]
+    },
+    {
+        "image_id": 336372,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000336372.jpg",
+        "generated_captions": {
+            "blip": "a black car",
+            "gpt2": "a small cat is standing in the middle of a car ",
+            "pix2struct": "A watch is sitting on a table and has the number 3 on it."
+        },
+        "original_coco_captions": [
+            "a close up of a kitten under a parked car very close to the tire",
+            "A small grey kitten sitting under the wheel of a black car.",
+            "A cat near the back of a car tire.",
+            "A small kitten sits next to the rear tire of a car.",
+            "The small kitten is sitting underneath the car."
+        ]
+    },
+    {
+        "image_id": 377867,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000377867.jpg",
+        "generated_captions": {
+            "blip": "a white bicycle parked in front of a house",
+            "gpt2": "a cat sitting on a bicycle next to a house ",
+            "pix2struct": "A man wearing a black shirt that says'stu' is riding a bike."
+        },
+        "original_coco_captions": [
+            "A cat sits next to a bike that is garnished with flowers. ",
+            "A black and white cat sitting in front of a bicycle parked by a tree.",
+            "A memorial bicycle with a floral arrangement on the handle bars.",
+            "A cat sitting next to a white bicycle on a green lawn.",
+            "A white bike with flowers on the front by a cat."
+        ]
+    },
+    {
+        "image_id": 570528,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000570528.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting in a bowl",
+            "gpt2": "a cat sitting in a bowl on a table ",
+            "pix2struct": "A man is holding a bottle of wine that says 'the smoky' on"
+        },
+        "original_coco_captions": [
+            "A large orange cat sitting in a white glass bowl.",
+            "A cat sitting in a bowl on a table looking at the camera.",
+            "a brown cat sitting inside a fancy bowl",
+            "A cat looking back is sitting in a bowl.",
+            "A cat is sitting in a white bowl."
+        ]
+    },
+    {
+        "image_id": 514668,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000514668.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting in the passenger seat of a car",
+            "gpt2": "a cat sitting in the back of a car looking out the window ",
+            "pix2struct": "A phone that says the number 12 on the front"
+        },
+        "original_coco_captions": [
+            "a couple of cats that are inside of a car",
+            "Two cats sitting in a car on the passenger seat.",
+            "A grey cat looks out a car window.",
+            "Two cats sitting in the front passenger seat of a car",
+            "a pair of cats riding inside a car"
+        ]
+    },
+    {
+        "image_id": 230220,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000230220.jpg",
+        "generated_captions": {
+            "blip": "a cat drinking out of a bowl",
+            "gpt2": "a cat eating out of a bowl on a table ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "A cat eating food out of a bowl.",
+            "a small cat is eating its food from the bowl.",
+            "A striped cat eating food from a bowl.",
+            "a close up of a cat eating food out of a bowl",
+            "A cat is eating out of a food dish."
+        ]
+    },
+    {
+        "image_id": 301014,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000301014.jpg",
+        "generated_captions": {
+            "blip": "a cat drinking out of a cup",
+            "gpt2": "a cat and a dog eating food together ",
+            "pix2struct": "A man is holding a book titled \"Woll-Jins\"."
+        },
+        "original_coco_captions": [
+            "two cats sitting side by side eating out of a dish",
+            "Two cats are eating out of different bowls.",
+            "Two cats eating from bowls on the floor of a living room",
+            "Two kitties are eating from their bowls in front of the videos.",
+            "A couple of cats on a table eating food."
+        ]
+    },
+    {
+        "image_id": 258523,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000258523.jpg",
+        "generated_captions": {
+            "blip": "a black cat laying on top of a toilet",
+            "gpt2": "a black cat laying on top of a toilet ",
+            "pix2struct": "A man wearing a blue shirt that says \"The New York Times\" is standing in front of"
+        },
+        "original_coco_captions": [
+            "A black cat laying on the tank of a toilet.",
+            "A black cat is sleeping on top of a toilet.",
+            "One black cat laying on top of the toilet lid.",
+            "Black cat sleeping on the back of a toilet.",
+            "A black cat is lying on the tank of a toilet.  \n"
+        ]
+    },
+    {
+        "image_id": 557239,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000557239.jpg",
+        "generated_captions": {
+            "blip": "a cat laying in a toilet bowl",
+            "gpt2": "a cat is laying in a white bowl ",
+            "pix2struct": "A man is holding a bottle of wine that says 'the snob' on"
+        },
+        "original_coco_captions": [
+            "Rust and white cat curled up in a toilet bowl.",
+            "A cat is curled up in an empty toilet.",
+            "A cat looks happy while sitting in a bowl.",
+            "A cat is curled up in the bowl of a lidless toilet.",
+            "The orange and white cat is sitting in a toilet bowl. "
+        ]
+    },
+    {
+        "image_id": 194594,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000194594.jpg",
+        "generated_captions": {
+            "blip": "two cats in a bathtub",
+            "gpt2": "two cats are playing in a bathtub together ",
+            "pix2struct": "A man is wearing a black shirt that says \"The New York Times\"."
+        },
+        "original_coco_captions": [
+            "a couple of cats sit in front of a tub full of water ",
+            "Two cats curiously look at water in the bath tub.",
+            "A couple cats examine a bathtub with water in it.",
+            "Two cats in a bathroom near a tub of water.",
+            "two black cats standing one taking water from a bath tub"
+        ]
+    },
+    {
+        "image_id": 477791,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000477791.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting in the passenger seat of a car",
+            "gpt2": "a cat sitting in the window of a car ",
+            "pix2struct": "A man is standing in front of a building that says 'the old building'."
+        },
+        "original_coco_captions": [
+            "A cat looking out of a vehicle window during rain.",
+            "A cat sitting on the side of a car door window.",
+            "A cat ridding in a car looking out the window with a small building in the background.",
+            "A cat looking out a window of a car.",
+            "The cat was sitting in the car looking out at the rain."
+        ]
+    },
+    {
+        "image_id": 514668,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000514668.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting in the passenger seat of a car",
+            "gpt2": "a cat sitting in the back of a car looking out the window ",
+            "pix2struct": "A phone that says the number 12 on the front"
+        },
+        "original_coco_captions": [
+            "a couple of cats that are inside of a car",
+            "Two cats sitting in a car on the passenger seat.",
+            "A grey cat looks out a car window.",
+            "Two cats sitting in the front passenger seat of a car",
+            "a pair of cats riding inside a car"
+        ]
+    },
+    {
+        "image_id": 193680,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000193680.jpg",
+        "generated_captions": {
+            "blip": "a cat sleeping on top of a car",
+            "gpt2": "a cat laying on top of a car ",
+            "pix2struct": "A person is holding a bottle of wine that says 'excellent' on it."
+        },
+        "original_coco_captions": [
+            "Full grown cat laying down and sleeping on top of a car. ",
+            "A cat napping on a red car in a driveway.",
+            "A orange cat taking a nap on top of a car.",
+            "A fluffy cat sleeping on top of a red car.",
+            "An orange cat sleeping on top of a red car."
+        ]
+    },
+    {
+        "image_id": 379869,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000379869.jpg",
+        "generated_captions": {
+            "blip": "two cats sitting on a wooden ledge",
+            "gpt2": "two cats are standing on a wooden bench ",
+            "pix2struct": "A man is standing in front of a tree with a sign that says \"The Tree of Life"
+        },
+        "original_coco_captions": [
+            "a couple of cats that are sitting on a fence",
+            "A cat eating out of a bowl beside another cat.",
+            " couple of cats are standing on a ledge",
+            "two gray and white cats on a fence and plants",
+            "Two grey and white cats sitting on a deck rail and one cat is eating out of a bowl."
+        ]
+    },
+    {
+        "image_id": 174871,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000174871.jpg",
+        "generated_captions": {
+            "blip": "a dog with a collar",
+            "gpt2": "a cat and a dog are playing together ",
+            "pix2struct": "A man wearing a shirt that says OTD is holding a bottle of beer."
+        },
+        "original_coco_captions": [
+            "A photograph of a cat and mouse on top of a dog.",
+            "A mouse and cat sit on top of a dog.",
+            "Small dog with both a cat and a mouse riding on its back.",
+            "Cat and mouse riding on a dog on a busy city street.",
+            "a close up of a dog with a cat and a mouse on its back"
+        ]
+    },
+    {
+        "image_id": 103757,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000103757.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on a toilet bowl in a bathroom",
+            "gpt2": "a cat sitting on top of a toilet bowl ",
+            "pix2struct": "A man wearing a shirt that says 'the man's shirt' is holding a phone"
+        },
+        "original_coco_captions": [
+            "A cat on a toilet seat of some sort.",
+            "a little cat with a blue collar standing on a toilet ",
+            "A small cat sitting on top of a bowl.",
+            "The cat looks down intently from the toilet.",
+            "A cat perched on a toilet seat looking down at the floor"
+        ]
+    },
+    {
+        "image_id": 27463,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000027463.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting in the driver's seat of a car",
+            "gpt2": "a cat sitting in the driver's seat of a car ",
+            "pix2struct": "A man is holding a phone that says'scott' on it."
+        },
+        "original_coco_captions": [
+            "A cat sitting on top of a seat behind a steering wheel.",
+            "A cat is sitting in the driver's seat while staring at the pedals.",
+            "Grey tabby cat sitting in the drivers seat of a car.",
+            "A cat sitting in front of a car steering wheel.",
+            "A cat sitting in the driver's seat of a car."
+        ]
+    },
+    {
+        "image_id": 379869,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000379869.jpg",
+        "generated_captions": {
+            "blip": "two cats sitting on a wooden ledge",
+            "gpt2": "two cats are standing on a wooden bench ",
+            "pix2struct": "A man is standing in front of a tree with a sign that says \"The Tree of Life"
+        },
+        "original_coco_captions": [
+            "a couple of cats that are sitting on a fence",
+            "A cat eating out of a bowl beside another cat.",
+            " couple of cats are standing on a ledge",
+            "two gray and white cats on a fence and plants",
+            "Two grey and white cats sitting on a deck rail and one cat is eating out of a bowl."
+        ]
+    },
+    {
+        "image_id": 471251,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000471251.jpg",
+        "generated_captions": {
+            "blip": "a cat sleeping on a pink rug next to a scale",
+            "gpt2": "a cat laying on a rug with a cat toy ",
+            "pix2struct": "A man is holding a phone that says 'the man's phone'."
+        },
+        "original_coco_captions": [
+            "Stripped kitty finds a comfy place in the bathroom for a nap",
+            "A cat is sleeping on a round pink rug.",
+            "an image of a cat that is lying on the bathroom floor",
+            "A cat sleeps on a round fuchsia rug.",
+            "A cat sleeping on a small rug on a tile floor next to a scale."
+        ]
+    },
+    {
+        "image_id": 333140,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000333140.jpg",
+        "generated_captions": {
+            "blip": "a black cat sitting on a desk next to a computer",
+            "gpt2": "a black cat sitting on a desk next to a computer ",
+            "pix2struct": "A computer with a screen that says \"SES\" on it."
+        },
+        "original_coco_captions": [
+            "A black cat sitting at a computer desk topped with a monitor.",
+            "The cat is at the desk near the computer.",
+            "A black cat setting on a computer desk.\n",
+            "This is a picture of a black cat by a computer.",
+            "Black, green-eyed cat sitting by a computer desk and monitor."
+        ]
+    },
+    {
+        "image_id": 311531,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000311531.jpg",
+        "generated_captions": {
+            "blip": "a cat drinking water from a bathroom sink",
+            "gpt2": "a cat is standing on the edge of a sink ",
+            "pix2struct": "A man is holding a bottle of wine that says 100%."
+        },
+        "original_coco_captions": [
+            "a large orange cat jumping into a bathroom sink",
+            "an orange cat is standing on a sink",
+            "A cat getting a drink from a faucet that is running.",
+            "An orange cat walking into a wink on a bathroom counter. ",
+            "Cat caught getting into the bathroom sink "
+        ]
+    },
+    {
+        "image_id": 350075,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000350075.jpg",
+        "generated_captions": {
+            "blip": "two kittens in a bowl",
+            "gpt2": "a kitten is looking at a glass bowl ",
+            "pix2struct": "A man is holding a box of Claps."
+        },
+        "original_coco_captions": [
+            "A few kittens in a bowl in a white void",
+            "Two small kittens sitting in a glad bowl together. ",
+            "this is two kittens in a glass bowl",
+            "Two tabby kittens are snuggling in a clear glass bowl.",
+            "Two kittens are sitting in a bowl next to each other."
+        ]
+    },
+    {
+        "image_id": 127854,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000127854.jpg",
+        "generated_captions": {
+            "blip": "two cats in a bathtub",
+            "gpt2": "two cats are in a bathtub with a white sink ",
+            "pix2struct": "A man is holding a black and white photo of a cat."
+        },
+        "original_coco_captions": [
+            "there are two cats that are laying inside of a tub",
+            "Two cats sitting together in an empty bathtub.",
+            "A pair of cats sit in an empty bathtub.",
+            "Two cats occupy a bathtub, one sitting and one lying down. ",
+            "two cats chill in the bathtub one is laying down"
+        ]
+    },
+    {
+        "image_id": 47121,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000047121.jpg",
+        "generated_captions": {
+            "blip": "a cat drinking water from a sink",
+            "gpt2": "a black cat drinking water from a white sink ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "A cat standing on the edge of a sink drink water.",
+            "A cat drinking from a sink faucet that was left running.",
+            "A black and white cat drinks water from a sink faucet.",
+            "A black cat drinking water out of a water faucet.",
+            "a cat drinking water from a sink bowl"
+        ]
+    },
+    {
+        "image_id": 176778,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000176778.jpg",
+        "generated_captions": {
+            "blip": "a cat standing next to a toilet in a bathroom",
+            "gpt2": "a cat sitting on the floor next to a toilet ",
+            "pix2struct": "A man is holding a box of a snickers"
+        },
+        "original_coco_captions": [
+            "A cat standing next to a white toilet near a bath tub.",
+            "A cat in a bathroom with a tub and a toilet. ",
+            "A white toilet and a bath in a room.",
+            "A toilet and a bathtub in a bathroom with a cat next to it",
+            "A bathroom with a toilet, bathtub, and a cat in a bathroom."
+        ]
+    },
+    {
+        "image_id": 568690,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000568690.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on a toilet in a bathroom",
+            "gpt2": "a cat sitting on the floor in a bathroom ",
+            "pix2struct": "A silver and black phone that says'sasha 99.9' on"
+        },
+        "original_coco_captions": [
+            "A small cat sits perched on the back of a toilet.",
+            "A small cat sits on top of a white toilet missing its seat in a bathroom.",
+            "A cat sitting on a toilet in a bathroom ",
+            "A cat sitting on the back of a toilet bowl with no tank.",
+            "A cat sits on top of a toilet bowl."
+        ]
+    },
+    {
+        "image_id": 295051,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000295051.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on a desk",
+            "gpt2": "a cat sitting on top of a desk next to a computer ",
+            "pix2struct": "A man is holding a bottle of wine that says'saint louis'"
+        },
+        "original_coco_captions": [
+            "a close up of a cat on a desk near stuffed animals ",
+            "black cat sitting near a printer with 2 stuffed animals",
+            "A black cat sitting on desk with two teddy bears.",
+            "A black cat is standing on the desk with a printer and small stuffed bears. ",
+            "A black cat on a desk with a printer and two stuffed bears."
+        ]
+    },
+    {
+        "image_id": 475725,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000475725.jpg",
+        "generated_captions": {
+            "blip": "a woman holding a cat",
+            "gpt2": "a woman holding a cat in her arms ",
+            "pix2struct": "A man wearing a shirt that says \"Alaska\" is holding a bottle of beer."
+        },
+        "original_coco_captions": [
+            "A woman hugs a gray cat to her chest.",
+            "A woman holding a cat in her arms with a smile.",
+            "a woman holding a cat in her arms",
+            "A woman smiling while holding a cat in her hands. ",
+            "A woman is holding a gray and white cat."
+        ]
+    },
+    {
+        "image_id": 553698,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000553698.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on a pile of books",
+            "gpt2": "a cat sitting on a table in a store ",
+            "pix2struct": "A man is holding a cat and a dog."
+        },
+        "original_coco_captions": [
+            "A cat sitting on a pile of books.",
+            "A cat that is sitting on some books.",
+            "The cat stands on top of the stack of books at the newsstand.",
+            "A cat sits on top of a stack of magazines. ",
+            "A cat sitting on top of a pile of books in a city."
+        ]
+    },
+    {
+        "image_id": 470623,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000470623.jpg",
+        "generated_captions": {
+            "blip": "a cat is laying on the ground next to a car",
+            "gpt2": "a cat is sitting on the side of the road ",
+            "pix2struct": "A bottle of wine next to a glass of beer."
+        },
+        "original_coco_captions": [
+            "A cat that is laying down underneath a car.",
+            "An orange cat sitting behind a silver vehicle.",
+            "A cat is sitting behind the tire of a truck.",
+            "a cat sits down under neath a car ",
+            "A cat sits underneath a vehicle in a parking lot."
+        ]
+    },
+    {
+        "image_id": 216428,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000216428.jpg",
+        "generated_captions": {
+            "blip": "a cat standing on a toilet bowl",
+            "gpt2": "a cat is standing on a toilet bowl ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "a cat drinking from a toilet and the cat on top of the toilet",
+            "A cat on a toilet seat in some dirty washroom.",
+            "A black and white cat standing on top of a white toilet.",
+            "A cat is standing on top of a toilet.",
+            "there is a black and white cat drinking from a toilet"
+        ]
+    },
+    {
+        "image_id": 437556,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000437556.jpg",
+        "generated_captions": {
+            "blip": "a cat eating out of a bowl on the floor",
+            "gpt2": "a cat laying on the floor eating out of a bowl ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "A kitten eating food out of a dish on the kitchen floor.",
+            "A kitten is eating cat food from its dish.",
+            "A cat that is eating some food on the ground.",
+            "Black and white cat eating from a bowl. ",
+            "a cat eats out of their food bowl dramaticly"
+        ]
+    },
+    {
+        "image_id": 327177,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000327177.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on the back of a car",
+            "gpt2": "a cat sitting on top of a car ",
+            "pix2struct": "A car with a license plate that says WDW 319."
+        },
+        "original_coco_captions": [
+            "A cat sitting on top of a green car.",
+            "A cat sitting on the roof of a parked car.",
+            "A cat sitting on top of a parked car.",
+            "an orange black and white cat sitting on a blue car",
+            "A brown and white cat sitting on the roof of car."
+        ]
+    },
+    {
+        "image_id": 319706,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000319706.jpg",
+        "generated_captions": {
+            "blip": "a cat laying on top of a computer desk",
+            "gpt2": "a cat laying on top of a computer desk ",
+            "pix2struct": "A man is holding a book titled \"The Secret Life of the Mind\"."
+        },
+        "original_coco_captions": [
+            "A cat sits on a desk in front of a computer. ",
+            "A black and white cat laying on top of a computer desk.",
+            "A cat sits on the top of a computer desk.",
+            "A cat sleeps on top of a computer desk.",
+            "a cat stretched out on a computer desk"
+        ]
+    },
+    {
+        "image_id": 271035,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000271035.jpg",
+        "generated_captions": {
+            "blip": "a cat is sitting on a pedestal in a bathroom",
+            "gpt2": "a cat is standing in a bathroom sink ",
+            "pix2struct": "A bottle of champagne sits next to a glass of beer."
+        },
+        "original_coco_captions": [
+            "a cat laying inside of a bathroom sink",
+            "A curious cat looking in a sink of a bathroom.",
+            "a cat that is drinking out of a sink",
+            "The black and orange cat is standing on the bathroom sink. ",
+            "Cat drinking water from a sink in a bathroom."
+        ]
+    },
+    {
+        "image_id": 117891,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000117891.jpg",
+        "generated_captions": {
+            "blip": "a small kitten sitting in a blue bowl",
+            "gpt2": "a kitten is sitting in a blue bowl ",
+            "pix2struct": "A person is holding a blue bottle of wine that says 'the snob'"
+        },
+        "original_coco_captions": [
+            "A gray and white cat sitting in blue bowl.",
+            "A small gray kitten sitting in a blue bowl",
+            "A kitty sitting in a blue bowl on a table.",
+            "A small kitten sits in a large bowl. ",
+            "A grey and white kitten sitting in a blue bowl."
+        ]
+    },
+    {
+        "image_id": 176857,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000176857.jpg",
+        "generated_captions": {
+            "blip": "a group of people sitting on the ground",
+            "gpt2": "a man is sitting on a ledge with a laptop ",
+            "pix2struct": "A man wearing a red shirt that says \"The Man\" is standing in front of a crowd"
+        },
+        "original_coco_captions": [
+            "People in a hall with a camera taking a picture",
+            "a group of people that are petting a cat",
+            "A group of people sitting around petting a cat.",
+            "A group of women siting around a cat as they pet it.",
+            "People are sitting on the ground petting a cat."
+        ]
+    },
+    {
+        "image_id": 285421,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000285421.jpg",
+        "generated_captions": {
+            "blip": "a black cat is standing on the toilet",
+            "gpt2": "a cat is sitting on the toilet seat ",
+            "pix2struct": "A bottle of beer with a label that says 8."
+        },
+        "original_coco_captions": [
+            "A black cat is inside a white toilet.",
+            "A black cat drinking water from a toilet",
+            "A cat drinking water from a toilet in a bathroom.",
+            "A cat puts her head inside of a toilet. ",
+            "A cat is drinking water out of a toilet."
+        ]
+    },
+    {
+        "image_id": 316008,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000316008.jpg",
+        "generated_captions": {
+            "blip": "a sink with a sink and a sink with a bowl",
+            "gpt2": "a white bowl with a cat sitting on top of it ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "A kitchen counter top with a white bowl sitting next to another white bowl.",
+            "An eye level counter-view shows blue tile, a faucet, dish scrubbers, bowls, a squirt bottle and similar kitchen items. ",
+            "A kitchen counter top with bowls sitting next to the sink.",
+            "A siamese kitten in a bowl on a drainer next to a tap",
+            "a large white bowl sits next to the kitchen sink"
+        ]
+    },
+    {
+        "image_id": 546264,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000546264.jpg",
+        "generated_captions": {
+            "blip": "a cat laying on a motorcycle",
+            "gpt2": "a cat laying on top of a motorcycle ",
+            "pix2struct": "A man is holding a bottle of beer that says 'the snooze'"
+        },
+        "original_coco_captions": [
+            "An orange cat laying on the seat of a motorcycle",
+            "A large orange tabby cat is laying down on a motorcycle seat.",
+            "a cat resting on a the seat of a motorcycle",
+            "A cat lying on the seat of a motorcycle",
+            "A yellow domestic cat sitting on the seat of a motorcycle."
+        ]
+    },
+    {
+        "image_id": 181963,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000181963.jpg",
+        "generated_captions": {
+            "blip": "a cat is sitting on the hood of a car",
+            "gpt2": "a black cat sitting on top of a car ",
+            "pix2struct": "A car with a license plate that says 0071 on it."
+        },
+        "original_coco_captions": [
+            "A black cat sleeping on the hood of a warm car.",
+            "A silver car with a black cat sleeping on top of it.",
+            "A black laying on a car on a street.",
+            "A black cat laying on a parked car. ",
+            "Cat asleep on top of a black car in a downtown area. "
+        ]
+    },
+    {
+        "image_id": 194594,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000194594.jpg",
+        "generated_captions": {
+            "blip": "two cats in a bathtub",
+            "gpt2": "two cats are playing in a bathtub together ",
+            "pix2struct": "A man is wearing a black shirt that says \"The New York Times\"."
+        },
+        "original_coco_captions": [
+            "a couple of cats sit in front of a tub full of water ",
+            "Two cats curiously look at water in the bath tub.",
+            "A couple cats examine a bathtub with water in it.",
+            "Two cats in a bathroom near a tub of water.",
+            "two black cats standing one taking water from a bath tub"
+        ]
+    },
+    {
+        "image_id": 325768,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000325768.jpg",
+        "generated_captions": {
+            "blip": "a motorcycle parked in a parking",
+            "gpt2": "a motorcycle parked in front of a restaurant ",
+            "pix2struct": "A man is holding a bottle of alcohol and a bottle of alcohol says Resiveleri Cer"
+        },
+        "original_coco_captions": [
+            "A small kitten is lying on the seat of a large motorcycle.",
+            "a cat sitting on a motorcycle next to a sidewalk.",
+            "Two men sitting behind a pair of motorcycles.",
+            "A bunch of bike-related parts outside some cafe.",
+            "The man are sitting outside looking at the bikes. "
+        ]
+    },
+    {
+        "image_id": 332159,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000332159.jpg",
+        "generated_captions": {
+            "blip": "two cats in a sink",
+            "gpt2": "two cats are playing in a sink ",
+            "pix2struct": "A man is holding a box of Tango Xiang."
+        },
+        "original_coco_captions": [
+            "Two cats getting into a sink in a bathroom ",
+            "The cats are curious about what is in the sink.",
+            "Two black cats in a bathroom sink. ",
+            "Two cats playing in a sink with a cluttered shelf.",
+            "Two cats that are looking in a sink."
+        ]
+    },
+    {
+        "image_id": 301014,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000301014.jpg",
+        "generated_captions": {
+            "blip": "a cat drinking out of a cup",
+            "gpt2": "a cat and a dog eating food together ",
+            "pix2struct": "A man is holding a book titled \"Woll-Jins\"."
+        },
+        "original_coco_captions": [
+            "two cats sitting side by side eating out of a dish",
+            "Two cats are eating out of different bowls.",
+            "Two cats eating from bowls on the floor of a living room",
+            "Two kitties are eating from their bowls in front of the videos.",
+            "A couple of cats on a table eating food."
+        ]
+    },
+    {
+        "image_id": 489687,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000489687.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on the hood of a car",
+            "gpt2": "a cat sitting on top of a car ",
+            "pix2struct": "A car with a license plate that says 10+1."
+        },
+        "original_coco_captions": [
+            "A cat sitting on top of a a black car.",
+            "A cat is lying on the hood of a black car.",
+            "An orange cat laying on top of a black car.",
+            "A white and tan cat laying on top of a black BMW",
+            "A cat sitting on top of a car and resting."
+        ]
+    },
+    {
+        "image_id": 94536,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000094536.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on the floor next to a bicycle",
+            "gpt2": "a cat is standing on the floor next to a bicycle ",
+            "pix2struct": "A watch is sitting on a table and has the word \"S\" on it."
+        },
+        "original_coco_captions": [
+            "A cat that is by a bicycle wheel.",
+            "A white and striped cat is sitting on the floor next to the bicycle. ",
+            "A couple of cats standing next to a bike tire.",
+            "A very cute cat standing by a bike.",
+            "THERE IS A CAT THAT IS LOOKING AT ANOTHER CAT"
+        ]
+    },
+    {
+        "image_id": 20307,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000020307.jpg",
+        "generated_captions": {
+            "blip": "a bicycle parked on the sidewalk",
+            "gpt2": "a bicycle parked next to a window ",
+            "pix2struct": "A black and white photo of a car with the license plate 7."
+        },
+        "original_coco_captions": [
+            "A bicycle sitting beside a black door and steps.",
+            "A bike stands outside an apartment building with two cats at the window.",
+            "A bicycle is parked outside a window that has two cats in it.",
+            "A bicycle leaning against a white window with two cats in it.",
+            "A bike parked up next to a building"
+        ]
+    },
+    {
+        "image_id": 307989,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000307989.jpg",
+        "generated_captions": {
+            "blip": "two kittens in a kitchen",
+            "gpt2": "two cats are eating from a bowl on the floor ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "A couple of kittens standing around metal bowls on a tray.",
+            "two baby kittens at the feeding bowls one is drinking",
+            "A kitten drinking water out of a bowl on a tray. ",
+            "Two little kittens drinking water out of the bowls",
+            "Two kittens drink water from some bowls. "
+        ]
+    },
+    {
+        "image_id": 71687,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000071687.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on top of a car dashboard",
+            "gpt2": "a cat sitting on a chair looking out the window ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "A cat sitting on top of a pile of white towels.",
+            "a cat standing on top of a cars ash board ",
+            "a cat is walking across the dash of a car",
+            "A cat sits on the dash of a car.",
+            "A kitty sitting on a newspaper on a car's dashboard."
+        ]
+    },
+    {
+        "image_id": 107087,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000107087.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting in the passenger seat of a car",
+            "gpt2": "a cat sitting in the window of a car ",
+            "pix2struct": "A black and white photo of a phone that says'sss' on it."
+        },
+        "original_coco_captions": [
+            "A black cat sits in a car and looks out.",
+            "A black cat looking out the windshield of a car.",
+            "A cat inside of a car during the day.",
+            "A cat is sitting in a car near the dash.",
+            "A black cat looks out from the inside of a car. "
+        ]
+    },
+    {
+        "image_id": 497443,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000497443.jpg",
+        "generated_captions": {
+            "blip": "a black cat is sitting in a bathtub",
+            "gpt2": "a black cat sitting in a bathtub next to a sink ",
+            "pix2struct": "A pair of scissors are next to a knife."
+        },
+        "original_coco_captions": [
+            "A cat sitting on the edge of a tub with the faucet running.",
+            "A cat watching a bathtub fill up with water.",
+            "A black cat sitting on ledge of bathtub next to flowing water.",
+            "A cat watches a tub filling up with water.",
+            "a black cat is sitting by a faucet of running water in a tub"
+        ]
+    },
+    {
+        "image_id": 194313,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000194313.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on a bathroom sink",
+            "gpt2": "a black cat laying on a bathroom sink ",
+            "pix2struct": "A man is holding a bottle of wine that says 'the 1000'"
+        },
+        "original_coco_captions": [
+            "A black and white cat is sitting on the bathroom sink.",
+            "A black and white cat laying down in a bathroom sink with it's head up.",
+            "A black cat laying on a bathroom sink.",
+            "A black and white cat laying on white sink.",
+            "Black and white cat resting on the edge of a sink"
+        ]
+    },
+    {
+        "image_id": 387478,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000387478.jpg",
+        "generated_captions": {
+            "blip": "a dog is sitting on the ground behind a fence",
+            "gpt2": "a bicycle is parked next to a fence ",
+            "pix2struct": "A black and white photo of a train with the number 50 on it."
+        },
+        "original_coco_captions": [
+            "There is a black and white photo of a cat behind a fence",
+            "A cat, a bicycle, and a chair are in a yard behind a train track.",
+            "a bike and a white chair sitting next to each other by a fence ",
+            "A cat, a bicycle, and a chair are behind the chain linked fence.",
+            "A cat, bicycle, and char inside a fence."
+        ]
+    },
+    {
+        "image_id": 281296,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000281296.jpg",
+        "generated_captions": {
+            "blip": "a woman holding a cat in her arms",
+            "gpt2": "a woman holding a cat in her arms ",
+            "pix2struct": "A man wearing a red shirt that says \"The Man\" is holding a bottle of wine."
+        },
+        "original_coco_captions": [
+            "a woman and her cat nervously look at the camera",
+            "A woman sitting down with a cat on her lap.",
+            "A woman is shown snuggling with her cat.",
+            "A woman wearing a red sweater holding a cat.",
+            "In person cuddling in a blanket with a cat"
+        ]
+    },
+    {
+        "image_id": 9801,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000009801.jpg",
+        "generated_captions": {
+            "blip": "a woman is sitting on a motor with a cat",
+            "gpt2": "a woman is sitting on a bike with a cat ",
+            "pix2struct": "A man is sitting in front of a clock that says 10:00."
+        },
+        "original_coco_captions": [
+            "A person near a bike and a car on a street.",
+            "A parked motorcycle with a cat and a person leaning on top of it.",
+            "A woman is next to a scooter and cat.",
+            "a woman is looking at a cat on a bike",
+            "A cat sitting on a motorcycle that is parked in a driveway."
+        ]
+    },
+    {
+        "image_id": 130921,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000130921.jpg",
+        "generated_captions": {
+            "blip": "two cats sitting on a bathroom counter looking at each other cats",
+            "gpt2": "a cat sitting on a bathroom counter next to a sink ",
+            "pix2struct": "A woman is holding a bottle of beer that says 1."
+        },
+        "original_coco_captions": [
+            "A large cat sitting on top of a bathroom sink.",
+            "A cat staring at it's mirrored reflection in a mirror on top of a sink in a bathroom.",
+            "A cat sitting on a counter near a sink and mirror.",
+            "A cat is looking at his reflection in the mirror.",
+            "A house cat looking at it's own reflection in the bathroom mirror."
+        ]
+    },
+    {
+        "image_id": 94536,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000094536.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on the floor next to a bicycle",
+            "gpt2": "a cat is standing on the floor next to a bicycle ",
+            "pix2struct": "A watch is sitting on a table and has the word \"S\" on it."
+        },
+        "original_coco_captions": [
+            "A cat that is by a bicycle wheel.",
+            "A white and striped cat is sitting on the floor next to the bicycle. ",
+            "A couple of cats standing next to a bike tire.",
+            "A very cute cat standing by a bike.",
+            "THERE IS A CAT THAT IS LOOKING AT ANOTHER CAT"
+        ]
+    },
+    {
+        "image_id": 2295,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000002295.jpg",
+        "generated_captions": {
+            "blip": "a cat is sitting on a wooden plate",
+            "gpt2": "a cat is sitting in a wooden bowl ",
+            "pix2struct": "A silver coin that says 1000 on it."
+        },
+        "original_coco_captions": [
+            "A cat peering into a wooden bowl which is sitting on a table.",
+            "A CAT ON A WOODEN SURFACE IS LOOKING AT A WOODEN BOWL",
+            "A cat is looking at an empty bowl on the floor.",
+            "A cat staring at the bottom of a brown bowl. ",
+            "A cat looking inside a wooden bowl for some food."
+        ]
+    },
+    {
+        "image_id": 463066,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000463066.jpg",
+        "generated_captions": {
+            "blip": "a cat is standing on a rug in a bathroom",
+            "gpt2": "a cat sitting on the toilet seat of a bathroom ",
+            "pix2struct": "A book with a book titled \"The Book of the Dead\" is open to a page titled"
+        },
+        "original_coco_captions": [
+            "A cat perched on top of  a white toilet seat.",
+            "A cute little cat sticking its head in a toilet.",
+            "a cat in a bath room looking inside of a toilet bowl",
+            "A cat stands at the seat of a toilet.",
+            "A grey and white cat sticking its head into a toilet."
+        ]
+    },
+    {
+        "image_id": 333406,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000333406.jpg",
+        "generated_captions": {
+            "blip": "a woman holding a cat",
+            "gpt2": "a woman holding a cat in her arms ",
+            "pix2struct": "A woman is holding a red and white shirt that says \"S\"."
+        },
+        "original_coco_captions": [
+            "The woman smiles while posing with a big cat in her arms.",
+            "A woman holding a cat in her arm.",
+            "Martha Stewart holding a fluffy Siamese cat on her arms.",
+            "A woman in red sweater holding a black and white cat.",
+            "Martha Stewart posing with a fluffy Himalayan cat."
+        ]
+    },
+    {
+        "image_id": 303099,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000303099.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on a toilet",
+            "gpt2": "a cat sitting on a toilet in a bathroom ",
+            "pix2struct": "A man is holding a phone that says 'iphone 4'"
+        },
+        "original_coco_captions": [
+            "Two cats are shown sitting on a toilet.",
+            "Pair of cats sitting on commode in bathroom of residence.",
+            "Two cats are in the bathroom sitting on the toilet.",
+            "two cats are sitting on the toilet of the bathroom",
+            "A couple of cats sitting on top of a white toilet."
+        ]
+    },
+    {
+        "image_id": 491216,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000491216.jpg",
+        "generated_captions": {
+            "blip": "a cat is walking in a kitchen area",
+            "gpt2": "a cat is laying on the floor in a kitchen ",
+            "pix2struct": "A man is holding a book titled \"The Secret Life of the Mind\"."
+        },
+        "original_coco_captions": [
+            "A cat walking through a kitchen by a eating tray.",
+            "A kitchen with a cat walking past a refrigerator freezer.",
+            "A cat is walking in a kitchen that has cookware hanging on the wall.",
+            "a cat walking down the center of the kitchen",
+            "A cat is walking across a rug on a kitchen floor."
+        ]
+    },
+    {
+        "image_id": 251639,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000251639.jpg",
+        "generated_captions": {
+            "blip": "a cat is standing next to a bicycle",
+            "gpt2": "a cat standing on top of a bicycle ",
+            "pix2struct": "A man wearing a green shirt with the letters 'UK' on it."
+        },
+        "original_coco_captions": [
+            "A cat sniffing an upside down blue bicycle.",
+            "A cat checking out a bike that is upside down.",
+            "A cat sniffing at a upside down bike in a living room ",
+            "A grey cat sniffing a bicycle in a living room.",
+            "A gray cat is looking at an upside down blue bicycle."
+        ]
+    },
+    {
+        "image_id": 260925,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000260925.jpg",
+        "generated_captions": {
+            "blip": "a cat laying on the hood of a car",
+            "gpt2": "a cat laying on the hood of a car ",
+            "pix2struct": "A man is cooking a meal in a kitchen with a glass of beer."
+        },
+        "original_coco_captions": [
+            "A cat sitting on the hood of a car.",
+            "A cat laying on a white car outside. ",
+            "A black and white cat lays on the hood of a car.",
+            "Startled cat lying on the windshield of a car.",
+            "The cat is laying on the hood of the car. "
+        ]
+    },
+    {
+        "image_id": 304560,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000304560.jpg",
+        "generated_captions": {
+            "blip": "a black cat sitting in the grass",
+            "gpt2": "a black cat sitting in the grass ",
+            "pix2struct": "A man wearing a black shirt that says \"The Man\" is standing in front of a tree"
+        },
+        "original_coco_captions": [
+            "A black ct with green eyes sitting in the sun.",
+            "A cat that is staring at the camera.",
+            "A black cat sitting in a field of grass.",
+            "I black cat with yellow eyes sitting in the grass.",
+            "A black cat is staring directly into the camera. "
+        ]
+    },
+    {
+        "image_id": 72810,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000072810.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on a bike in the snow",
+            "gpt2": "a cat sitting on a bench next to a bike ",
+            "pix2struct": "A man is holding a watch that says the number 10."
+        },
+        "original_coco_captions": [
+            "A bicycle parked next to a snow covered park bench.",
+            "A cat sits on the seat of a bicycle and looks down at another cat on a snowy day.",
+            "A cat standing on a bicycle that is leaning against a bench.",
+            "A cat on a  bike seat near a bench",
+            "an image of a bike parked next to a bench\n"
+        ]
+    },
+    {
+        "image_id": 467675,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000467675.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on a bathroom counter next to a sink",
+            "gpt2": "a cat sitting on a bathroom counter next to a sink ",
+            "pix2struct": "A man is holding a baby and wearing a shirt that says T.V."
+        },
+        "original_coco_captions": [
+            "An angry cat hissing while sitting on a bathroom counter.",
+            "Cat phissing or yawning on a bathroom countertop",
+            "A cat that is sitting near a sink.",
+            "A cat snarling at a person taking a picture of it.",
+            "A cat is hissing in the bathroom on the counter."
+        ]
+    },
+    {
+        "image_id": 327769,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000327769.jpg",
+        "generated_captions": {
+            "blip": "a cat is laying in a sink in a bathroom",
+            "gpt2": "a cat laying in a bathroom sink ",
+            "pix2struct": "A man is holding a box of 3.045."
+        },
+        "original_coco_captions": [
+            "A cat lying down in a sink in a bathroom.",
+            "a cat laying in a bathroom sink while looking at the camera ",
+            "A cat in a white sink looking out.",
+            "A cat curled up in a white bathroom sink.",
+            "A cat lying inside a sink with a hair brush, sanitizer and toothpaste on top"
+        ]
+    },
+    {
+        "image_id": 75742,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000075742.jpg",
+        "generated_captions": {
+            "blip": "a cat is sitting under a car",
+            "gpt2": "a cat sitting on the ground next to a car ",
+            "pix2struct": "A black and white photo of a dog with the word \"dog\" on it."
+        },
+        "original_coco_captions": [
+            "The cat is sitting underneath the parked car. ",
+            "A long haired cat crouched under the back of a car.",
+            "A cat that is laying down on the ground.",
+            "a close up of a cat laying under a car ",
+            "A cat underneath a car on the pavement looking Rome underneath "
+        ]
+    },
+    {
+        "image_id": 275219,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000275219.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting in a blue basket",
+            "gpt2": "a cat sitting on a wooden bench ",
+            "pix2struct": "A person is holding a small dog that has the letters D on it."
+        },
+        "original_coco_captions": [
+            "a gray cat is seen laying on top of a blue tube",
+            "The cat sits in the basket of a bicyclist.",
+            "A gray cat sits over the edge of a basket.",
+            "A cat sits in a basket with a person standing behind. ",
+            "A cat that is laying down on a hose."
+        ]
+    },
+    {
+        "image_id": 127854,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000127854.jpg",
+        "generated_captions": {
+            "blip": "two cats in a bathtub",
+            "gpt2": "two cats are in a bathtub with a white sink ",
+            "pix2struct": "A man is holding a black and white photo of a cat."
+        },
+        "original_coco_captions": [
+            "there are two cats that are laying inside of a tub",
+            "Two cats sitting together in an empty bathtub.",
+            "A pair of cats sit in an empty bathtub.",
+            "Two cats occupy a bathtub, one sitting and one lying down. ",
+            "two cats chill in the bathtub one is laying down"
+        ]
+    },
+    {
+        "image_id": 216428,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000216428.jpg",
+        "generated_captions": {
+            "blip": "a cat standing on a toilet bowl",
+            "gpt2": "a cat is standing on a toilet bowl ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "a cat drinking from a toilet and the cat on top of the toilet",
+            "A cat on a toilet seat in some dirty washroom.",
+            "A black and white cat standing on top of a white toilet.",
+            "A cat is standing on top of a toilet.",
+            "there is a black and white cat drinking from a toilet"
+        ]
+    },
+    {
+        "image_id": 489344,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000489344.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting in a bathroom next to a toilet",
+            "gpt2": "a cat sitting on the floor next to a toilet ",
+            "pix2struct": "A man is holding a bottle of wine that says 'a bottle of wine' on it"
+        },
+        "original_coco_captions": [
+            "Cat on floor by toilet looking up to cat laying in sink",
+            "A white toilet and a sink with a cat.",
+            "A washroom with toilet and sink in which a cat is s",
+            "Two cats in a bathroom one in a sink and one near the toilet.",
+            "A very cute cat sitting in a sink in the rest room."
+        ]
+    },
+    {
+        "image_id": 215353,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000215353.jpg",
+        "generated_captions": {
+            "blip": "a woman sitting in a car with a cat",
+            "gpt2": "a woman sitting on a couch with a cat ",
+            "pix2struct": "A man wearing a shirt that says 6 on it."
+        },
+        "original_coco_captions": [
+            "Cute multi colored kitten sitting in woman's lap",
+            "A person sitting in a car with a cat on their lap.",
+            "there's a woman sitting in a car seat holding a kitten",
+            "A very cute small cat sitting on a persons lap.",
+            "a close up of a person holding a cat "
+        ]
+    },
+    {
+        "image_id": 158497,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000158497.jpg",
+        "generated_captions": {
+            "blip": "a dog looking at a dishwasher",
+            "gpt2": "a dog and a cat are in a kitchen ",
+            "pix2struct": "A man is holding a phone that says 'explore' on it."
+        },
+        "original_coco_captions": [
+            "A kitchen filled with lots of dogs near a dishwasher.",
+            "Dogs are looking into the open loaded dishwasher.",
+            "A couple of dogs standing in a kitchen.",
+            "Three large dogs are in the kitchen near the dish washer.",
+            "A dog inspects an open dishwasher in a kitchen."
+        ]
+    },
+    {
+        "image_id": 72810,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000072810.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on a bike in the snow",
+            "gpt2": "a cat sitting on a bench next to a bike ",
+            "pix2struct": "A man is holding a watch that says the number 10."
+        },
+        "original_coco_captions": [
+            "A bicycle parked next to a snow covered park bench.",
+            "A cat sits on the seat of a bicycle and looks down at another cat on a snowy day.",
+            "A cat standing on a bicycle that is leaning against a bench.",
+            "A cat on a  bike seat near a bench",
+            "an image of a bike parked next to a bench\n"
+        ]
+    },
+    {
+        "image_id": 41322,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000041322.jpg",
+        "generated_captions": {
+            "blip": "a cat wearing a red shirt",
+            "gpt2": "a cat sitting on a rug with a book ",
+            "pix2struct": "A watch that says the time 10:10"
+        },
+        "original_coco_captions": [
+            "A cat wearing a sweater and glasses under a book shelf.",
+            "a cat in a red shirt is wearing some glasses",
+            "The cat under the table wears glasses and a sweater.",
+            "A cat is sitting under a shelf wearing a pair of glasses. ",
+            "A cat wearing a sweater and a pair of glasses"
+        ]
+    },
+    {
+        "image_id": 7386,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000007386.jpg",
+        "generated_captions": {
+            "blip": "a motorcycle parked in front of a garage",
+            "gpt2": "a small motorized scooter parked in front of a house ",
+            "pix2struct": "A man is holding a bottle of wine that says 'the 100' on"
+        },
+        "original_coco_captions": [
+            "a small motor bike outside of the garage",
+            "A tricycle sits outside of a garage. ",
+            "A motorcycle parked in front of an open garage.",
+            "a home made three wheeled trike sitting in a driveway",
+            "A motorcycle frame that has been made in to a tricycle. "
+        ]
+    },
+    {
+        "image_id": 22816,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000022816.jpg",
+        "generated_captions": {
+            "blip": "a boy sitting on a chair",
+            "gpt2": "a boy is holding a basket of oranges ",
+            "pix2struct": "A man wearing a red shirt that says 'activ' on it."
+        },
+        "original_coco_captions": [
+            "A little boy that is standing in the dirt next to a basket.",
+            "A child in a yellow coat watching over potatoes.",
+            "A boy is standing next to a table full of oranges.",
+            "A boy standing in front of a large basket filled with fruit.",
+            "A sad little boy standing in front of a basket of fruit."
+        ]
+    },
+    {
+        "image_id": 137803,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000137803.jpg",
+        "generated_captions": {
+            "blip": "a black and white photo",
+            "gpt2": "a man riding a horse through a parade ",
+            "pix2struct": "A photo of a man in a suit and a shirt that says Queen Elizabeth II."
+        },
+        "original_coco_captions": [
+            "Pictures of Queen Elizbeth the second riding a horse.",
+            "There are several pictures of a woman riding a horse at a competition.",
+            "Horse riders are showing off their horses tricks.",
+            "A view of horses galloping and prancing in a parade.",
+            "A man rides a horse in the center of a road and many people stand nearby."
+        ]
+    },
+    {
+        "image_id": 157155,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000157155.jpg",
+        "generated_captions": {
+            "blip": "a man riding a horse",
+            "gpt2": "a man riding a horse down a street ",
+            "pix2struct": "A man is holding a bottle of wine that says 1800."
+        },
+        "original_coco_captions": [
+            "The officer is riding a horse threw the streets. ",
+            "some people om a street some cars buildings and a policeman on a horse at night",
+            "a person riding on horse goes down a city street ",
+            "A horse walking along a city street with reflective bands on its legs.",
+            "A man riding a horse in a city street with people on the roadside"
+        ]
+    },
+    {
+        "image_id": 230615,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000230615.jpg",
+        "generated_captions": {
+            "blip": "a city street with cars parked on the side",
+            "gpt2": "a horse and carriage are parked on the side of the street ",
+            "pix2struct": "A boat with a license plate that says 1000 on it."
+        },
+        "original_coco_captions": [
+            "A man riding down the street in a horse and carriage",
+            "A group of cars parked in a lot.",
+            "A horse drawn carriage comes down the street on a clear day.",
+            "a horse drawn carriage on a city street",
+            "The cars are sharing the busy road with the horse."
+        ]
+    },
+    {
+        "image_id": 190494,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000190494.jpg",
+        "generated_captions": {
+            "blip": "a white cloud in the sky",
+            "gpt2": "a horse drawn carriage on a city street ",
+            "pix2struct": "A billboard advertises the movie 'On Safari'."
+        },
+        "original_coco_captions": [
+            "A horse-drawn carriage moves past a historical building.",
+            "A horse drawn carriage in a historic city. ",
+            "The horse drawn carriage rides down the street near two large buildings. ",
+            "European city with older stone structures and busy street.",
+            "A horse drawn cart is driving down the road."
+        ]
+    },
+    {
+        "image_id": 137803,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000137803.jpg",
+        "generated_captions": {
+            "blip": "a black and white photo",
+            "gpt2": "a man riding a horse through a parade ",
+            "pix2struct": "A photo of a man in a suit and a shirt that says Queen Elizabeth II."
+        },
+        "original_coco_captions": [
+            "Pictures of Queen Elizbeth the second riding a horse.",
+            "There are several pictures of a woman riding a horse at a competition.",
+            "Horse riders are showing off their horses tricks.",
+            "A view of horses galloping and prancing in a parade.",
+            "A man rides a horse in the center of a road and many people stand nearby."
+        ]
+    },
+    {
+        "image_id": 186822,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000186822.jpg",
+        "generated_captions": {
+            "blip": "a bathroom with a sink, toilet, and mirror",
+            "gpt2": "a bathroom with a sink, toilet, mirror and a towel rack ",
+            "pix2struct": "A man is standing in front of a kitchen with a fridge that says'stove"
+        },
+        "original_coco_captions": [
+            "A bathroom sink sitting under a mirror sitting next to a toilet.",
+            "a sink sitting next to a toilet and mirror ",
+            "A bathroom with mint green walls and a white toilet. ",
+            "A bathroom showing sink, mirror and toilet ",
+            "A small bathroom has a mirror, vanity and toilet"
+        ]
+    },
+    {
+        "image_id": 129520,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000129520.jpg",
+        "generated_captions": {
+            "blip": "a dirt track",
+            "gpt2": "a horse race is being run on a track ",
+            "pix2struct": "A man in a shirt that says Garrard's sits on a boat."
+        },
+        "original_coco_captions": [
+            "A couple of men riding horse drawn carriages.",
+            "Two equestrians are leading horse and buggy around a track.",
+            "Two horse-drawn chariots racing on a track. ",
+            "Two horses and jockeys in a harness race. ",
+            "There is a horse race going on in a carriage cart"
+        ]
+    },
+    {
+        "image_id": 392364,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000392364.jpg",
+        "generated_captions": {
+            "blip": "a statue of a man on a horse",
+            "gpt2": "a statue of a horse and a statue of a horse in a park ",
+            "pix2struct": "A large building with a clock that says 10:00."
+        },
+        "original_coco_captions": [
+            "a statue of a person riding a horse in front of a building",
+            "A statue of a man riding a horse next to a very tall building.",
+            "A statue of a man riding a horse sits atop the sculpture in the square.",
+            "a city square at night with buildings around it",
+            "A dusk view of the city center focused on the statue of a man on a horse. "
+        ]
+    },
+    {
+        "image_id": 400456,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000400456.jpg",
+        "generated_captions": {
+            "blip": "a woman riding a horse",
+            "gpt2": "a woman riding a horse in a parking lot ",
+            "pix2struct": "A man is holding a boat and wearing a shirt that says \"Sailing\"."
+        },
+        "original_coco_captions": [
+            "A man riding on the back of a brown horse in front of a truck.",
+            "A woman riding a horse in front of a car next to a fence. ",
+            "The woman rides on a horse walks in front of the car.",
+            "Lady on horse in front of barbed wire fence",
+            "A woman riding a horse in front of a fence with razor wire"
+        ]
+    },
+    {
+        "image_id": 529344,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000529344.jpg",
+        "generated_captions": {
+            "blip": "a man riding a horse",
+            "gpt2": "a man riding on the back of a brown horse ",
+            "pix2struct": "A man is holding a bottle of wine that says \"Cheers\"."
+        },
+        "original_coco_captions": [
+            "Two men riding horses near a wooden fence.",
+            "two men in brown black and white horses",
+            "A cowboy sits in a soft wool saddle.",
+            "A cowboy riding a horse with another man.",
+            "Two men upon horseback on a cloudy day."
+        ]
+    },
+    {
+        "image_id": 17741,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000017741.jpg",
+        "generated_captions": {
+            "blip": "a white horse drawn carriage",
+            "gpt2": "a street scene with a horse drawn carriage ",
+            "pix2struct": "A large building with a clock that says 10:00."
+        },
+        "original_coco_captions": [
+            "Three horse drawn carriages in front of a huge house with a clock on it. ",
+            "A very tall church with a  clock on it's face.",
+            "Three horse drawn carriages in front of a castle",
+            "Three horse and buggies are parked out in front of a building that has three steeples.",
+            "Some horse drawn carriages in front of a large building."
+        ]
+    },
+    {
+        "image_id": 17178,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000017178.jpg",
+        "generated_captions": {
+            "blip": "a horse walking down the road",
+            "gpt2": "two horses are standing in the street near a car ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old House\"."
+        },
+        "original_coco_captions": [
+            "Horses communing with each other on a shady street.",
+            "A few horses stand on the street next to a silver car.",
+            "a couple of horses standing in front of a car ",
+            "A silver sports car is parked beside horse droppings left by a group of horses.",
+            "horses stand around on a neighborhood street in front of a car"
+        ]
+    },
+    {
+        "image_id": 261888,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000261888.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike down a road",
+            "gpt2": "a man riding a bike down a street ",
+            "pix2struct": "A man wearing a black shirt that says \"The Man\" is riding a bike."
+        },
+        "original_coco_captions": [
+            "a couple of people that are biking down a road",
+            "A bike with horses in background of the rider",
+            "A bicyclist waiting in the roadway until two horses pass.",
+            "A biker stands on a path as horses follow.",
+            "a bicyclist rests on a bike on an empty highway with two horses walking alone up the street "
+        ]
+    },
+    {
+        "image_id": 50411,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000050411.jpg",
+        "generated_captions": {
+            "blip": "a man riding a horse down a street",
+            "gpt2": "a man riding a horse down a street ",
+            "pix2struct": "A man is standing in front of a sign that says \"The New York Times\"."
+        },
+        "original_coco_captions": [
+            "A mounted police officer riding down a city street past parked cars.",
+            "A gentleman riding a horse down a city street.",
+            "A man rides a horse down a city street.",
+            "Man riding white horse in the street while others watch.",
+            "A man on a horse walking down the middle of a street."
+        ]
+    },
+    {
+        "image_id": 327663,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000327663.jpg",
+        "generated_captions": {
+            "blip": "a crowd of people",
+            "gpt2": "a large group of people are on horses in a parade ",
+            "pix2struct": "A man wearing a shirt that says Police is standing in front of a building."
+        },
+        "original_coco_captions": [
+            "A group of horse mounted police standing in front of a crowd.",
+            "Riot police form a line to control a crowd. ",
+            "Police on horseback and bicycles holding a crowd back on a street.",
+            "Police on foot, horseback, and bicycle engage in crowd control on city street.",
+            "police sitting on a street blocking people in a certain section"
+        ]
+    }
+]

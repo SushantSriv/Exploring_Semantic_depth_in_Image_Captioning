@@ -1,0 +1,1586 @@
+[
+    {
+        "image_id": 12547,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000012547.jpg",
+        "generated_captions": {
+            "blip": "a man sitting on a bench",
+            "gpt2": "a woman sitting on a bench with two men ",
+            "pix2struct": "A man in a suit stands in front of a wall that says \"Photos 44"
+        },
+        "original_coco_captions": [
+            "Two elderly people are sitting on a city bench.",
+            "Elderly couple sitting on black city bench. ",
+            "A man and woman sitting on a bench next to birds.",
+            "A few people sitting on a bench feed the birds",
+            "Two people sitting on a bench on a sidewalk near stores."
+        ]
+    },
+    {
+        "image_id": 175331,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000175331.jpg",
+        "generated_captions": {
+            "blip": "a bird is perched on the top of a building",
+            "gpt2": "a building with a large window and a clock on it ",
+            "pix2struct": "A clock tower with roman numerals and roman numerals"
+        },
+        "original_coco_captions": [
+            "There are people standing at the top of this building.",
+            "A tall brick building with a red roof covered in tiles.",
+            "A top of a building with an arched window. ",
+            "A small bird perched on top of a beige brick building.",
+            "A view of a top of a building in day, it appears to be old."
+        ]
+    },
+    {
+        "image_id": 12547,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000012547.jpg",
+        "generated_captions": {
+            "blip": "a man sitting on a bench",
+            "gpt2": "a woman sitting on a bench with two men ",
+            "pix2struct": "A man in a suit stands in front of a wall that says \"Photos 44"
+        },
+        "original_coco_captions": [
+            "Two elderly people are sitting on a city bench.",
+            "Elderly couple sitting on black city bench. ",
+            "A man and woman sitting on a bench next to birds.",
+            "A few people sitting on a bench feed the birds",
+            "Two people sitting on a bench on a sidewalk near stores."
+        ]
+    },
+    {
+        "image_id": 96514,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000096514.jpg",
+        "generated_captions": {
+            "blip": "a bird standing in water",
+            "gpt2": "a white bird standing on top of a body of water ",
+            "pix2struct": "A bottle of beer sits next to a glass of beer."
+        },
+        "original_coco_captions": [
+            "A small white bird standing on top of a pond of water.",
+            "A bird is standing on a shallow body of water.",
+            "The black and white bird stands in shallow water.",
+            "A black and white bird that is standing in the water.",
+            "A black and white bird stands in the water."
+        ]
+    },
+    {
+        "image_id": 69189,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000069189.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike with a bunch of chickens on it",
+            "gpt2": "a man riding a bike down a street with a basket of carrots ",
+            "pix2struct": "A man cooking food in a kitchen with a plate of food that says 'Cook'"
+        },
+        "original_coco_captions": [
+            "A man riding a bike down a street.",
+            "A man transports chickens by bicycle on a busy street.",
+            "a person with the stuff riding a bicycle",
+            "a person riding a bike with chickens strapped to the back.",
+            "A person rides a bicycle down the road."
+        ]
+    },
+    {
+        "image_id": 297980,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000297980.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike down a flight of stairs",
+            "gpt2": "a man on a bicycle is riding on a ledge ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "a person that is riding a bike next to some seats",
+            "A bunch of birds that are sitting on steps.",
+            "There is a cyclist riding above all the pigeons.",
+            "A man on a bicycle above spectator stands, where pigeons graze.",
+            "A cyclist pedals past a flock of birds perched on a grating."
+        ]
+    },
+    {
+        "image_id": 111099,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000111099.jpg",
+        "generated_captions": {
+            "blip": "a cloudy sky",
+            "gpt2": "people walking on a sidewalk near a pier ",
+            "pix2struct": "A man is standing in front of a boat that says 'C' on the side."
+        },
+        "original_coco_captions": [
+            "People standing and sitting around at a pier",
+            "People are walking and sitting near a body of water. ",
+            "A city pier with benches to enjoy the view",
+            "People sitting on benches and walking along a water front.",
+            "A group of people hanging out next to the ocean."
+        ]
+    },
+    {
+        "image_id": 56205,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000056205.jpg",
+        "generated_captions": {
+            "blip": "a man sitting on a bench",
+            "gpt2": "a person sitting on a bench near a street ",
+            "pix2struct": "A man is standing in front of a clock that says 10:00."
+        },
+        "original_coco_captions": [
+            "A person sits next to their bike while birds walk nearby.",
+            "A man sits on a curb with his bicycle",
+            "A black and whit photo of a woman sitting hear her bike.",
+            "a person sitting next to a bicycle while watching pigeons on a sidewalk.",
+            "a person sitting on a ledge with a bike near by"
+        ]
+    },
+    {
+        "image_id": 371958,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000371958.jpg",
+        "generated_captions": {
+            "blip": "a clock tower with a clock on top of it",
+            "gpt2": "a clock tower with birds flying around it ",
+            "pix2struct": "A clock that says 10:00 on the face of it."
+        },
+        "original_coco_captions": [
+            "The top of a brick clock tower surrounded by birds.",
+            "A flock of birds is seen flying around a clock tower.",
+            "A large stone building with birds flying around it",
+            "A tall clock tower with birds flying around it.",
+            "Many small birds are flying around a clock tower."
+        ]
+    },
+    {
+        "image_id": 371958,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000371958.jpg",
+        "generated_captions": {
+            "blip": "a clock tower with a clock on top of it",
+            "gpt2": "a clock tower with birds flying around it ",
+            "pix2struct": "A clock that says 10:00 on the face of it."
+        },
+        "original_coco_captions": [
+            "The top of a brick clock tower surrounded by birds.",
+            "A flock of birds is seen flying around a clock tower.",
+            "A large stone building with birds flying around it",
+            "A tall clock tower with birds flying around it.",
+            "Many small birds are flying around a clock tower."
+        ]
+    },
+    {
+        "image_id": 12547,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000012547.jpg",
+        "generated_captions": {
+            "blip": "a man sitting on a bench",
+            "gpt2": "a woman sitting on a bench with two men ",
+            "pix2struct": "A man in a suit stands in front of a wall that says \"Photos 44"
+        },
+        "original_coco_captions": [
+            "Two elderly people are sitting on a city bench.",
+            "Elderly couple sitting on black city bench. ",
+            "A man and woman sitting on a bench next to birds.",
+            "A few people sitting on a bench feed the birds",
+            "Two people sitting on a bench on a sidewalk near stores."
+        ]
+    },
+    {
+        "image_id": 71145,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000071145.jpg",
+        "generated_captions": {
+            "blip": "a bird perched on top of a church steep",
+            "gpt2": "a bird perched on top of a church tower ",
+            "pix2struct": "A church with a clock on the side of it."
+        },
+        "original_coco_captions": [
+            "a bird on top of a cross on top of a building ",
+            "A facade to the front on an old church.",
+            "A bird sits on the top of a cross in an old church.",
+            "A pigeon balances precariously at the highest point of the tower.",
+            "A bird sitting on top of a tall metal weather vein."
+        ]
+    },
+    {
+        "image_id": 111099,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000111099.jpg",
+        "generated_captions": {
+            "blip": "a cloudy sky",
+            "gpt2": "people walking on a sidewalk near a pier ",
+            "pix2struct": "A man is standing in front of a boat that says 'C' on the side."
+        },
+        "original_coco_captions": [
+            "People standing and sitting around at a pier",
+            "People are walking and sitting near a body of water. ",
+            "A city pier with benches to enjoy the view",
+            "People sitting on benches and walking along a water front.",
+            "A group of people hanging out next to the ocean."
+        ]
+    },
+    {
+        "image_id": 120977,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000120977.jpg",
+        "generated_captions": {
+            "blip": "a city skyline",
+            "gpt2": "a large building with a clock on top ",
+            "pix2struct": "A cityscape with a clock tower and a clock tower that says 10:00"
+        },
+        "original_coco_captions": [
+            "A city full of buildings under a smoggy sky.",
+            "A bird flies over a tower with a green dome.",
+            "A church tower with a clock on it is above a city.",
+            "A bunch of buildings in a city and a bird flying over one of the buildings",
+            "The skyline of a city with classic architecture. "
+        ]
+    },
+    {
+        "image_id": 297980,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000297980.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike down a flight of stairs",
+            "gpt2": "a man on a bicycle is riding on a ledge ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "a person that is riding a bike next to some seats",
+            "A bunch of birds that are sitting on steps.",
+            "There is a cyclist riding above all the pigeons.",
+            "A man on a bicycle above spectator stands, where pigeons graze.",
+            "A cyclist pedals past a flock of birds perched on a grating."
+        ]
+    },
+    {
+        "image_id": 433373,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000433373.jpg",
+        "generated_captions": {
+            "blip": "a table with two red chairs and a plant",
+            "gpt2": "a table with a plate of food and a glass of wine ",
+            "pix2struct": "A book titled \"The Secret Life of the Mind\" is on a table."
+        },
+        "original_coco_captions": [
+            "two plates of food on a table with chairs",
+            "Two trays of supper are kept on a table.",
+            "a table filled with plates with red chairs next to it ",
+            "a black table with some red chairs around it",
+            "A cafe with black table and red chairs."
+        ]
+    },
+    {
+        "image_id": 433373,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000433373.jpg",
+        "generated_captions": {
+            "blip": "a table with two red chairs and a plant",
+            "gpt2": "a table with a plate of food and a glass of wine ",
+            "pix2struct": "A book titled \"The Secret Life of the Mind\" is on a table."
+        },
+        "original_coco_captions": [
+            "two plates of food on a table with chairs",
+            "Two trays of supper are kept on a table.",
+            "a table filled with plates with red chairs next to it ",
+            "a black table with some red chairs around it",
+            "A cafe with black table and red chairs."
+        ]
+    },
+    {
+        "image_id": 123585,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000123585.jpg",
+        "generated_captions": {
+            "blip": "a group of birds eating food on the ground",
+            "gpt2": "a bird is eating a donut on the ground ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "a few birds eating stuff off the ground",
+            "A pigeon with it's head inside of a donut.",
+            "A pigeon outside with his head in a piece of bread. ",
+            "a pigeon eating out of a bread bowl. ",
+            "A bird is eating bread on the pavement."
+        ]
+    },
+    {
+        "image_id": 123585,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000123585.jpg",
+        "generated_captions": {
+            "blip": "a group of birds eating food on the ground",
+            "gpt2": "a bird is eating a donut on the ground ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "a few birds eating stuff off the ground",
+            "A pigeon with it's head inside of a donut.",
+            "A pigeon outside with his head in a piece of bread. ",
+            "a pigeon eating out of a bread bowl. ",
+            "A bird is eating bread on the pavement."
+        ]
+    },
+    {
+        "image_id": 297980,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000297980.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike down a flight of stairs",
+            "gpt2": "a man on a bicycle is riding on a ledge ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "a person that is riding a bike next to some seats",
+            "A bunch of birds that are sitting on steps.",
+            "There is a cyclist riding above all the pigeons.",
+            "A man on a bicycle above spectator stands, where pigeons graze.",
+            "A cyclist pedals past a flock of birds perched on a grating."
+        ]
+    },
+    {
+        "image_id": 268927,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000268927.jpg",
+        "generated_captions": {
+            "blip": "a man sitting on a bench",
+            "gpt2": "a man is looking at birds on a street ",
+            "pix2struct": "A man is standing in front of a clock that says 10:00."
+        },
+        "original_coco_captions": [
+            "Black and white photograph of person with birds.",
+            "A black and white photo of a person close to a pigeon.",
+            "A person in a hood looking at a pair of birds on a rail.",
+            "A black and white photo of someone feeding two birds.",
+            "A person in a hoodie close to perched pigeons."
+        ]
+    },
+    {
+        "image_id": 371958,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000371958.jpg",
+        "generated_captions": {
+            "blip": "a clock tower with a clock on top of it",
+            "gpt2": "a clock tower with birds flying around it ",
+            "pix2struct": "A clock that says 10:00 on the face of it."
+        },
+        "original_coco_captions": [
+            "The top of a brick clock tower surrounded by birds.",
+            "A flock of birds is seen flying around a clock tower.",
+            "A large stone building with birds flying around it",
+            "A tall clock tower with birds flying around it.",
+            "Many small birds are flying around a clock tower."
+        ]
+    },
+    {
+        "image_id": 152886,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000152886.jpg",
+        "generated_captions": {
+            "blip": "a woman is walking with a small child",
+            "gpt2": "a woman is walking with a bird on her shoulder ",
+            "pix2struct": "A man wearing a black shirt with the number 22 on it."
+        },
+        "original_coco_captions": [
+            "A black and white image of a woman catching a bird",
+            "Couple of women near pigeons near a busy town",
+            "A woman on a path holds out her hand for a bird to alight on.",
+            "A woman that is standing near the birds.",
+            "Two women standing in the park surrounded by birds."
+        ]
+    },
+    {
+        "image_id": 152886,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000152886.jpg",
+        "generated_captions": {
+            "blip": "a woman is walking with a small child",
+            "gpt2": "a woman is walking with a bird on her shoulder ",
+            "pix2struct": "A man wearing a black shirt with the number 22 on it."
+        },
+        "original_coco_captions": [
+            "A black and white image of a woman catching a bird",
+            "Couple of women near pigeons near a busy town",
+            "A woman on a path holds out her hand for a bird to alight on.",
+            "A woman that is standing near the birds.",
+            "Two women standing in the park surrounded by birds."
+        ]
+    },
+    {
+        "image_id": 371958,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000371958.jpg",
+        "generated_captions": {
+            "blip": "a clock tower with a clock on top of it",
+            "gpt2": "a clock tower with birds flying around it ",
+            "pix2struct": "A clock that says 10:00 on the face of it."
+        },
+        "original_coco_captions": [
+            "The top of a brick clock tower surrounded by birds.",
+            "A flock of birds is seen flying around a clock tower.",
+            "A large stone building with birds flying around it",
+            "A tall clock tower with birds flying around it.",
+            "Many small birds are flying around a clock tower."
+        ]
+    },
+    {
+        "image_id": 371958,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000371958.jpg",
+        "generated_captions": {
+            "blip": "a clock tower with a clock on top of it",
+            "gpt2": "a clock tower with birds flying around it ",
+            "pix2struct": "A clock that says 10:00 on the face of it."
+        },
+        "original_coco_captions": [
+            "The top of a brick clock tower surrounded by birds.",
+            "A flock of birds is seen flying around a clock tower.",
+            "A large stone building with birds flying around it",
+            "A tall clock tower with birds flying around it.",
+            "Many small birds are flying around a clock tower."
+        ]
+    },
+    {
+        "image_id": 371958,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000371958.jpg",
+        "generated_captions": {
+            "blip": "a clock tower with a clock on top of it",
+            "gpt2": "a clock tower with birds flying around it ",
+            "pix2struct": "A clock that says 10:00 on the face of it."
+        },
+        "original_coco_captions": [
+            "The top of a brick clock tower surrounded by birds.",
+            "A flock of birds is seen flying around a clock tower.",
+            "A large stone building with birds flying around it",
+            "A tall clock tower with birds flying around it.",
+            "Many small birds are flying around a clock tower."
+        ]
+    },
+    {
+        "image_id": 152886,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000152886.jpg",
+        "generated_captions": {
+            "blip": "a woman is walking with a small child",
+            "gpt2": "a woman is walking with a bird on her shoulder ",
+            "pix2struct": "A man wearing a black shirt with the number 22 on it."
+        },
+        "original_coco_captions": [
+            "A black and white image of a woman catching a bird",
+            "Couple of women near pigeons near a busy town",
+            "A woman on a path holds out her hand for a bird to alight on.",
+            "A woman that is standing near the birds.",
+            "Two women standing in the park surrounded by birds."
+        ]
+    },
+    {
+        "image_id": 297980,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000297980.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike down a flight of stairs",
+            "gpt2": "a man on a bicycle is riding on a ledge ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "a person that is riding a bike next to some seats",
+            "A bunch of birds that are sitting on steps.",
+            "There is a cyclist riding above all the pigeons.",
+            "A man on a bicycle above spectator stands, where pigeons graze.",
+            "A cyclist pedals past a flock of birds perched on a grating."
+        ]
+    },
+    {
+        "image_id": 297980,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000297980.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike down a flight of stairs",
+            "gpt2": "a man on a bicycle is riding on a ledge ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "a person that is riding a bike next to some seats",
+            "A bunch of birds that are sitting on steps.",
+            "There is a cyclist riding above all the pigeons.",
+            "A man on a bicycle above spectator stands, where pigeons graze.",
+            "A cyclist pedals past a flock of birds perched on a grating."
+        ]
+    },
+    {
+        "image_id": 297980,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000297980.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike down a flight of stairs",
+            "gpt2": "a man on a bicycle is riding on a ledge ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "a person that is riding a bike next to some seats",
+            "A bunch of birds that are sitting on steps.",
+            "There is a cyclist riding above all the pigeons.",
+            "A man on a bicycle above spectator stands, where pigeons graze.",
+            "A cyclist pedals past a flock of birds perched on a grating."
+        ]
+    },
+    {
+        "image_id": 297980,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000297980.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike down a flight of stairs",
+            "gpt2": "a man on a bicycle is riding on a ledge ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "a person that is riding a bike next to some seats",
+            "A bunch of birds that are sitting on steps.",
+            "There is a cyclist riding above all the pigeons.",
+            "A man on a bicycle above spectator stands, where pigeons graze.",
+            "A cyclist pedals past a flock of birds perched on a grating."
+        ]
+    },
+    {
+        "image_id": 297980,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000297980.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike down a flight of stairs",
+            "gpt2": "a man on a bicycle is riding on a ledge ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "a person that is riding a bike next to some seats",
+            "A bunch of birds that are sitting on steps.",
+            "There is a cyclist riding above all the pigeons.",
+            "A man on a bicycle above spectator stands, where pigeons graze.",
+            "A cyclist pedals past a flock of birds perched on a grating."
+        ]
+    },
+    {
+        "image_id": 152886,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000152886.jpg",
+        "generated_captions": {
+            "blip": "a woman is walking with a small child",
+            "gpt2": "a woman is walking with a bird on her shoulder ",
+            "pix2struct": "A man wearing a black shirt with the number 22 on it."
+        },
+        "original_coco_captions": [
+            "A black and white image of a woman catching a bird",
+            "Couple of women near pigeons near a busy town",
+            "A woman on a path holds out her hand for a bird to alight on.",
+            "A woman that is standing near the birds.",
+            "Two women standing in the park surrounded by birds."
+        ]
+    },
+    {
+        "image_id": 297980,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000297980.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike down a flight of stairs",
+            "gpt2": "a man on a bicycle is riding on a ledge ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "a person that is riding a bike next to some seats",
+            "A bunch of birds that are sitting on steps.",
+            "There is a cyclist riding above all the pigeons.",
+            "A man on a bicycle above spectator stands, where pigeons graze.",
+            "A cyclist pedals past a flock of birds perched on a grating."
+        ]
+    },
+    {
+        "image_id": 297980,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000297980.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike down a flight of stairs",
+            "gpt2": "a man on a bicycle is riding on a ledge ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "a person that is riding a bike next to some seats",
+            "A bunch of birds that are sitting on steps.",
+            "There is a cyclist riding above all the pigeons.",
+            "A man on a bicycle above spectator stands, where pigeons graze.",
+            "A cyclist pedals past a flock of birds perched on a grating."
+        ]
+    },
+    {
+        "image_id": 297980,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000297980.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike down a flight of stairs",
+            "gpt2": "a man on a bicycle is riding on a ledge ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "a person that is riding a bike next to some seats",
+            "A bunch of birds that are sitting on steps.",
+            "There is a cyclist riding above all the pigeons.",
+            "A man on a bicycle above spectator stands, where pigeons graze.",
+            "A cyclist pedals past a flock of birds perched on a grating."
+        ]
+    },
+    {
+        "image_id": 297980,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000297980.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike down a flight of stairs",
+            "gpt2": "a man on a bicycle is riding on a ledge ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "a person that is riding a bike next to some seats",
+            "A bunch of birds that are sitting on steps.",
+            "There is a cyclist riding above all the pigeons.",
+            "A man on a bicycle above spectator stands, where pigeons graze.",
+            "A cyclist pedals past a flock of birds perched on a grating."
+        ]
+    },
+    {
+        "image_id": 297980,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000297980.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike down a flight of stairs",
+            "gpt2": "a man on a bicycle is riding on a ledge ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "a person that is riding a bike next to some seats",
+            "A bunch of birds that are sitting on steps.",
+            "There is a cyclist riding above all the pigeons.",
+            "A man on a bicycle above spectator stands, where pigeons graze.",
+            "A cyclist pedals past a flock of birds perched on a grating."
+        ]
+    },
+    {
+        "image_id": 297980,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000297980.jpg",
+        "generated_captions": {
+            "blip": "a man riding a bike down a flight of stairs",
+            "gpt2": "a man on a bicycle is riding on a ledge ",
+            "pix2struct": "A man is standing in front of a building that says \"The Old Town\"."
+        },
+        "original_coco_captions": [
+            "a person that is riding a bike next to some seats",
+            "A bunch of birds that are sitting on steps.",
+            "There is a cyclist riding above all the pigeons.",
+            "A man on a bicycle above spectator stands, where pigeons graze.",
+            "A cyclist pedals past a flock of birds perched on a grating."
+        ]
+    },
+    {
+        "image_id": 157807,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000157807.jpg",
+        "generated_captions": {
+            "blip": "a cat standing on a toilet",
+            "gpt2": "a cat standing on top of a toilet bowl ",
+            "pix2struct": "A man is holding a bottle of wine that says 1."
+        },
+        "original_coco_captions": [
+            "a cat that is standing on a toilet and next to a sink",
+            "A cat with a look of annoyance standing on a toilet lid.",
+            "Cat standing on a toilet seat looking at the person taking the photo.",
+            "A tabby cat standing on a closed toilet lid.",
+            "a grey striped cat sitting on top of a toilet"
+        ]
+    },
+    {
+        "image_id": 304447,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000304447.jpg",
+        "generated_captions": {
+            "blip": "a cat is sitting on a toilet paper",
+            "gpt2": "a cat is laying on a toilet in a bathroom ",
+            "pix2struct": "A man is holding a bottle of wine that says 'alice' on it."
+        },
+        "original_coco_captions": [
+            "Cats in a bathroom playing with the toilet paper",
+            "a cat playing with a roll of toilet paper in the bathroom",
+            "Kittens playing with rolls of\nToilet tissue in a bathroom",
+            "A cat in a bathroom with toilet paper on the floor.",
+            "Two cats destroying a roll of toilet paper in a bathroom on a blue towel."
+        ]
+    },
+    {
+        "image_id": 360510,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000360510.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on top of a car",
+            "gpt2": "a cat sitting on top of a car ",
+            "pix2struct": "A book titled \"The Book of the Dead\" sits on a table."
+        },
+        "original_coco_captions": [
+            "A cat laying on to of a car roof.",
+            "Orange and black cat sitting on the hood of a car.",
+            "A brown and black cat lying on top of a car.",
+            "a cat is resting on top of a car. ",
+            "A cat sitting on top of a convertible car in a carport. "
+        ]
+    },
+    {
+        "image_id": 109055,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000109055.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on the ground next to a bicycle",
+            "gpt2": "a cat is sitting on the seat of a bike ",
+            "pix2struct": "A man is holding a book titled \"The Secret Life of the Mind\"."
+        },
+        "original_coco_captions": [
+            "A cat sitting between two bikes  sitting next to each other.",
+            "A cat that is sitting in between bikes.",
+            "A cat with its mouth opened sitting between some bikes.",
+            "Cat sitting on the ground between bikes showing its teeth.",
+            "a cat sitting next to a bunch of bikes parked next to each other"
+        ]
+    },
+    {
+        "image_id": 302292,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000302292.jpg",
+        "generated_captions": {
+            "blip": "a man sitting on a couch holding a cat",
+            "gpt2": "a man holding a cat in his hand ",
+            "pix2struct": "A man is holding a bottle of wine and wearing a shirt that says \"C\"."
+        },
+        "original_coco_captions": [
+            "A man holding a small cat in his hands.",
+            "A young man cuddling a small cat in his hands.",
+            "A man holds a small animal to his face.",
+            "A man snuggling a small animal near his face",
+            "A man holding a small black and white cat in his hands and placing his face next to it."
+        ]
+    },
+    {
+        "image_id": 474667,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000474667.jpg",
+        "generated_captions": {
+            "blip": "a young girl holding a black kitten",
+            "gpt2": "a man holding a black cat in his arms ",
+            "pix2struct": "A woman is holding a bottle of wine and a bottle of wine that says'sa"
+        },
+        "original_coco_captions": [
+            "A person holding a black cat next to their face.",
+            "A teenager with acne, holding up a black cat.",
+            "A person looks at the camera while holding a black cat.",
+            "a person is holding up a black cat",
+            "A man with a black kitten is staring at the viewer."
+        ]
+    },
+    {
+        "image_id": 402333,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000402333.jpg",
+        "generated_captions": {
+            "blip": "a cat standing on its hinds in a kitchen",
+            "gpt2": "a cat is standing on a counter looking at a person ",
+            "pix2struct": "A man is holding a bottle of wine that says 'a bottle of wine' on it"
+        },
+        "original_coco_captions": [
+            "A cat on the kitchen counter sticking its nose in a cupboard.",
+            "A cat standing on a kitchen counter looking into a cupboard.",
+            "A cat climbing up the side of a kitchen cupboard.",
+            " a black cat looking in a kithen cabinet",
+            "A cat snooping into a kitchen cabinet with a woman looking."
+        ]
+    },
+    {
+        "image_id": 310442,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000310442.jpg",
+        "generated_captions": {
+            "blip": "a woman riding a bike with a cat on her back",
+            "gpt2": "a woman riding a bike with a cat on her back ",
+            "pix2struct": "A man wearing a shirt that says \"The Man\" is standing in front of a tree."
+        },
+        "original_coco_captions": [
+            "A woman riding a bike with a cat on her",
+            "A woman in white shirt on bicycle with a cat on her shoulders.",
+            "A girl riding a bicycle with a cat on her shoulders.",
+            "A woman riding a bike smile with a cat on her shoulders.",
+            "A woman on a bike that has a cat on its shoulders."
+        ]
+    },
+    {
+        "image_id": 114239,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000114239.jpg",
+        "generated_captions": {
+            "blip": "a woman is standing in a kitchen with a cat",
+            "gpt2": "a woman is looking at a cat in a kitchen ",
+            "pix2struct": "A man is holding a bottle of wine and a bottle of wine that says 'the man"
+        },
+        "original_coco_captions": [
+            "A woman holding up measuring cups and a cat watching on the counter.",
+            "A woman is in her kitchen with a black cat.",
+            "She is explaining how she made the cat's treat.",
+            "A young woman's cat watches her bake in the kitchen",
+            "The woman holds a measuring cup beside a sitting cat."
+        ]
+    },
+    {
+        "image_id": 292365,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000292365.jpg",
+        "generated_captions": {
+            "blip": "a cat standing on the floor",
+            "gpt2": "a cat sitting on the floor next to a toilet ",
+            "pix2struct": "A man is holding a bottle of wine and a bottle of wine that says \"A\"."
+        },
+        "original_coco_captions": [
+            "The cat is standing up next to the toilet.",
+            "A cat with paws on the toilet seat intrigued",
+            "A cat with its front paws on a toilet seat.",
+            "A striped cat standing next to an open toilet.",
+            "a cat that is next to a toilet"
+        ]
+    },
+    {
+        "image_id": 496402,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000496402.jpg",
+        "generated_captions": {
+            "blip": "a man playing chess with a cat on a couch",
+            "gpt2": "a man sitting on a couch with a cat ",
+            "pix2struct": "A man is holding a phone that says T on it."
+        },
+        "original_coco_captions": [
+            "A man playing chess as a cat watches in the other chair.",
+            "A man playing a game of chess with a cat.",
+            "A man seated at a chessboard with a cat on the other side.",
+            "a person playing chess with a cat sitting across the chess player",
+            "A guy playing a chess board with a cat across from him."
+        ]
+    },
+    {
+        "image_id": 23272,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000023272.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on the hood of a car",
+            "gpt2": "a cat is standing on top of a car ",
+            "pix2struct": "A man is holding a phone that says 'phone' on it."
+        },
+        "original_coco_captions": [
+            "A Calico cat laying on the hood of a Mercedes.",
+            "a cat is sitting on the hood of a car\n",
+            "a cat is sleeping on the hood of a car",
+            "A calico cat sits on  the hood of a black car.",
+            "A calico cat with eyes closed is perched upon a Mercedes."
+        ]
+    },
+    {
+        "image_id": 269511,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000269511.jpg",
+        "generated_captions": {
+            "blip": "a cat is sitting in a doorway of a building",
+            "gpt2": "a cat sitting on a ledge near a door ",
+            "pix2struct": "A man is holding a book titled \"The Art of the Book\"."
+        },
+        "original_coco_captions": [
+            "a small cat is sitting on a step by a door",
+            "A cat sitting on top of a step on front of an entrance.",
+            "A siamese cat is sitting on some old steps.",
+            "A cat is sitting at the door step of a house",
+            "The cat lies on a step outside a doorway."
+        ]
+    },
+    {
+        "image_id": 45208,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000045208.jpg",
+        "generated_captions": {
+            "blip": "a black cat in a bathtub",
+            "gpt2": "a black cat is sitting on a white toilet ",
+            "pix2struct": "A black and white photo of a phone that says'sms' on it."
+        },
+        "original_coco_captions": [
+            "A small black cat sitting on the ground.",
+            "A small clack cat sitting in  a white bathtub",
+            "The top of a black cat sitting down. ",
+            "A black cat sits in a cream tub.",
+            "a black cat sitting in a white bathtube looking down"
+        ]
+    },
+    {
+        "image_id": 74583,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000074583.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on a table",
+            "gpt2": "a cat sitting on a chair next to a bicycle ",
+            "pix2struct": "A picture of a man's hand is on a table."
+        },
+        "original_coco_captions": [
+            "A cat laying on a cushion on top of a table.",
+            "A cat on a table in a fancy basket with fringe beside a parked bicycle.",
+            "Altered photograph of a cat sitting on a stool bench by a bicycle",
+            "A cat sitting on top of a bed next to a  wall.",
+            "a cat that is sitting on a pillow"
+        ]
+    },
+    {
+        "image_id": 134096,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000134096.jpg",
+        "generated_captions": {
+            "blip": "a cat standing on a sink in a bathroom",
+            "gpt2": "a cat sitting on a sink in a bathroom ",
+            "pix2struct": "A man is holding a book that says \"The Book of the Dead\"."
+        },
+        "original_coco_captions": [
+            "A calico cat drinking from a sink faucet.",
+            "Cat attempting to get a drink out of a faucet.",
+            "A cat drinking out of the faucet of a sink.",
+            "A calico cat drinks water from a faucet. ",
+            "A cat drinking water from a bathroom faucet."
+        ]
+    },
+    {
+        "image_id": 501523,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000501523.jpg",
+        "generated_captions": {
+            "blip": "a black cat sitting in a sink",
+            "gpt2": "a black cat sitting in a bathroom sink ",
+            "pix2struct": "A person is holding a box of a 2000 brand watch."
+        },
+        "original_coco_captions": [
+            "A black cat is sitting in a bathroom sink.",
+            "A cat laying down in a bathroom sink. ",
+            "A black cat sits in a white bathroom sink.",
+            "A black cat that is sitting in a sink.",
+            "A BLACK CAT SITTING INSIDE OF A SINK IN THE BATHROOM "
+        ]
+    },
+    {
+        "image_id": 489344,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000489344.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting in a bathroom next to a toilet",
+            "gpt2": "a cat sitting on the floor next to a toilet ",
+            "pix2struct": "A man is holding a bottle of wine that says 'a bottle of wine' on it"
+        },
+        "original_coco_captions": [
+            "Cat on floor by toilet looking up to cat laying in sink",
+            "A white toilet and a sink with a cat.",
+            "A washroom with toilet and sink in which a cat is s",
+            "Two cats in a bathroom one in a sink and one near the toilet.",
+            "A very cute cat sitting in a sink in the rest room."
+        ]
+    },
+    {
+        "image_id": 559776,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000559776.jpg",
+        "generated_captions": {
+            "blip": "a cat on a car",
+            "gpt2": "a cat laying on top of a car ",
+            "pix2struct": "A man is holding a bottle of wine that says \"Cheers\"."
+        },
+        "original_coco_captions": [
+            "A long haired cat lounging on top of a car.",
+            "a close up of a cat laying on a car roof",
+            "A grey and black striped cat slaying on top of a car.",
+            "A cat is lying on the roof of a car.",
+            "Cat lying indolently on top of a small car."
+        ]
+    },
+    {
+        "image_id": 168834,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000168834.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on a toilet",
+            "gpt2": "a cat is sitting in a sink with a bowl ",
+            "pix2struct": "A cat is holding a small kitten and the cat is wearing a shirt that says \"WOW"
+        },
+        "original_coco_captions": [
+            "Cute little cat sitting inside of a bidet",
+            "A cat sitting inside a toilet bowl looking alert.",
+            "there is a small kitten inside of a sink",
+            "A brown cat crouches and arches its back in a white sink.",
+            "A cat sitting inside a sink in a bathroom "
+        ]
+    },
+    {
+        "image_id": 578632,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000578632.jpg",
+        "generated_captions": {
+            "blip": "a cat sleeping on the hood of a car",
+            "gpt2": "a cat laying on top of a car window ",
+            "pix2struct": "A plate of food is on a table next to a plate of food."
+        },
+        "original_coco_captions": [
+            "A cat sitting on the hood of a car.",
+            "A large orange cat sleeps on the hood of a car.",
+            "Large cat laying down asleep on top of a car. ",
+            "An orange cat sleeping on the hood of a car",
+            "An orange cat sitting in the middle of a car hood."
+        ]
+    },
+    {
+        "image_id": 218924,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000218924.jpg",
+        "generated_captions": {
+            "blip": "a cat is sitting on a toilet bowl",
+            "gpt2": "a cat is sitting on the toilet seat ",
+            "pix2struct": "A man is holding a bottle of wine that says'saint' on it."
+        },
+        "original_coco_captions": [
+            "an image of a cat in a toilet with the water",
+            "A small cat has it's front paws inside a toilet.",
+            "a cat inside of a toilet bowl in a bathroom",
+            "Cat standing in toilet next to a tile floor.",
+            "a cat standing on the edge of a toilet bowl with its front paws inside of the toilet."
+        ]
+    },
+    {
+        "image_id": 31392,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000031392.jpg",
+        "generated_captions": {
+            "blip": "a cat on the dashboard of a car",
+            "gpt2": "a cat is sitting in the back of a car ",
+            "pix2struct": "A man is holding a phone that says'snoozing' on it."
+        },
+        "original_coco_captions": [
+            "A cat sitting on the dashboard of a car.",
+            "The black and white cat is sitting on the dashboard of the car. ",
+            "A cat yawns on the dashboard of a car.  ",
+            "Grey cat on dashboard of moving car on highway.",
+            "a black and white cat in a car and some trees"
+        ]
+    },
+    {
+        "image_id": 125850,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000125850.jpg",
+        "generated_captions": {
+            "blip": "a cat curled in a bowl on a wooden floor",
+            "gpt2": "a cat sitting in a bowl on a table ",
+            "pix2struct": "A person holding a coin that says 'the man's name'."
+        },
+        "original_coco_captions": [
+            "A cat laying in a green bowl on a wooden table.",
+            "A cat laying in a bowl asleep on the ground.",
+            "A cat is curled up and sleeping in a round tin.",
+            "A cat that has curled up in a bowl.",
+            "This gray cat has curled up into a ball"
+        ]
+    },
+    {
+        "image_id": 284623,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000284623.jpg",
+        "generated_captions": {
+            "blip": "a black cat sitting on a bathroom sink",
+            "gpt2": "a black cat sitting on a counter top ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "A black cat sits in a bathroom sink.",
+            "A black cat looking intently at the camera",
+            "A black cat sitting on top of a bathroom sink.",
+            "A black cat sitting inside a bathroom sink",
+            "Black cat with green eyes sitting in a bathroom sink. "
+        ]
+    },
+    {
+        "image_id": 296871,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000296871.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting under a table with bottles of beer",
+            "gpt2": "a black and white cat sitting on a wooden floor ",
+            "pix2struct": "A book titled \"The Book of the Dead\" sits on a table."
+        },
+        "original_coco_captions": [
+            "a cat resting on the ground next to some beer bottles and a table",
+            "A cat sitting in a closet looking out ",
+            "A smaller black cat is hiding under the table. ",
+            "A black and white cat sitting between bottles and a furniture leg",
+            "A cat us peeking out under a stool with bottles on the floor."
+        ]
+    },
+    {
+        "image_id": 207557,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000207557.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on the hood of a car",
+            "gpt2": "a cat sitting on top of a car hood ",
+            "pix2struct": "A man is holding a bottle of alcohol and the bottle says 'a'"
+        },
+        "original_coco_captions": [
+            "An orange and white cat sitting on metal surface at night.",
+            "An orange and white cat sitting on a table.",
+            "A cat sitting on the hood of a car at night.",
+            "A cat sitting on the hood of a car.",
+            "A cat is sitting on a table in the dark."
+        ]
+    },
+    {
+        "image_id": 317715,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000317715.jpg",
+        "generated_captions": {
+            "blip": "a cat is sleeping under a bike",
+            "gpt2": "a cat laying on the ground next to a bike tire ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "A cat laying next to a bike with a large tire.",
+            "a couple of wheels are next to each other outside",
+            "A cat sitting next to a bicycle wheel looking through the spokes. ",
+            "A view of a cat reclining seen through the spokes of bicycle tires",
+            "Two spoke tires with white walls are parked."
+        ]
+    },
+    {
+        "image_id": 483249,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000483249.jpg",
+        "generated_captions": {
+            "blip": "two cats sleeping on the hood of a car",
+            "gpt2": "two cats laying on top of a car ",
+            "pix2struct": "A bottle of wine is next to a glass of beer."
+        },
+        "original_coco_captions": [
+            "A couple of cats sleeping on a car hood.",
+            "two kittens lay side by side on a car hood",
+            "Two cats are curled up on the hood of a car.",
+            "Two dark, stripped cats sit on the hood of a silver car.",
+            "two cats curled up on top of a car hood"
+        ]
+    },
+    {
+        "image_id": 245764,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000245764.jpg",
+        "generated_captions": {
+            "blip": "a cat is sitting on a toilet in a bathroom",
+            "gpt2": "a cat sitting on top of a toilet in a bathroom ",
+            "pix2struct": "A man is wearing a shirt that says \"S\" on it."
+        },
+        "original_coco_captions": [
+            "A cat sits on the edge of a toilet.",
+            "A cat sitting on the edge of the toilet looking toward the open bathroom door.",
+            "a black and gray cat is sitting on a toilet",
+            "A cat laying on a toilet seat with its paws inside .",
+            "A cat is laying on a toilet seat"
+        ]
+    },
+    {
+        "image_id": 38769,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000038769.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on the dashboard of a car",
+            "gpt2": "a cat sitting on the hood of a car ",
+            "pix2struct": "A person is holding a phone that says \"phone\"."
+        },
+        "original_coco_captions": [
+            "A cat perched on a car dashboard travelling on a street.",
+            "A cat is sitting on the top of a car's dashboard.",
+            "Grey and black striped cat sitting on the hood of a car. ",
+            "A cat looks bewildered on top of a dash",
+            "A cat is sitting on the dashboard of a car."
+        ]
+    },
+    {
+        "image_id": 508846,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000508846.jpg",
+        "generated_captions": {
+            "blip": "a cat in a toilet",
+            "gpt2": "a cat laying in a white sink in a yard ",
+            "pix2struct": "A man is holding a book titled \"The Art of the Dog\"."
+        },
+        "original_coco_captions": [
+            "A cat hiding in a basket of some sort.",
+            "Gray cat lying in white sink in grassy area.",
+            "A gray cat is sitting inside of a sink.",
+            "A cat lays in an uninstalled bathroom sink outside.",
+            "A kitten lies in a sink basin outside."
+        ]
+    },
+    {
+        "image_id": 401614,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000401614.jpg",
+        "generated_captions": {
+            "blip": "a cat is sitting on a toilet seat",
+            "gpt2": "a cat is sitting on the toilet seat ",
+            "pix2struct": "A woman is holding a phone that says \"Stick\"."
+        },
+        "original_coco_captions": [
+            "A cat crawling into a white toilet seat.",
+            "a white and black cat inside of a toilet",
+            "a black and white cat sticking its head in a toilet bowl",
+            "A black and white cat sticking it's head inside of a toilet.",
+            "a cat putting its head in a toilet pit"
+        ]
+    },
+    {
+        "image_id": 68878,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000068878.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on top of a car",
+            "gpt2": "a cat sitting on top of a car hood ",
+            "pix2struct": "A picture of a tree with the HPSTM 269 on the bottom."
+        },
+        "original_coco_captions": [
+            "A cat that is sitting on the hood of a car.",
+            "a cat sitting on the hood of a car",
+            "A grey cat sitting on the hood of black car.",
+            "Tabby cat sitting on the hood of a blue car.",
+            "a cat that is parked on a purple car"
+        ]
+    },
+    {
+        "image_id": 446409,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000446409.jpg",
+        "generated_captions": {
+            "blip": "a cat laying on a box next to a bicycle",
+            "gpt2": "a cat laying on a bicycle seat ",
+            "pix2struct": "A man wearing a shirt that says \"The Man\" is holding a bottle of beer."
+        },
+        "original_coco_captions": [
+            "A tabby cat laying on a cat scratcher in front of a bicycle wheel. ",
+            "A cat is falling asleep on top of a scratching pad.",
+            "a cat laying down next to a bike tire",
+            "A cat is resting underneath a bicycle wheel.",
+            "A cat is laying on a small piece of rough fabric"
+        ]
+    },
+    {
+        "image_id": 226360,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000226360.jpg",
+        "generated_captions": {
+            "blip": "a cat on a fence",
+            "gpt2": "a cat standing on top of a wooden fence ",
+            "pix2struct": "A wooden table with a sign that says \"The Garden\"."
+        },
+        "original_coco_captions": [
+            "A cat and a metal bowl on a wooden platform.",
+            "a black and white cat a fence and some silver bowls",
+            "A cat is looking in the bowl on the ledge",
+            "A gray and white cat peers into a pot left on the fence.",
+            "Cat drinking from metal bowl on top of wood fence."
+        ]
+    },
+    {
+        "image_id": 463825,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000463825.jpg",
+        "generated_captions": {
+            "blip": "a cat standing in a sink",
+            "gpt2": "a cat is standing in a bathroom sink ",
+            "pix2struct": "A man is holding a bottle of wine that says 'the man's' on it"
+        },
+        "original_coco_captions": [
+            "A cat climbing into a bathroom sink looking at someone",
+            "A cat looks up as it stands in the bathroom sink.",
+            "A large cat stands inside of a clean bathroom sink.",
+            "Cat is caught stepping in to the bathroom sink",
+            "a cute kitty cat in the sink of a bathroom near a brush and other items"
+        ]
+    },
+    {
+        "image_id": 466156,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000466156.jpg",
+        "generated_captions": {
+            "blip": "a cat standing on the hood of a car",
+            "gpt2": "a cat standing on top of a car ",
+            "pix2struct": "A train with the number 10 on the front of it."
+        },
+        "original_coco_captions": [
+            "The striped cat is sitting on top of the car.",
+            "a cat sitting on a car engine with the hood up",
+            "someone opened a hood on a car and he cat jumped up on the edge",
+            "Black cat sitting on the engine of a black car. ",
+            "A gray cat is walking next to a truck."
+        ]
+    },
+    {
+        "image_id": 7722,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000007722.jpg",
+        "generated_captions": {
+            "blip": "a cat is laying in a sink",
+            "gpt2": "a cat laying in a sink with its head in the water ",
+            "pix2struct": "A man is holding a book titled \"The Art of the Book\"."
+        },
+        "original_coco_captions": [
+            "A cat lying in a white sink in the bathroom. ",
+            "a siamese cat curled up in a sink",
+            "A cat is laying in the sink balled up.",
+            "A white cat is lying in a sink",
+            "A cat curled up, laying in a small sink."
+        ]
+    },
+    {
+        "image_id": 300732,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000300732.jpg",
+        "generated_captions": {
+            "blip": "a black and white cat",
+            "gpt2": "a black and white cat standing next to a bowl ",
+            "pix2struct": "A man wearing a black shirt that says 'the man's name'."
+        },
+        "original_coco_captions": [
+            "A black cat standing over a glass bowl.",
+            "A black and white cat sitting on top of a table.",
+            "A cat sitting in front of his food bowl looking at the camera.",
+            "A black and white defensively looking up by its bowl.",
+            "A black and white cat eating from a ceramic bowl."
+        ]
+    },
+    {
+        "image_id": 137412,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000137412.jpg",
+        "generated_captions": {
+            "blip": "a cat is sleeping on a laptop computer",
+            "gpt2": "a cat laying on a laptop computer ",
+            "pix2struct": "A man is holding a book titled Explore I Tagel."
+        },
+        "original_coco_captions": [
+            "A cat is laying in front of a laptop and a monitor.  ",
+            "A black-and-white tuxedo cat sleeping next to an open laptop computer.",
+            "A black and white car laying on a desk by a laptop computer.",
+            "A cat curled up sleeping on a desk beside a laptop ",
+            "Cat on desk sleeping with head on laptop computer."
+        ]
+    },
+    {
+        "image_id": 402473,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000402473.jpg",
+        "generated_captions": {
+            "blip": "two cats laying on top of a white sink",
+            "gpt2": "a cat and a cat laying on a wall ",
+            "pix2struct": "A man is holding a bottle of wine that says 'the wine of the world'."
+        },
+        "original_coco_captions": [
+            "there are two cats that are laying with each other",
+            "A couple of cats laying next to each other.",
+            "Two cats laying together on a bed or floor ",
+            "Two different color cats laying beside each other",
+            "two cats in a room next to a white wall "
+        ]
+    },
+    {
+        "image_id": 340004,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000340004.jpg",
+        "generated_captions": {
+            "blip": "a cat laying under a motorcycle",
+            "gpt2": "a cat laying on the ground next to a motorcycle ",
+            "pix2struct": "A Kawasaki brand phone is sitting on a table."
+        },
+        "original_coco_captions": [
+            "The cat is sitting beneath a motor bike.",
+            "A brown and gray dotted cat hiding under some ice cream cans",
+            "Cat peeking out from under a parked motorbike.",
+            "A cat lays under a motorcycle engine looking right at the camera",
+            "a cat sitting underneath motorcycle laying on the brick covered sidewalk"
+        ]
+    },
+    {
+        "image_id": 350075,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000350075.jpg",
+        "generated_captions": {
+            "blip": "two kittens in a bowl",
+            "gpt2": "a kitten is looking at a glass bowl ",
+            "pix2struct": "A man is holding a box of Claps."
+        },
+        "original_coco_captions": [
+            "A few kittens in a bowl in a white void",
+            "Two small kittens sitting in a glad bowl together. ",
+            "this is two kittens in a glass bowl",
+            "Two tabby kittens are snuggling in a clear glass bowl.",
+            "Two kittens are sitting in a bowl next to each other."
+        ]
+    },
+    {
+        "image_id": 342817,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000342817.jpg",
+        "generated_captions": {
+            "blip": "a cat sleeping on a laptop",
+            "gpt2": "a cat is laying on a table ",
+            "pix2struct": "A man is holding a baby and wearing a red shirt that says \"The Little One\"."
+        },
+        "original_coco_captions": [
+            "a orange colored cat peering down on some unknown object",
+            "A cat laying on top of a counter looking down.",
+            "Brown and white cat laying its head over couch. ",
+            "A close-up image of a cat looking intently at something outside of the image. ",
+            "a close up of a cat on a couch "
+        ]
+    },
+    {
+        "image_id": 437126,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000437126.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting in a car",
+            "gpt2": "a cat sitting on a car seat ",
+            "pix2struct": "A man is holding a bottle of wine that says 'the man's' on it"
+        },
+        "original_coco_captions": [
+            "A cat sitting on the back of a car seat.",
+            "The cat is looking over the car seat.",
+            "A cat looking inquisitively over the top of a car seat.",
+            "A black cat laying down on a car seat.",
+            "A grey cat leans over the back seat of a car."
+        ]
+    },
+    {
+        "image_id": 290868,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000290868.jpg",
+        "generated_captions": {
+            "blip": "a woman and a child in a kitchen",
+            "gpt2": "a woman and a child standing in a kitchen ",
+            "pix2struct": "A man is holding a bottle of wine and wearing a red shirt that says \"The New York"
+        },
+        "original_coco_captions": [
+            "A grandmother standing next to a child in a kitchen.",
+            "An older woman is standing in the kitchen with a child.",
+            "Baby trying to open wooden cabinets under the sink.",
+            "The little girl is trying hard to open the cabinets",
+            "A woman and child stand in the kitchen. "
+        ]
+    },
+    {
+        "image_id": 441165,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000441165.jpg",
+        "generated_captions": {
+            "blip": "a cat sleeping on top of a car",
+            "gpt2": "a cat laying on top of a car ",
+            "pix2struct": "A man is holding a bottle of wine that says 'the smoky' on"
+        },
+        "original_coco_captions": [
+            "A cat sleeping on the car made of metal",
+            "A cat sleeping on the roof of a car.",
+            "A small cat sitting on top of a parked car.",
+            "The cat is laying on top of the vehicle.",
+            "A multicolored cat taking a nap on the roof of a car."
+        ]
+    },
+    {
+        "image_id": 168543,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000168543.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on a toilet",
+            "gpt2": "a cat sitting on top of a toilet seat ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "A very cute cat sitting on a toilet.",
+            "A cat is sitting on the closed toilet seat. ",
+            "A cat is sitting on a toilet seat in a bathroom",
+            "A cat that is sitting on a toilet seat.",
+            "Cat sitting on toilet with tiled walls and decor"
+        ]
+    },
+    {
+        "image_id": 546378,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000546378.jpg",
+        "generated_captions": {
+            "blip": "a cat is sitting on a book shelf",
+            "gpt2": "a cat sitting on top of a book shelf ",
+            "pix2struct": "A man is holding a book titled The New International Webster"
+        },
+        "original_coco_captions": [
+            "A gray cat laying on top of a wooden book shelf.",
+            "A cat sleeping while sitting on top of a desk ",
+            "a cat resting on a shelf next to some books",
+            "A grey cat sleeping on a shelf behind books.",
+            "A grey cat sitting on a bookshelf. "
+        ]
+    },
+    {
+        "image_id": 488387,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000488387.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting on a motorcycle",
+            "gpt2": "a cat sitting on a motorcycle with a cat sitting on the back ",
+            "pix2struct": "A pair of scissors and a knife are next to each other."
+        },
+        "original_coco_captions": [
+            "A blue motor scooter with a cat sitting on it.",
+            "A cat sitting on a scooter parked below a window.",
+            "A cat is sitting on the seat of a blue motor-bike. ",
+            "A motorcycle with the front wheel locked and a cat sitting on the seat near a building.",
+            "A cat sits on the seat of a motorized scooter. "
+        ]
+    },
+    {
+        "image_id": 265313,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000265313.jpg",
+        "generated_captions": {
+            "blip": "two cats playing together",
+            "gpt2": "two cats are playing together on a wall ",
+            "pix2struct": "A woman is holding a bottle of wine that says 'the wine' on it."
+        },
+        "original_coco_captions": [
+            "Two cat lying on a floor playing with each other",
+            "Two cats laying down playing with each other.",
+            "Two cats lay next to each other and appear to be unhappy.",
+            "Two cats play fighting while laying on a white floor.",
+            "Two domestic cats engaged in a physical confrontation."
+        ]
+    },
+    {
+        "image_id": 190326,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000190326.jpg",
+        "generated_captions": {
+            "blip": "a cat on a motor",
+            "gpt2": "a cat sitting on the hood of a car ",
+            "pix2struct": "A man is holding a phone that says smart on it."
+        },
+        "original_coco_captions": [
+            "A cat standing on top of a car trunk next to a parked motorcycle.",
+            "A cat sitting on a car hood next to another cat sittiing on a scooter.",
+            "A cat is standing on the hood of a car and another cat is sitting on a motorcycle.",
+            "A couple of cats rest on tops of different vehicles.",
+            "Two cats sitting on a parked scooter and car."
+        ]
+    },
+    {
+        "image_id": 248381,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000248381.jpg",
+        "generated_captions": {
+            "blip": "a white cat eating out of a bowl",
+            "gpt2": "a cat standing on a kitchen floor eating a bowl ",
+            "pix2struct": "A bottle of wine is next to a glass."
+        },
+        "original_coco_captions": [
+            "A white kitten standing in front of a water bowl.",
+            "a cat on the ground eating food out of a bowl",
+            "A white cat looking into it's water bowl. ",
+            "A cat is looking at its water dish. ",
+            "A white cat staring at a green bowl filled with water."
+        ]
+    },
+    {
+        "image_id": 188651,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000188651.jpg",
+        "generated_captions": {
+            "blip": "a cat under a car",
+            "gpt2": "a cat sitting on the ground next to a car ",
+            "pix2struct": "A man is holding a phone that says 'c' on it."
+        },
+        "original_coco_captions": [
+            "The picture of a cat under a car.",
+            "A white and broncat is sitting under a car ",
+            "A cat lays on the ground underneath a vehicle.",
+            "a cat chillin under a car, asking to get run over",
+            "A white cat is sitting under a car."
+        ]
+    },
+    {
+        "image_id": 254045,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000254045.jpg",
+        "generated_captions": {
+            "blip": "a black and white cat",
+            "gpt2": "a black and white cat sitting on a toilet seat ",
+            "pix2struct": "A man wearing a shirt that says sty 0 on it."
+        },
+        "original_coco_captions": [
+            "A black and white cat sitting on top of a toilet seat.",
+            "A cat stands on the seat of a toilet.",
+            "One black and white colored cat sitting on top of the toilet.",
+            "A black cat is standing on the toilet looking at the camera. ",
+            "There is a tuxedo cat standing on a toilet seat"
+        ]
+    },
+    {
+        "image_id": 459598,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000459598.jpg",
+        "generated_captions": {
+            "blip": "a cat sitting in a bowl on a wooden floor",
+            "gpt2": "a cat sitting in a bowl on a table ",
+            "pix2struct": "A man is holding a coin that says 'the man's name'."
+        },
+        "original_coco_captions": [
+            "A cat sits curiously perched in an empty cup",
+            "A cat sits in a bowl on top of a table",
+            "Cat sitting in small bowl on wood flooring indoors.",
+            "A cat is sitting on a table in a bowl",
+            "a little cat that is sitting in a bowl"
+        ]
+    },
+    {
+        "image_id": 341659,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000341659.jpg",
+        "generated_captions": {
+            "blip": "a cat is sitting on the hood of a car",
+            "gpt2": "a cat sitting on top of a car hood ",
+            "pix2struct": "A man is holding a phone that says Jan on it."
+        },
+        "original_coco_captions": [
+            "A parked car with a cat laying on top of it.",
+            "A cat sitting on a car cleaning itself.",
+            "A cat laying on top of a white car.",
+            "A cat cleaning itself on the hood of an old car.",
+            "A cat gives itself a bath on the hood of a car."
+        ]
+    },
+    {
+        "image_id": 10363,
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000010363.jpg",
+        "generated_captions": {
+            "blip": "a cat standing on top of a car",
+            "gpt2": "a cat is sitting on top of a car ",
+            "pix2struct": "A man is sitting in front of a computer that says Infiniti."
+        },
+        "original_coco_captions": [
+            "A gray cat standing on top of a black car.",
+            "A cat standing on the hood of a car.",
+            "Grey color cat standing on hood of car in garage",
+            "A gray cat on the hood of a black car",
+            "A cat sitting on the hood of a parked black car in a garage."
+        ]
+    }
+]
