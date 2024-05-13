@@ -15,8 +15,8 @@ Thesis-code/ - Contains all source code files used in the thesis.<br />
 json_files_for_COCO/ - JSON output files for the COCO dataset.<br />
 json_files_for_FLICKR/ - JSON output files for the FLICKR dataset.<br />
 LICENSE - Licensing information for project use and distribution. <br />
-README.md - Repository overview and setup guide.
-
+README.md - Repository overview and setup guide. <br />
+requirements - required libraries and modules.
 
 ## Installation
 
