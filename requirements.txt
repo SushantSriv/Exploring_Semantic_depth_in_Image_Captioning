@@ -1,0 +1,22 @@
+collections; python_version < "3.8"  # collections is a built-in library and does not need to be installed for Python 3.8 or newer
+evaluate
+huggingface-evaluate
+transformers
+io; python_version < "3.8"  # io is also a built-in library and does not need to be installed for Python 3.8 or newer
+language_tool_python
+matplotlib
+nltk
+numpy
+os; python_version < "3.8"  # os is a built-in library
+pandas
+Pillow  # PIL can be installed via the Pillow package
+pickle; python_version < "3.8"  # pickle is a built-in library
+pycocoevalcap
+pycocotools
+scikit-image  # skimage can be installed via the scikit-image package
+scikit-learn  # sklearn can be installed via the scikit-learn package
+torch
+torchvision
+tqdm
+urllib; python_version < "3.8"  # urllib is a built-in library
+zipfile; python_version < "3.8"  # zipfile is a built-in library
